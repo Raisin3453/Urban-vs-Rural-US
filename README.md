@@ -9,10 +9,10 @@ Exploring the economic differences in rural and urban counties in the US based o
 # Data
 
 Main data set:
-“Income and Urban VS Rural For Each County in USA” accessed via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on 2025.01.10.
+“Income and Urban VS Rural For Each County in USA” accessed via [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/income-urban-vs-rural-for-each-county) on 2025.01.10.
 
 Additional data set for time series exploration:
-“House Property Sales Time Series” accessed via [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/income-urban-vs-rural-for-each-county) on 2025.01.29.
+“House Property Sales Time Series” accessed via [Kaggle](https://www.kaggle.com/datasets/htagholdings/property-sales) on 2025.01.29.
 
 [The US JSON file](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json)
 
