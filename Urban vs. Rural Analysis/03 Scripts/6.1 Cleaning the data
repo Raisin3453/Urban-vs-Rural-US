@@ -1,0 +1,1264 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "2caf69fe-ff38-4698-8b2c-1e61ead561a4",
+   "metadata": {},
+   "source": [
+    "# 00. Contents"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d48f5c4b-34c5-4fb5-8f4e-03edd7b5edc1",
+   "metadata": {},
+   "source": [
+    "### 01. Importing libraries"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "311ec9ce-b2c4-46bd-b601-9cb470551b93",
+   "metadata": {},
+   "source": [
+    "### 02. Importing data frames"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8d4b2548-2953-42ad-aafb-3e55cdddab35",
+   "metadata": {},
+   "source": [
+    "### 03. Checking the data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a4fa74d8-91d7-41b6-afd3-110cb4b4cbad",
+   "metadata": {},
+   "source": [
+    "#### Addressing column types"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "eb4cb007-0bf1-44db-bf27-9d77941d5b26",
+   "metadata": {},
+   "source": [
+    "#### Missing values"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7f155a0c-0ea7-4de8-93ba-99048d593ba5",
+   "metadata": {},
+   "source": [
+    "#### Duplicates"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b93aec73-45ef-4be2-8cf0-17d5e2f19af4",
+   "metadata": {},
+   "source": [
+    "#### Inconsistencies"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2f4aaca9-a71d-4771-8e96-22769ba66a67",
+   "metadata": {},
+   "source": [
+    "### 04. Exporting the cleaned data set"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "16663b47-8d7b-40da-93bb-a5afc83c9887",
+   "metadata": {},
+   "source": [
+    "# 01. Importing libraries"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "a4cfb0ab-5c64-4e80-8744-9089a03220ca",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "import os"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2b78372f-33db-4fe1-83fa-bbf31b8a047b",
+   "metadata": {},
+   "source": [
+    "# 02. Importing data frames"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "01952f25-d3ad-46ef-807c-5ead63b60d6c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Creating a path\n",
+    "\n",
+    "path = r'/Users/agne/Documents/Studies/Data Analysis/Study Materials/Advanced Analytics'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "e2d16657-5c81-44f8-a8a6-dcb2058d1b2e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_income = pd.read_csv(os.path.join(path, '6.1 Sourcing the Data', 'Income_Urban_VS_Rural.csv'))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8de012c6-d168-4102-938c-0e7011a92ff6",
+   "metadata": {},
+   "source": [
+    "# 03. Checking the data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "f1c10956-87f9-444b-a0e0-4da8e6981f3c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(3222, 8)"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_income.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "3c8787d1-1522-4e47-a181-29d533413b25",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>County</th>\n",
+       "      <th>State</th>\n",
+       "      <th>FIPS</th>\n",
+       "      <th>State FIPS Code</th>\n",
+       "      <th>County FIPS Code</th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "      <th>Urban-Rural</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>Autauga County</td>\n",
+       "      <td>Alabama</td>\n",
+       "      <td>1001</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>59285</td>\n",
+       "      <td>69841</td>\n",
+       "      <td>Urban</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Baldwin County</td>\n",
+       "      <td>Alabama</td>\n",
+       "      <td>1003</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>239945</td>\n",
+       "      <td>75019</td>\n",
+       "      <td>Urban</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>Barbour County</td>\n",
+       "      <td>Alabama</td>\n",
+       "      <td>1005</td>\n",
+       "      <td>1</td>\n",
+       "      <td>5</td>\n",
+       "      <td>24757</td>\n",
+       "      <td>44290</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>Bibb County</td>\n",
+       "      <td>Alabama</td>\n",
+       "      <td>1007</td>\n",
+       "      <td>1</td>\n",
+       "      <td>7</td>\n",
+       "      <td>22152</td>\n",
+       "      <td>51215</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>Blount County</td>\n",
+       "      <td>Alabama</td>\n",
+       "      <td>1009</td>\n",
+       "      <td>1</td>\n",
+       "      <td>9</td>\n",
+       "      <td>59292</td>\n",
+       "      <td>61096</td>\n",
+       "      <td>Urban</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "           County    State  FIPS  State FIPS Code  County FIPS Code  \\\n",
+       "0  Autauga County  Alabama  1001                1                 1   \n",
+       "1  Baldwin County  Alabama  1003                1                 3   \n",
+       "2  Barbour County  Alabama  1005                1                 5   \n",
+       "3     Bibb County  Alabama  1007                1                 7   \n",
+       "4   Blount County  Alabama  1009                1                 9   \n",
+       "\n",
+       "   Total Population  Median Household Income Urban-Rural  \n",
+       "0             59285                    69841       Urban  \n",
+       "1            239945                    75019       Urban  \n",
+       "2             24757                    44290       Rural  \n",
+       "3             22152                    51215       Rural  \n",
+       "4             59292                    61096       Urban  "
+      ]
+     },
+     "execution_count": 24,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking what columns are present\n",
+    "\n",
+    "df_income.head()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1a59f311-c7b4-4a16-b024-621147dabf95",
+   "metadata": {},
+   "source": [
+    "### Addressing column types"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "id": "796e886c-0325-44db-a833-f9f55516e2c6",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "County                     object\n",
+       "State                      object\n",
+       "FIPS                        int64\n",
+       "State FIPS Code             int64\n",
+       "County FIPS Code            int64\n",
+       "Total Population            int64\n",
+       "Median Household Income     int64\n",
+       "Urban-Rural                object\n",
+       "dtype: object"
+      ]
+     },
+     "execution_count": 26,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking what types of columns are present\n",
+    "\n",
+    "df_income.dtypes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "fc958812-84b1-43ed-9637-cab386f38e21",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Changing the FIPS type to string\n",
+    "df_income['FIPS'] = df_income['FIPS'].astype('str')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "f41b2783-a855-45eb-b91b-3d5945d1746a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Changing the State FIPS Code type to string\n",
+    "df_income['State FIPS Code'] = df_income['State FIPS Code'].astype('str')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "936fa7b9-f3a9-42b1-81b6-356fa12645d3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Changing the County FIPS Code type to string\n",
+    "df_income['County FIPS Code'] = df_income['County FIPS Code'].astype('str')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "f33b8525-f36e-4c5e-8e82-9309ba9d758c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "County                     object\n",
+       "State                      object\n",
+       "FIPS                       object\n",
+       "State FIPS Code            object\n",
+       "County FIPS Code           object\n",
+       "Total Population            int64\n",
+       "Median Household Income     int64\n",
+       "Urban-Rural                object\n",
+       "dtype: object"
+      ]
+     },
+     "execution_count": 34,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking if the changes were made\n",
+    "\n",
+    "df_income.dtypes"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "84274b2b-7513-4091-978b-57cd0a48106f",
+   "metadata": {},
+   "source": [
+    "All the columns have the correct type."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6fb09520-9639-4164-b9df-3f1bedea1540",
+   "metadata": {},
+   "source": [
+    "### Missing values"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "23dcba41-2d27-4d10-8156-bcaabd890d80",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "County                     0\n",
+       "State                      0\n",
+       "FIPS                       0\n",
+       "State FIPS Code            0\n",
+       "County FIPS Code           0\n",
+       "Total Population           0\n",
+       "Median Household Income    0\n",
+       "Urban-Rural                0\n",
+       "dtype: int64"
+      ]
+     },
+     "execution_count": 40,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking if there are any missing values\n",
+    "\n",
+    "df_income.isnull().sum()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "318365fc-6424-4772-8ff0-c2cc8a085f33",
+   "metadata": {},
+   "source": [
+    "None of the columns have missing values"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bdc0437b-a83f-443c-96eb-e319fbc71ad2",
+   "metadata": {},
+   "source": [
+    "### Duplicates"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "id": "213b8df5-1516-4c71-ad8f-33713d8078d5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Chekcing for duplicates\n",
+    "\n",
+    "df_dups = df_income[df_income.duplicated()]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "d5aae487-6f96-4a13-a546-4bf8191d8789",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>County</th>\n",
+       "      <th>State</th>\n",
+       "      <th>FIPS</th>\n",
+       "      <th>State FIPS Code</th>\n",
+       "      <th>County FIPS Code</th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "      <th>Urban-Rural</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "Empty DataFrame\n",
+       "Columns: [County, State, FIPS, State FIPS Code, County FIPS Code, Total Population, Median Household Income, Urban-Rural]\n",
+       "Index: []"
+      ]
+     },
+     "execution_count": 45,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_dups"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "56a012f4-b408-495d-8843-00101910c2e4",
+   "metadata": {},
+   "source": [
+    "No duplicates found in the data set."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c0c88a97-cddb-4c94-9ce0-e2f951fd0e37",
+   "metadata": {},
+   "source": [
+    "### Inconsistencies"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "31c73295-ee09-4307-92a9-1b7514915562",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>count</th>\n",
+       "      <td>3.222000e+03</td>\n",
+       "      <td>3.222000e+03</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>mean</th>\n",
+       "      <td>1.041721e+05</td>\n",
+       "      <td>-3.488154e+05</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>std</th>\n",
+       "      <td>3.296689e+05</td>\n",
+       "      <td>1.660872e+07</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>min</th>\n",
+       "      <td>4.300000e+01</td>\n",
+       "      <td>-6.666667e+08</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>25%</th>\n",
+       "      <td>1.098550e+04</td>\n",
+       "      <td>5.410725e+04</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>50%</th>\n",
+       "      <td>2.596700e+04</td>\n",
+       "      <td>6.314950e+04</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>75%</th>\n",
+       "      <td>6.752625e+04</td>\n",
+       "      <td>7.319900e+04</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>max</th>\n",
+       "      <td>9.848406e+06</td>\n",
+       "      <td>1.787070e+05</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "       Total Population  Median Household Income\n",
+       "count      3.222000e+03             3.222000e+03\n",
+       "mean       1.041721e+05            -3.488154e+05\n",
+       "std        3.296689e+05             1.660872e+07\n",
+       "min        4.300000e+01            -6.666667e+08\n",
+       "25%        1.098550e+04             5.410725e+04\n",
+       "50%        2.596700e+04             6.314950e+04\n",
+       "75%        6.752625e+04             7.319900e+04\n",
+       "max        9.848406e+06             1.787070e+05"
+      ]
+     },
+     "execution_count": 48,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking for value inconsistencies\n",
+    "\n",
+    "df_income.describe()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "294dc12a-8789-4228-9a70-51bad0810bc2",
+   "metadata": {},
+   "source": [
+    "The minimum value seems to be wrong (-666666). This needs to be replaced."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "id": "053eb506-6d21-4478-959c-a331f03c5f9b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>County</th>\n",
+       "      <th>State</th>\n",
+       "      <th>FIPS</th>\n",
+       "      <th>State FIPS Code</th>\n",
+       "      <th>County FIPS Code</th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "      <th>Urban-Rural</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>1753</th>\n",
+       "      <td>Esmeralda County</td>\n",
+       "      <td>Nevada</td>\n",
+       "      <td>32009</td>\n",
+       "      <td>32</td>\n",
+       "      <td>9</td>\n",
+       "      <td>962</td>\n",
+       "      <td>-666666666</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2655</th>\n",
+       "      <td>Kenedy County</td>\n",
+       "      <td>Texas</td>\n",
+       "      <td>48261</td>\n",
+       "      <td>48</td>\n",
+       "      <td>261</td>\n",
+       "      <td>52</td>\n",
+       "      <td>-666666666</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                County   State   FIPS State FIPS Code County FIPS Code  \\\n",
+       "1753  Esmeralda County  Nevada  32009              32                9   \n",
+       "2655     Kenedy County   Texas  48261              48              261   \n",
+       "\n",
+       "      Total Population  Median Household Income Urban-Rural  \n",
+       "1753               962               -666666666       Rural  \n",
+       "2655                52               -666666666       Rural  "
+      ]
+     },
+     "execution_count": 53,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Find rows where 'Median Household Income' has negative values\n",
+    "negative_values = df_income[df_income['Median Household Income'] < 0]\n",
+    "\n",
+    "negative_values"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 81,
+   "id": "3977b31d-960a-4e01-b33d-3c4f98270045",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "65046.64906832298"
+      ]
+     },
+     "execution_count": 81,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Calculating the average income (without the negative value)\n",
+    "\n",
+    "df_average = df_income[df_income['Median Household Income'] > 0]['Median Household Income'].mean()\n",
+    "\n",
+    "df_average"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 97,
+   "id": "69940502-00f8-4fcf-b19d-fb767ce13298",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Locate and replace negative value using .loc[]\n",
+    "\n",
+    "df_income.loc[df_income['Median Household Income'] < 0, 'Median Household Income'] = 65047"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 103,
+   "id": "ea9a1260-5384-493b-83ea-4dd49a1176f1",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>County</th>\n",
+       "      <th>State</th>\n",
+       "      <th>FIPS</th>\n",
+       "      <th>State FIPS Code</th>\n",
+       "      <th>County FIPS Code</th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "      <th>Urban-Rural</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "Empty DataFrame\n",
+       "Columns: [County, State, FIPS, State FIPS Code, County FIPS Code, Total Population, Median Household Income, Urban-Rural]\n",
+       "Index: []"
+      ]
+     },
+     "execution_count": 103,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Check if 'Median Household Income' still has negative values\n",
+    "negative_values = df_income[df_income['Median Household Income'] < 0]\n",
+    "\n",
+    "negative_values"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 105,
+   "id": "18f17e3d-4eb2-44e1-ae67-ad14e379ba5f",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>County</th>\n",
+       "      <th>State</th>\n",
+       "      <th>FIPS</th>\n",
+       "      <th>State FIPS Code</th>\n",
+       "      <th>County FIPS Code</th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "      <th>Urban-Rural</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>1753</th>\n",
+       "      <td>Esmeralda County</td>\n",
+       "      <td>Nevada</td>\n",
+       "      <td>32009</td>\n",
+       "      <td>32</td>\n",
+       "      <td>9</td>\n",
+       "      <td>962</td>\n",
+       "      <td>65047</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2655</th>\n",
+       "      <td>Kenedy County</td>\n",
+       "      <td>Texas</td>\n",
+       "      <td>48261</td>\n",
+       "      <td>48</td>\n",
+       "      <td>261</td>\n",
+       "      <td>52</td>\n",
+       "      <td>65047</td>\n",
+       "      <td>Rural</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                County   State   FIPS State FIPS Code County FIPS Code  \\\n",
+       "1753  Esmeralda County  Nevada  32009              32                9   \n",
+       "2655     Kenedy County   Texas  48261              48              261   \n",
+       "\n",
+       "      Total Population  Median Household Income Urban-Rural  \n",
+       "1753               962                    65047       Rural  \n",
+       "2655                52                    65047       Rural  "
+      ]
+     },
+     "execution_count": 105,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Find if the replacement of the values are correct\n",
+    "\n",
+    "averages = df_income[df_income['Median Household Income'] == 65047]\n",
+    "\n",
+    "averages"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 107,
+   "id": "72776967-e6f6-4bd7-8b80-039fb8bf0fb3",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Total Population</th>\n",
+       "      <th>Median Household Income</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>count</th>\n",
+       "      <td>3.222000e+03</td>\n",
+       "      <td>3222.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>mean</th>\n",
+       "      <td>1.041721e+05</td>\n",
+       "      <td>65046.649286</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>std</th>\n",
+       "      <td>3.296689e+05</td>\n",
+       "      <td>18382.973465</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>min</th>\n",
+       "      <td>4.300000e+01</td>\n",
+       "      <td>16170.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>25%</th>\n",
+       "      <td>1.098550e+04</td>\n",
+       "      <td>54114.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>50%</th>\n",
+       "      <td>2.596700e+04</td>\n",
+       "      <td>63180.500000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>75%</th>\n",
+       "      <td>6.752625e+04</td>\n",
+       "      <td>73199.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>max</th>\n",
+       "      <td>9.848406e+06</td>\n",
+       "      <td>178707.000000</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "       Total Population  Median Household Income\n",
+       "count      3.222000e+03              3222.000000\n",
+       "mean       1.041721e+05             65046.649286\n",
+       "std        3.296689e+05             18382.973465\n",
+       "min        4.300000e+01             16170.000000\n",
+       "25%        1.098550e+04             54114.000000\n",
+       "50%        2.596700e+04             63180.500000\n",
+       "75%        6.752625e+04             73199.000000\n",
+       "max        9.848406e+06            178707.000000"
+      ]
+     },
+     "execution_count": 107,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking for value inconsistencies again\n",
+    "\n",
+    "df_income.describe()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dcdefb60-5c54-429d-8a76-ba7ad77d88b5",
+   "metadata": {},
+   "source": [
+    "There seems to be no inconsistencies now."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "98f2c9ee-c0eb-41e8-bfdc-34b8297935f7",
+   "metadata": {},
+   "source": [
+    "### Identifying relevant information"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 132,
+   "id": "a10ecf99-5c06-4720-9642-cf7c4e99ccf5",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "State\n",
+       "Texas                   254\n",
+       "Georgia                 159\n",
+       "Virginia                133\n",
+       "Kentucky                120\n",
+       "Missouri                115\n",
+       "Kansas                  105\n",
+       "Illinois                102\n",
+       "North Carolina          100\n",
+       "Iowa                     99\n",
+       "Tennessee                95\n",
+       "Nebraska                 93\n",
+       "Indiana                  92\n",
+       "Ohio                     88\n",
+       "Minnesota                87\n",
+       "Michigan                 83\n",
+       "Mississippi              82\n",
+       "Puerto Rico              78\n",
+       "Oklahoma                 77\n",
+       "Arkansas                 75\n",
+       "Wisconsin                72\n",
+       "Pennsylvania             67\n",
+       "Alabama                  67\n",
+       "Florida                  67\n",
+       "South Dakota             66\n",
+       "Louisiana                64\n",
+       "Colorado                 64\n",
+       "New York                 62\n",
+       "California               58\n",
+       "Montana                  56\n",
+       "West Virginia            55\n",
+       "North Dakota             53\n",
+       "South Carolina           46\n",
+       "Idaho                    44\n",
+       "Washington               39\n",
+       "Oregon                   36\n",
+       "New Mexico               33\n",
+       "Alaska                   30\n",
+       "Utah                     29\n",
+       "Maryland                 24\n",
+       "Wyoming                  23\n",
+       "New Jersey               21\n",
+       "Nevada                   17\n",
+       "Maine                    16\n",
+       "Arizona                  15\n",
+       "Massachusetts            14\n",
+       "Vermont                  14\n",
+       "New Hampshire            10\n",
+       "Connecticut               9\n",
+       "Rhode Island              5\n",
+       "Hawaii                    5\n",
+       "Delaware                  3\n",
+       "District of Columbia      1\n",
+       "Name: count, dtype: int64"
+      ]
+     },
+     "execution_count": 132,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_income['State'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7cd06f08-8ffe-4e30-b871-78f02bd5c84d",
+   "metadata": {},
+   "source": [
+    "Puerto Rico is not necessary for this research.# Remove rows where Column1 has the value -5\n",
+    "df = df.loc[df['Column1'] != -5]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 139,
+   "id": "2811eb8c-67b8-40e2-b24c-01506f0ad9ae",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Remove rows from 'State' where the value is 'Puerto Rico'\n",
+    "\n",
+    "df_income_clean = df_income.loc[df_income['State'] != 'Puerto Rico']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 143,
+   "id": "03ddc400-6d93-42ea-926d-ef8670a52764",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "State\n",
+       "Texas                   254\n",
+       "Georgia                 159\n",
+       "Virginia                133\n",
+       "Kentucky                120\n",
+       "Missouri                115\n",
+       "Kansas                  105\n",
+       "Illinois                102\n",
+       "North Carolina          100\n",
+       "Iowa                     99\n",
+       "Tennessee                95\n",
+       "Nebraska                 93\n",
+       "Indiana                  92\n",
+       "Ohio                     88\n",
+       "Minnesota                87\n",
+       "Michigan                 83\n",
+       "Mississippi              82\n",
+       "Oklahoma                 77\n",
+       "Arkansas                 75\n",
+       "Wisconsin                72\n",
+       "Pennsylvania             67\n",
+       "Alabama                  67\n",
+       "Florida                  67\n",
+       "South Dakota             66\n",
+       "Colorado                 64\n",
+       "Louisiana                64\n",
+       "New York                 62\n",
+       "California               58\n",
+       "Montana                  56\n",
+       "West Virginia            55\n",
+       "North Dakota             53\n",
+       "South Carolina           46\n",
+       "Idaho                    44\n",
+       "Washington               39\n",
+       "Oregon                   36\n",
+       "New Mexico               33\n",
+       "Alaska                   30\n",
+       "Utah                     29\n",
+       "Maryland                 24\n",
+       "Wyoming                  23\n",
+       "New Jersey               21\n",
+       "Nevada                   17\n",
+       "Maine                    16\n",
+       "Arizona                  15\n",
+       "Vermont                  14\n",
+       "Massachusetts            14\n",
+       "New Hampshire            10\n",
+       "Connecticut               9\n",
+       "Rhode Island              5\n",
+       "Hawaii                    5\n",
+       "Delaware                  3\n",
+       "District of Columbia      1\n",
+       "Name: count, dtype: int64"
+      ]
+     },
+     "execution_count": 143,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking the results\n",
+    "\n",
+    "df_income_clean['State'].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 147,
+   "id": "3a0941da-c41b-4fb7-9752-7e0cca163574",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(3144, 8)"
+      ]
+     },
+     "execution_count": 147,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Checking results again\n",
+    "\n",
+    "df_income_clean.shape"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d5b71c74-14e6-4994-bb76-b3d118a459f6",
+   "metadata": {},
+   "source": [
+    "# 04. Exporting the cleaned data set"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 151,
+   "id": "0862c255-8cc2-4e33-b153-0fd0bfb18c9f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Exporting the data set as the clean version\n",
+    "\n",
+    "df_income_clean.to_csv(os.path.join(path, '6.1 Sourcing the Data', 'cleaned_income.csv'))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "27d04904-7cdd-4a00-8934-601b060e0b33",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

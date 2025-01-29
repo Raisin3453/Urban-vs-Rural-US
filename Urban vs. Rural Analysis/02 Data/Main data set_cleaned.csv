@@ -1,0 +1,3145 @@
+,County,State,FIPS,State FIPS Code,County FIPS Code,Total Population,Median Household Income,Urban-Rural
+0,Autauga County,Alabama,1001,1,1,59285,69841,Urban
+1,Baldwin County,Alabama,1003,1,3,239945,75019,Urban
+2,Barbour County,Alabama,1005,1,5,24757,44290,Rural
+3,Bibb County,Alabama,1007,1,7,22152,51215,Rural
+4,Blount County,Alabama,1009,1,9,59292,61096,Urban
+5,Bullock County,Alabama,1011,1,11,10157,36723,Rural
+6,Butler County,Alabama,1013,1,13,18807,44881,Rural
+7,Calhoun County,Alabama,1015,1,15,116141,55826,Urban
+8,Chambers County,Alabama,1017,1,17,34450,49295,Urban
+9,Cherokee County,Alabama,1019,1,19,25224,50769,Rural
+10,Chilton County,Alabama,1021,1,21,45500,61873,Urban
+11,Choctaw County,Alabama,1023,1,23,12525,44483,Rural
+12,Clarke County,Alabama,1025,1,25,22802,49167,Rural
+13,Clay County,Alabama,1027,1,27,14188,51852,Rural
+14,Cleburne County,Alabama,1029,1,29,15254,53319,Rural
+15,Coffee County,Alabama,1031,1,31,54231,64672,Urban
+16,Colbert County,Alabama,1033,1,33,57648,56736,Urban
+17,Conecuh County,Alabama,1035,1,35,11411,42266,Rural
+18,Coosa County,Alabama,1037,1,37,10323,57063,Rural
+19,Covington County,Alabama,1039,1,39,37647,50886,Urban
+20,Crenshaw County,Alabama,1041,1,41,13144,49040,Rural
+21,Cullman County,Alabama,1043,1,43,89463,60916,Urban
+22,Dale County,Alabama,1045,1,45,49516,53955,Urban
+23,Dallas County,Alabama,1047,1,47,37536,36810,Urban
+24,DeKalb County,Alabama,1049,1,49,71946,51149,Urban
+25,Elmore County,Alabama,1051,1,51,88669,75553,Urban
+26,Escambia County,Alabama,1053,1,53,36695,44447,Urban
+27,Etowah County,Alabama,1055,1,55,103208,53070,Urban
+28,Fayette County,Alabama,1057,1,57,16173,50733,Rural
+29,Franklin County,Alabama,1059,1,59,31978,51493,Urban
+30,Geneva County,Alabama,1061,1,61,26726,50951,Urban
+31,Greene County,Alabama,1063,1,63,7589,31495,Rural
+32,Hale County,Alabama,1065,1,65,14749,41325,Rural
+33,Henry County,Alabama,1067,1,67,17450,60135,Rural
+34,Houston County,Alabama,1069,1,69,107628,57531,Urban
+35,Jackson County,Alabama,1071,1,71,52839,49454,Urban
+36,Jefferson County,Alabama,1073,1,73,669744,64589,Urban
+37,Lamar County,Alabama,1075,1,75,13809,47447,Rural
+38,Lauderdale County,Alabama,1077,1,77,95037,59082,Urban
+39,Lawrence County,Alabama,1079,1,79,33182,60040,Urban
+40,Lee County,Alabama,1081,1,81,177663,61123,Urban
+41,Limestone County,Alabama,1083,1,83,107577,83534,Urban
+42,Lowndes County,Alabama,1085,1,85,10008,35160,Rural
+43,Macon County,Alabama,1087,1,87,18951,45951,Rural
+44,Madison County,Alabama,1089,1,89,397135,83528,Urban
+45,Marengo County,Alabama,1091,1,91,19027,44205,Rural
+46,Marion County,Alabama,1093,1,93,29190,50714,Urban
+47,Marshall County,Alabama,1095,1,95,98712,60946,Urban
+48,Mobile County,Alabama,1097,1,97,413162,58119,Urban
+49,Monroe County,Alabama,1099,1,99,19580,40225,Rural
+50,Montgomery County,Alabama,1101,1,101,227197,58153,Urban
+51,Morgan County,Alabama,1103,1,103,123742,64858,Urban
+52,Perry County,Alabama,1105,1,105,8231,34368,Rural
+53,Pickens County,Alabama,1107,1,107,18843,47014,Rural
+54,Pike County,Alabama,1109,1,109,32953,47961,Urban
+55,Randolph County,Alabama,1111,1,111,22310,51551,Rural
+56,Russell County,Alabama,1113,1,113,58858,50046,Urban
+57,St. Clair County,Alabama,1115,1,115,92903,78993,Urban
+58,Shelby County,Alabama,1117,1,117,226955,93543,Urban
+59,Sumter County,Alabama,1119,1,119,12020,37981,Rural
+60,Talladega County,Alabama,1121,1,121,81170,56249,Urban
+61,Tallapoosa County,Alabama,1123,1,123,41070,57185,Urban
+62,Tuscaloosa County,Alabama,1125,1,125,234036,63947,Urban
+63,Walker County,Alabama,1127,1,127,64886,54509,Urban
+64,Washington County,Alabama,1129,1,129,15270,60503,Rural
+65,Wilcox County,Alabama,1131,1,131,10347,42236,Rural
+66,Winston County,Alabama,1133,1,133,23637,48032,Rural
+67,Aleutians East Borough,Alaska,2013,2,13,3423,72692,Rural
+68,Aleutians West Census Area,Alaska,2016,2,16,5178,107344,Rural
+69,Anchorage Municipality,Alaska,2020,2,20,289069,98152,Urban
+70,Bethel Census Area,Alaska,2050,2,50,18487,70616,Rural
+71,Bristol Bay Borough,Alaska,2060,2,60,878,100625,Rural
+72,Chugach Census Area,Alaska,2063,2,63,6964,88565,Rural
+73,Copper River Census Area,Alaska,2066,2,66,2626,75053,Rural
+74,Denali Borough,Alaska,2068,2,68,2029,88935,Rural
+75,Dillingham Census Area,Alaska,2070,2,70,4780,74250,Rural
+76,Fairbanks North Star Borough,Alaska,2090,2,90,95555,84722,Urban
+77,Haines Borough,Alaska,2100,2,100,2077,72607,Rural
+78,Hoonah-Angoon Census Area,Alaska,2105,2,105,2313,62500,Rural
+79,Juneau City and Borough,Alaska,2110,2,110,31969,100513,Urban
+80,Kenai Peninsula Borough,Alaska,2122,2,122,59843,77722,Urban
+81,Ketchikan Gateway Borough,Alaska,2130,2,130,13870,89155,Rural
+82,Kodiak Island Borough,Alaska,2150,2,150,12878,83716,Rural
+83,Kusilvak Census Area,Alaska,2158,2,158,8277,48233,Rural
+84,Lake and Peninsula Borough,Alaska,2164,2,164,1007,64000,Rural
+85,Matanuska-Susitna Borough,Alaska,2170,2,170,110677,90625,Urban
+86,Nome Census Area,Alaska,2180,2,180,9925,76643,Rural
+87,North Slope Borough,Alaska,2185,2,185,10891,86313,Rural
+88,Northwest Arctic Borough,Alaska,2188,2,188,7611,81298,Rural
+89,Petersburg Borough,Alaska,2195,2,195,3394,77026,Rural
+90,Prince of Wales-Hyder Census Area,Alaska,2198,2,198,5730,59079,Rural
+91,Sitka City and Borough,Alaska,2220,2,220,8393,101207,Rural
+92,Skagway Municipality,Alaska,2230,2,230,1308,78594,Rural
+93,Southeast Fairbanks Census Area,Alaska,2240,2,240,6936,74223,Rural
+94,Wrangell City and Borough,Alaska,2275,2,275,2106,64545,Rural
+95,Yakutat City and Borough,Alaska,2282,2,282,506,80625,Rural
+96,Yukon-Koyukuk Census Area,Alaska,2290,2,290,5271,52642,Rural
+97,Apache County,Arizona,4001,4,1,65680,40338,Urban
+98,Cochise County,Arizona,4003,4,3,125458,58970,Urban
+99,Coconino County,Arizona,4005,4,5,144643,69748,Urban
+100,Gila County,Arizona,4007,4,7,53610,59089,Urban
+101,Graham County,Arizona,4009,4,9,38860,67326,Urban
+102,Greenlee County,Arizona,4011,4,11,9452,75239,Rural
+103,La Paz County,Arizona,4012,4,12,16605,49506,Rural
+104,Maricopa County,Arizona,4013,4,13,4491987,85518,Urban
+105,Mohave County,Arizona,4015,4,15,217420,55799,Urban
+106,Navajo County,Arizona,4017,4,17,107744,52752,Urban
+107,Pima County,Arizona,4019,4,19,1049947,67929,Urban
+108,Pinal County,Arizona,4021,4,21,449219,77588,Urban
+109,Santa Cruz County,Arizona,4023,4,23,48209,53614,Urban
+110,Yavapai County,Arizona,4025,4,25,241656,66106,Urban
+111,Yuma County,Arizona,4027,4,27,207685,60417,Urban
+112,Arkansas County,Arkansas,5001,5,1,16773,60831,Rural
+113,Ashley County,Arkansas,5003,5,3,18722,44481,Rural
+114,Baxter County,Arkansas,5005,5,5,42150,48427,Urban
+115,Benton County,Arkansas,5007,5,7,294541,89879,Urban
+116,Boone County,Arkansas,5009,5,9,37896,54195,Urban
+117,Bradley County,Arkansas,5011,5,11,10354,39565,Rural
+118,Calhoun County,Arkansas,5013,5,13,4717,63654,Rural
+119,Carroll County,Arkansas,5015,5,15,28526,55187,Urban
+120,Chicot County,Arkansas,5017,5,17,9997,39683,Rural
+121,Clark County,Arkansas,5019,5,19,21378,50985,Rural
+122,Clay County,Arkansas,5021,5,21,14399,48500,Rural
+123,Cleburne County,Arkansas,5023,5,23,25048,55979,Rural
+124,Cleveland County,Arkansas,5025,5,25,7491,50509,Rural
+125,Columbia County,Arkansas,5027,5,27,22527,47363,Rural
+126,Conway County,Arkansas,5029,5,29,20872,51212,Rural
+127,Craighead County,Arkansas,5031,5,31,112097,57615,Urban
+128,Crawford County,Arkansas,5033,5,33,60792,60362,Urban
+129,Crittenden County,Arkansas,5035,5,35,47609,54271,Urban
+130,Cross County,Arkansas,5037,5,37,16681,47012,Rural
+131,Dallas County,Arkansas,5039,5,39,6351,44694,Rural
+132,Desha County,Arkansas,5041,5,41,11041,36064,Rural
+133,Drew County,Arkansas,5043,5,43,17143,41071,Rural
+134,Faulkner County,Arkansas,5045,5,45,126001,65071,Urban
+135,Franklin County,Arkansas,5047,5,47,17220,51919,Rural
+136,Fulton County,Arkansas,5049,5,49,12239,38941,Rural
+137,Garland County,Arkansas,5051,5,51,100062,55409,Urban
+138,Grant County,Arkansas,5053,5,53,18111,72512,Rural
+139,Greene County,Arkansas,5055,5,55,46182,56793,Urban
+140,Hempstead County,Arkansas,5057,5,57,19778,47654,Rural
+141,Hot Spring County,Arkansas,5059,5,59,33142,52644,Urban
+142,Howard County,Arkansas,5061,5,61,12701,44492,Rural
+143,Independence County,Arkansas,5063,5,63,38120,56009,Urban
+144,Izard County,Arkansas,5065,5,65,13866,47728,Rural
+145,Jackson County,Arkansas,5067,5,67,16775,41215,Rural
+146,Jefferson County,Arkansas,5069,5,69,65780,48552,Urban
+147,Johnson County,Arkansas,5071,5,71,25932,44808,Rural
+148,Lafayette County,Arkansas,5073,5,73,6211,37237,Rural
+149,Lawrence County,Arkansas,5075,5,75,16265,44164,Rural
+150,Lee County,Arkansas,5077,5,77,8511,36860,Rural
+151,Lincoln County,Arkansas,5079,5,79,12966,51667,Rural
+152,Little River County,Arkansas,5081,5,81,11959,52241,Rural
+153,Logan County,Arkansas,5083,5,83,21240,54237,Rural
+154,Lonoke County,Arkansas,5085,5,85,74747,71449,Urban
+155,Madison County,Arkansas,5087,5,87,17032,53888,Rural
+156,Marion County,Arkansas,5089,5,89,17076,46953,Rural
+157,Miller County,Arkansas,5091,5,91,42588,49983,Urban
+158,Mississippi County,Arkansas,5093,5,93,39749,53428,Urban
+159,Monroe County,Arkansas,5095,5,95,6681,43955,Rural
+160,Montgomery County,Arkansas,5097,5,97,8571,49015,Rural
+161,Nevada County,Arkansas,5099,5,99,8228,41761,Rural
+162,Newton County,Arkansas,5101,5,101,7175,47395,Rural
+163,Ouachita County,Arkansas,5103,5,103,22317,49838,Rural
+164,Perry County,Arkansas,5105,5,105,10073,60078,Rural
+165,Phillips County,Arkansas,5107,5,107,15910,38874,Rural
+166,Pike County,Arkansas,5109,5,109,10182,51000,Rural
+167,Poinsett County,Arkansas,5111,5,111,22740,47188,Rural
+168,Polk County,Arkansas,5113,5,113,19348,49252,Rural
+169,Pope County,Arkansas,5115,5,115,63830,54606,Urban
+170,Prairie County,Arkansas,5117,5,117,8162,51094,Rural
+171,Pulaski County,Arkansas,5119,5,119,398949,60385,Urban
+172,Randolph County,Arkansas,5121,5,121,18733,52838,Rural
+173,St. Francis County,Arkansas,5123,5,123,22740,41784,Rural
+174,Saline County,Arkansas,5125,5,125,125724,76534,Urban
+175,Scott County,Arkansas,5127,5,127,9839,45955,Rural
+176,Searcy County,Arkansas,5129,5,129,7861,41978,Rural
+177,Sebastian County,Arkansas,5131,5,131,128448,56450,Urban
+178,Sevier County,Arkansas,5133,5,133,15797,51641,Rural
+179,Sharp County,Arkansas,5135,5,135,17597,42950,Rural
+180,Stone County,Arkansas,5137,5,137,12474,38531,Rural
+181,Union County,Arkansas,5139,5,139,38368,50221,Urban
+182,Van Buren County,Arkansas,5141,5,141,15936,47266,Rural
+183,Washington County,Arkansas,5143,5,143,251863,66426,Urban
+184,White County,Arkansas,5145,5,145,77395,53435,Urban
+185,Woodruff County,Arkansas,5147,5,147,6157,49982,Rural
+186,Yell County,Arkansas,5149,5,149,20195,58870,Rural
+187,Alameda County,California,6001,6,1,1651949,126240,Urban
+188,Alpine County,California,6003,6,3,1695,110781,Rural
+189,Amador County,California,6005,6,5,41029,81526,Urban
+190,Butte County,California,6007,6,7,209470,68574,Urban
+191,Calaveras County,California,6009,6,9,45995,79877,Urban
+192,Colusa County,California,6011,6,11,21895,75149,Rural
+193,Contra Costa County,California,6013,6,13,1161458,125727,Urban
+194,Del Norte County,California,6015,6,15,27293,66780,Urban
+195,El Dorado County,California,6017,6,17,192299,106190,Urban
+196,Fresno County,California,6019,6,19,1012152,71434,Urban
+197,Glenn County,California,6021,6,21,28623,70487,Urban
+198,Humboldt County,California,6023,6,23,135418,61135,Urban
+199,Imperial County,California,6025,6,25,179319,56393,Urban
+200,Inyo County,California,6027,6,27,18803,72432,Rural
+201,Kern County,California,6029,6,29,910433,67660,Urban
+202,Kings County,California,6031,6,31,152830,68750,Urban
+203,Lake County,California,6033,6,33,68139,58738,Urban
+204,Lassen County,California,6035,6,35,31177,64395,Urban
+205,Los Angeles County,California,6037,6,37,9848406,87760,Urban
+206,Madera County,California,6039,6,39,158790,75496,Urban
+207,Marin County,California,6041,6,41,258765,142785,Urban
+208,Mariposa County,California,6043,6,43,17060,65378,Rural
+209,Mendocino County,California,6045,6,45,90709,64688,Urban
+210,Merced County,California,6047,6,47,285597,65044,Urban
+211,Modoc County,California,6049,6,49,8646,56648,Rural
+212,Mono County,California,6051,6,51,13169,86953,Rural
+213,Monterey County,California,6053,6,53,435834,94486,Urban
+214,Napa County,California,6055,6,55,136070,108970,Urban
+215,Nevada County,California,6057,6,57,102452,84905,Urban
+216,Orange County,California,6059,6,59,3164063,113702,Urban
+217,Placer County,California,6061,6,61,412435,114678,Urban
+218,Plumas County,California,6063,6,63,19607,64946,Rural
+219,Riverside County,California,6065,6,65,2449909,89672,Urban
+220,Sacramento County,California,6067,6,67,1584047,88724,Urban
+221,San Benito County,California,6069,6,69,66056,108289,Urban
+222,San Bernardino County,California,6071,6,71,2187816,82184,Urban
+223,San Diego County,California,6073,6,73,3282782,102285,Urban
+224,San Francisco County,California,6075,6,75,836321,141446,Urban
+225,San Joaquin County,California,6077,6,77,787416,88531,Urban
+226,San Luis Obispo County,California,6079,6,79,281486,93398,Urban
+227,San Mateo County,California,6081,6,81,745100,156000,Urban
+228,Santa Barbara County,California,6083,6,83,443975,95977,Urban
+229,Santa Clara County,California,6085,6,85,1903297,159674,Urban
+230,Santa Cruz County,California,6087,6,87,266021,109266,Urban
+231,Shasta County,California,6089,6,89,181554,71931,Urban
+232,Sierra County,California,6091,6,91,2731,60000,Rural
+233,Siskiyou County,California,6093,6,93,43834,55499,Urban
+234,Solano County,California,6095,6,95,450824,99994,Urban
+235,Sonoma County,California,6097,6,97,485642,102840,Urban
+236,Stanislaus County,California,6099,6,99,552250,79661,Urban
+237,Sutter County,California,6101,6,101,98971,75450,Urban
+238,Tehama County,California,6103,6,103,65520,61834,Urban
+239,Trinity County,California,6105,6,105,15886,53498,Rural
+240,Tulare County,California,6107,6,107,475774,69489,Urban
+241,Tuolumne County,California,6109,6,109,54873,72259,Urban
+242,Ventura County,California,6111,6,111,838259,107327,Urban
+243,Yolo County,California,6113,6,113,217782,88818,Urban
+244,Yuba County,California,6115,6,115,83079,73313,Urban
+245,Adams County,Colorado,8001,8,1,524408,91387,Urban
+246,Alamosa County,Colorado,8003,8,3,16515,51445,Rural
+247,Arapahoe County,Colorado,8005,8,5,655709,97215,Urban
+248,Archuleta County,Colorado,8007,8,7,13730,76524,Rural
+249,Baca County,Colorado,8009,8,9,3460,40380,Rural
+250,Bent County,Colorado,8011,8,11,5524,49194,Rural
+251,Boulder County,Colorado,8013,8,13,328317,102772,Urban
+252,Broomfield County,Colorado,8014,8,14,75110,121025,Urban
+253,Chaffee County,Colorado,8015,8,15,19876,70909,Rural
+254,Cheyenne County,Colorado,8017,8,17,1732,67768,Rural
+255,Clear Creek County,Colorado,8019,8,19,9358,96667,Rural
+256,Conejos County,Colorado,8021,8,21,7536,47209,Rural
+257,Costilla County,Colorado,8023,8,23,3571,36519,Rural
+258,Crowley County,Colorado,8025,8,25,5734,47563,Rural
+259,Custer County,Colorado,8027,8,27,5073,72700,Rural
+260,Delta County,Colorado,8029,8,29,31353,58330,Urban
+261,Denver County,Colorado,8031,8,31,713734,91681,Urban
+262,Dolores County,Colorado,8033,8,33,2385,70490,Rural
+263,Douglas County,Colorado,8035,8,35,368283,145737,Urban
+264,Eagle County,Colorado,8037,8,37,55374,103174,Urban
+265,Elbert County,Colorado,8039,8,39,27152,129477,Urban
+266,El Paso County,Colorado,8041,8,41,736008,87470,Urban
+267,Fremont County,Colorado,8043,8,43,49394,61027,Urban
+268,Garfield County,Colorado,8045,8,45,62034,86172,Urban
+269,Gilpin County,Colorado,8047,8,47,5877,88654,Rural
+270,Grand County,Colorado,8049,8,49,15794,84558,Rural
+271,Gunnison County,Colorado,8051,8,51,17158,77358,Rural
+272,Hinsdale County,Colorado,8053,8,53,939,64327,Rural
+273,Huerfano County,Colorado,8055,8,55,6946,52139,Rural
+274,Jackson County,Colorado,8057,8,57,1422,41809,Rural
+275,Jefferson County,Colorado,8059,8,59,579715,107800,Urban
+276,Kiowa County,Colorado,8061,8,61,1356,56389,Rural
+277,Kit Carson County,Colorado,8063,8,63,7015,59810,Rural
+278,Lake County,Colorado,8065,8,65,7411,93655,Rural
+279,La Plata County,Colorado,8067,8,67,56088,85296,Urban
+280,Larimer County,Colorado,8069,8,69,363561,91364,Urban
+281,Las Animas County,Colorado,8071,8,71,14392,50408,Rural
+282,Lincoln County,Colorado,8073,8,73,5561,54257,Rural
+283,Logan County,Colorado,8075,8,75,21067,55074,Rural
+284,Mesa County,Colorado,8077,8,77,157316,71485,Urban
+285,Mineral County,Colorado,8079,8,79,799,52455,Rural
+286,Moffat County,Colorado,8081,8,81,13258,70975,Rural
+287,Montezuma County,Colorado,8083,8,83,26204,63005,Urban
+288,Montrose County,Colorado,8085,8,85,43272,66072,Urban
+289,Morgan County,Colorado,8087,8,87,29186,75407,Urban
+290,Otero County,Colorado,8089,8,89,18460,54897,Rural
+291,Ouray County,Colorado,8091,8,91,5024,84556,Rural
+292,Park County,Colorado,8093,8,93,17739,95450,Rural
+293,Phillips County,Colorado,8095,8,95,4491,60372,Rural
+294,Pitkin County,Colorado,8097,8,97,17119,100318,Rural
+295,Prowers County,Colorado,8099,8,99,11931,57601,Rural
+296,Pueblo County,Colorado,8101,8,101,168726,62250,Urban
+297,Rio Blanco County,Colorado,8103,8,103,6518,72620,Rural
+298,Rio Grande County,Colorado,8105,8,105,11394,62166,Rural
+299,Routt County,Colorado,8107,8,107,24990,104803,Rural
+300,Saguache County,Colorado,8109,8,109,6511,54283,Rural
+301,San Juan County,Colorado,8111,8,111,690,73889,Rural
+302,San Miguel County,Colorado,8113,8,113,8026,80117,Rural
+303,Sedgwick County,Colorado,8115,8,115,2346,52833,Rural
+304,Summit County,Colorado,8117,8,117,30857,106255,Urban
+305,Teller County,Colorado,8119,8,119,24774,80666,Rural
+306,Washington County,Colorado,8121,8,121,4839,65164,Rural
+307,Weld County,Colorado,8123,8,123,340711,93287,Urban
+308,Yuma County,Colorado,8125,8,125,9921,60051,Rural
+309,Capitol Planning Region,Connecticut,9110,9,110,969029,91541,Urban
+310,Greater Bridgeport Planning Region,Connecticut,9120,9,120,326296,87135,Urban
+311,Lower Connecticut River Valley Planning Region,Connecticut,9130,9,130,174983,101117,Urban
+312,Naugatuck Valley Planning Region,Connecticut,9140,9,140,452303,86365,Urban
+313,Northeastern Connecticut Planning Region,Connecticut,9150,9,150,95829,87564,Urban
+314,Northwest Hills Planning Region,Connecticut,9160,9,160,112848,91035,Urban
+315,South Central Connecticut Planning Region,Connecticut,9170,9,170,566803,86266,Urban
+316,Southeastern Connecticut Planning Region,Connecticut,9180,9,180,279025,84185,Urban
+317,Western Connecticut Planning Region,Connecticut,9190,9,190,621232,124553,Urban
+318,Kent County,Delaware,10001,10,1,185043,72872,Urban
+319,New Castle County,Delaware,10003,10,3,573030,89901,Urban
+320,Sussex County,Delaware,10005,10,5,247799,78162,Urban
+321,District of Columbia,District of Columbia,11001,11,1,672079,106287,Urban
+322,Alachua County,Florida,12001,12,1,281751,59659,Urban
+323,Baker County,Florida,12003,12,3,28186,70833,Urban
+324,Bay County,Florida,12005,12,5,181368,70188,Urban
+325,Bradford County,Florida,12007,12,7,27888,59740,Urban
+326,Brevard County,Florida,12009,12,9,620533,75817,Urban
+327,Broward County,Florida,12011,12,11,1946127,74534,Urban
+328,Calhoun County,Florida,12013,12,13,13593,46901,Rural
+329,Charlotte County,Florida,12015,12,15,195083,66154,Urban
+330,Citrus County,Florida,12017,12,17,158693,55355,Urban
+331,Clay County,Florida,12019,12,19,223436,86094,Urban
+332,Collier County,Florida,12021,12,21,387681,86173,Urban
+333,Columbia County,Florida,12023,12,23,70755,55070,Urban
+334,DeSoto County,Florida,12027,12,27,34719,50868,Urban
+335,Dixie County,Florida,12029,12,29,16952,47655,Rural
+336,Duval County,Florida,12031,12,31,1007189,68447,Urban
+337,Escambia County,Florida,12033,12,33,323275,65715,Urban
+338,Flagler County,Florida,12035,12,35,121710,72923,Urban
+339,Franklin County,Florida,12037,12,37,12418,62734,Rural
+340,Gadsden County,Florida,12039,12,39,43642,46047,Urban
+341,Gilchrist County,Florida,12041,12,41,18494,61070,Rural
+342,Glades County,Florida,12043,12,43,12324,38905,Rural
+343,Gulf County,Florida,12045,12,45,14772,67361,Rural
+344,Hamilton County,Florida,12047,12,47,13445,47696,Rural
+345,Hardee County,Florida,12049,12,49,25508,54231,Rural
+346,Hendry County,Florida,12051,12,51,40798,53044,Urban
+347,Hernando County,Florida,12053,12,53,201512,63193,Urban
+348,Highlands County,Florida,12055,12,55,103808,55581,Urban
+349,Hillsborough County,Florida,12057,12,57,1489634,75011,Urban
+350,Holmes County,Florida,12059,12,59,19626,48236,Rural
+351,Indian River County,Florida,12061,12,61,163856,71049,Urban
+352,Jackson County,Florida,12063,12,63,47652,47327,Urban
+353,Jefferson County,Florida,12065,12,65,14713,56984,Rural
+354,Lafayette County,Florida,12067,12,67,8035,60692,Rural
+355,Lake County,Florida,12069,12,69,398696,69956,Urban
+356,Lee County,Florida,12071,12,71,792692,73099,Urban
+357,Leon County,Florida,12073,12,73,295335,65074,Urban
+358,Levy County,Florida,12075,12,75,44276,53805,Urban
+359,Liberty County,Florida,12077,12,77,7650,53824,Rural
+360,Madison County,Florida,12079,12,79,18113,48176,Rural
+361,Manatee County,Florida,12081,12,81,416020,75792,Urban
+362,Marion County,Florida,12083,12,83,387697,58535,Urban
+363,Martin County,Florida,12085,12,85,160464,80701,Urban
+364,Miami-Dade County,Florida,12086,12,86,2685296,68694,Urban
+365,Monroe County,Florida,12087,12,87,81840,82430,Urban
+366,Nassau County,Florida,12089,12,89,94653,88900,Urban
+367,Okaloosa County,Florida,12091,12,91,214281,79097,Urban
+368,Okeechobee County,Florida,12093,12,93,40249,52288,Urban
+369,Orange County,Florida,12095,12,95,1440471,77011,Urban
+370,Osceola County,Florida,12097,12,97,406943,68711,Urban
+371,Palm Beach County,Florida,12099,12,99,1507453,81115,Urban
+372,Pasco County,Florida,12101,12,101,588758,67384,Urban
+373,Pinellas County,Florida,12103,12,103,960565,70293,Urban
+374,Polk County,Florida,12105,12,105,760961,63644,Urban
+375,Putnam County,Florida,12107,12,107,74235,47256,Urban
+376,St. Johns County,Florida,12109,12,109,292243,106169,Urban
+377,St. Lucie County,Florida,12111,12,111,346237,69027,Urban
+378,Santa Rosa County,Florida,12113,12,113,193719,88968,Urban
+379,Sarasota County,Florida,12115,12,115,449011,80633,Urban
+380,Seminole County,Florida,12117,12,117,474912,83030,Urban
+381,Sumter County,Florida,12119,12,119,137536,73297,Urban
+382,Suwannee County,Florida,12121,12,121,44484,55479,Urban
+383,Taylor County,Florida,12123,12,123,21422,44985,Rural
+384,Union County,Florida,12125,12,125,15551,64922,Rural
+385,Volusia County,Florida,12127,12,127,568229,66581,Urban
+386,Wakulla County,Florida,12129,12,129,34608,74183,Urban
+387,Walton County,Florida,12131,12,131,79846,79281,Urban
+388,Washington County,Florida,12133,12,133,25259,52723,Rural
+389,Appling County,Georgia,13001,13,1,18426,43728,Rural
+390,Atkinson County,Georgia,13003,13,3,8261,38438,Rural
+391,Bacon County,Georgia,13005,13,5,11129,50310,Rural
+392,Baker County,Georgia,13007,13,7,2830,44405,Rural
+393,Baldwin County,Georgia,13009,13,9,43669,55413,Urban
+394,Banks County,Georgia,13011,13,11,18757,68830,Rural
+395,Barrow County,Georgia,13013,13,13,86982,77477,Urban
+396,Bartow County,Georgia,13015,13,15,111153,79431,Urban
+397,Ben Hill County,Georgia,13017,13,17,17138,39081,Rural
+398,Berrien County,Georgia,13019,13,19,18257,50414,Rural
+399,Bibb County,Georgia,13021,13,21,156543,50747,Urban
+400,Bleckley County,Georgia,13023,13,23,12414,53005,Rural
+401,Brantley County,Georgia,13025,13,25,18171,47801,Rural
+402,Brooks County,Georgia,13027,13,27,16285,47656,Rural
+403,Bryan County,Georgia,13029,13,29,46681,94234,Urban
+404,Bulloch County,Georgia,13031,13,31,81372,56832,Urban
+405,Burke County,Georgia,13033,13,33,24427,50739,Rural
+406,Butts County,Georgia,13035,13,35,26074,59221,Urban
+407,Calhoun County,Georgia,13037,13,37,5528,55714,Rural
+408,Camden County,Georgia,13039,13,39,56036,72399,Urban
+409,Candler County,Georgia,13043,13,43,10972,50431,Rural
+410,Carroll County,Georgia,13045,13,45,122187,72327,Urban
+411,Catoosa County,Georgia,13047,13,47,68356,72425,Urban
+412,Charlton County,Georgia,13049,13,49,12711,48534,Rural
+413,Chatham County,Georgia,13051,13,51,298143,69575,Urban
+414,Chattahoochee County,Georgia,13053,13,53,9181,59221,Rural
+415,Chattooga County,Georgia,13055,13,55,24975,47785,Rural
+416,Cherokee County,Georgia,13057,13,57,274539,105442,Urban
+417,Clarke County,Georgia,13059,13,59,129267,52267,Urban
+418,Clay County,Georgia,13061,13,61,2853,48715,Rural
+419,Clayton County,Georgia,13063,13,63,298771,58507,Urban
+420,Clinch County,Georgia,13065,13,65,6722,55549,Rural
+421,Cobb County,Georgia,13067,13,67,769152,98712,Urban
+422,Coffee County,Georgia,13069,13,69,43161,50175,Urban
+423,Colquitt County,Georgia,13071,13,71,45907,49691,Urban
+424,Columbia County,Georgia,13073,13,73,159638,96122,Urban
+425,Cook County,Georgia,13075,13,75,17363,50133,Rural
+426,Coweta County,Georgia,13077,13,77,150071,94142,Urban
+427,Crawford County,Georgia,13079,13,79,12183,60905,Rural
+428,Crisp County,Georgia,13081,13,81,19995,42745,Rural
+429,Dade County,Georgia,13083,13,83,16196,58936,Rural
+430,Dawson County,Georgia,13085,13,85,28704,88986,Urban
+431,Decatur County,Georgia,13087,13,87,29118,50485,Urban
+432,DeKalb County,Georgia,13089,13,89,762105,77683,Urban
+433,Dodge County,Georgia,13091,13,91,19909,50152,Rural
+434,Dooly County,Georgia,13093,13,93,11026,56545,Rural
+435,Dougherty County,Georgia,13095,13,95,83915,46784,Urban
+436,Douglas County,Georgia,13097,13,97,146141,80764,Urban
+437,Early County,Georgia,13099,13,99,10683,53750,Rural
+438,Echols County,Georgia,13101,13,101,3705,61723,Rural
+439,Effingham County,Georgia,13103,13,103,67265,85465,Urban
+440,Elbert County,Georgia,13105,13,105,19725,49727,Rural
+441,Emanuel County,Georgia,13107,13,107,22961,50053,Rural
+442,Evans County,Georgia,13109,13,109,10740,53908,Rural
+443,Fannin County,Georgia,13111,13,111,25605,58073,Rural
+444,Fayette County,Georgia,13113,13,113,120689,108986,Urban
+445,Floyd County,Georgia,13115,13,115,98985,62540,Urban
+446,Forsyth County,Georgia,13117,13,117,260062,138000,Urban
+447,Franklin County,Georgia,13119,13,119,23840,52264,Rural
+448,Fulton County,Georgia,13121,13,121,1068507,91490,Urban
+449,Gilmer County,Georgia,13123,13,123,31976,72542,Urban
+450,Glascock County,Georgia,13125,13,125,2913,55250,Rural
+451,Glynn County,Georgia,13127,13,127,84987,68546,Urban
+452,Gordon County,Georgia,13129,13,129,58336,61997,Urban
+453,Grady County,Georgia,13131,13,131,26056,54312,Urban
+454,Greene County,Georgia,13133,13,133,19586,84530,Rural
+455,Gwinnett County,Georgia,13135,13,135,966972,84823,Urban
+456,Habersham County,Georgia,13137,13,137,46948,65622,Urban
+457,Hall County,Georgia,13139,13,139,208395,77430,Urban
+458,Hancock County,Georgia,13141,13,141,8630,33182,Rural
+459,Haralson County,Georgia,13143,13,143,30720,65016,Urban
+460,Harris County,Georgia,13145,13,145,35509,89184,Urban
+461,Hart County,Georgia,13147,13,147,26484,57241,Urban
+462,Heard County,Georgia,13149,13,149,11616,62907,Rural
+463,Henry County,Georgia,13151,13,151,245417,81612,Urban
+464,Houston County,Georgia,13153,13,153,166902,80743,Urban
+465,Irwin County,Georgia,13155,13,155,9385,53915,Rural
+466,Jackson County,Georgia,13157,13,157,80640,85012,Urban
+467,Jasper County,Georgia,13159,13,159,15345,59574,Rural
+468,Jeff Davis County,Georgia,13161,13,161,14838,40879,Rural
+469,Jefferson County,Georgia,13163,13,163,15468,46561,Rural
+470,Jenkins County,Georgia,13165,13,165,8674,36906,Rural
+471,Johnson County,Georgia,13167,13,167,9192,54183,Rural
+472,Jones County,Georgia,13169,13,169,28526,68259,Urban
+473,Lamar County,Georgia,13171,13,171,19098,68457,Rural
+474,Lanier County,Georgia,13173,13,173,10094,44361,Rural
+475,Laurens County,Georgia,13175,13,175,49619,49705,Urban
+476,Lee County,Georgia,13177,13,177,33337,88024,Urban
+477,Liberty County,Georgia,13179,13,179,66826,59013,Urban
+478,Lincoln County,Georgia,13181,13,181,7773,50688,Rural
+479,Long County,Georgia,13183,13,183,17512,64747,Rural
+480,Lowndes County,Georgia,13185,13,185,119055,55887,Urban
+481,Lumpkin County,Georgia,13187,13,187,33931,72388,Urban
+482,McDuffie County,Georgia,13189,13,189,21687,54058,Rural
+483,McIntosh County,Georgia,13191,13,191,11187,50348,Rural
+484,Macon County,Georgia,13193,13,193,11953,37177,Rural
+485,Madison County,Georgia,13195,13,195,30914,58784,Urban
+486,Marion County,Georgia,13197,13,197,7474,50484,Rural
+487,Meriwether County,Georgia,13199,13,199,20757,56458,Rural
+488,Miller County,Georgia,13201,13,201,5873,58407,Rural
+489,Mitchell County,Georgia,13205,13,205,21441,51908,Rural
+490,Monroe County,Georgia,13207,13,207,28919,82863,Urban
+491,Montgomery County,Georgia,13209,13,209,8675,51188,Rural
+492,Morgan County,Georgia,13211,13,211,20614,85692,Rural
+493,Murray County,Georgia,13213,13,213,40282,67880,Urban
+494,Muscogee County,Georgia,13215,13,215,204383,56622,Urban
+495,Newton County,Georgia,13217,13,217,115530,73732,Urban
+496,Oconee County,Georgia,13219,13,219,42788,115925,Urban
+497,Oglethorpe County,Georgia,13221,13,221,15221,69784,Rural
+498,Paulding County,Georgia,13223,13,223,174292,94557,Urban
+499,Peach County,Georgia,13225,13,225,28269,68365,Urban
+500,Pickens County,Georgia,13227,13,227,34197,75293,Urban
+501,Pierce County,Georgia,13229,13,229,19996,56691,Rural
+502,Pike County,Georgia,13231,13,231,19540,84184,Rural
+503,Polk County,Georgia,13233,13,233,43365,55308,Urban
+504,Pulaski County,Georgia,13235,13,235,9893,47688,Rural
+505,Putnam County,Georgia,13237,13,237,22524,64163,Rural
+506,Quitman County,Georgia,13239,13,239,2092,36838,Rural
+507,Rabun County,Georgia,13241,13,241,17107,61466,Rural
+508,Randolph County,Georgia,13243,13,243,6270,25425,Rural
+509,Richmond County,Georgia,13245,13,245,206040,53197,Urban
+510,Rockdale County,Georgia,13247,13,247,94293,72349,Urban
+511,Schley County,Georgia,13249,13,249,4539,59647,Rural
+512,Screven County,Georgia,13251,13,251,14057,53017,Rural
+513,Seminole County,Georgia,13253,13,253,9117,49559,Rural
+514,Spalding County,Georgia,13255,13,255,68215,60217,Urban
+515,Stephens County,Georgia,13257,13,257,26842,52264,Urban
+516,Stewart County,Georgia,13259,13,259,4978,35000,Rural
+517,Sumter County,Georgia,13261,13,261,29174,41877,Urban
+518,Talbot County,Georgia,13263,13,263,5753,45098,Rural
+519,Taliaferro County,Georgia,13265,13,265,1740,48036,Rural
+520,Tattnall County,Georgia,13267,13,267,24215,52351,Rural
+521,Taylor County,Georgia,13269,13,269,7786,41743,Rural
+522,Telfair County,Georgia,13271,13,271,12174,44948,Rural
+523,Terrell County,Georgia,13273,13,273,8941,43812,Rural
+524,Thomas County,Georgia,13275,13,275,45696,60140,Urban
+525,Tift County,Georgia,13277,13,277,41322,53165,Urban
+526,Toombs County,Georgia,13279,13,279,26943,54130,Urban
+527,Towns County,Georgia,13281,13,281,12739,58400,Rural
+528,Treutlen County,Georgia,13283,13,283,6387,43750,Rural
+529,Troup County,Georgia,13285,13,285,69821,54905,Urban
+530,Turner County,Georgia,13287,13,287,8915,39565,Rural
+531,Twiggs County,Georgia,13289,13,289,7869,55439,Rural
+532,Union County,Georgia,13291,13,291,25598,65697,Rural
+533,Upson County,Georgia,13293,13,293,27856,50904,Urban
+534,Walker County,Georgia,13295,13,295,68449,55887,Urban
+535,Walton County,Georgia,13297,13,297,100361,82381,Urban
+536,Ware County,Georgia,13299,13,299,35958,44833,Urban
+537,Warren County,Georgia,13301,13,301,5175,46776,Rural
+538,Washington County,Georgia,13303,13,303,19893,44009,Rural
+539,Wayne County,Georgia,13305,13,305,30519,49562,Urban
+540,Webster County,Georgia,13307,13,307,2348,40764,Rural
+541,Wheeler County,Georgia,13309,13,309,7434,45262,Rural
+542,White County,Georgia,13311,13,311,28454,69747,Urban
+543,Whitfield County,Georgia,13313,13,313,103118,64262,Urban
+544,Wilcox County,Georgia,13315,13,315,8784,48036,Rural
+545,Wilkes County,Georgia,13317,13,317,9553,52542,Rural
+546,Wilkinson County,Georgia,13319,13,319,8795,46673,Rural
+547,Worth County,Georgia,13321,13,321,20575,57201,Rural
+548,Hawaii County,Hawaii,15001,15,1,203684,77215,Urban
+549,Honolulu County,Hawaii,15003,15,3,1003666,104264,Urban
+550,Kalawao County,Hawaii,15005,15,5,43,86250,Rural
+551,Kauai County,Hawaii,15007,15,7,73610,93612,Urban
+552,Maui County,Hawaii,15009,15,9,164632,95076,Urban
+553,Ada County,Idaho,16001,16,1,508052,88907,Urban
+554,Adams County,Idaho,16003,16,3,4599,59286,Rural
+555,Bannock County,Idaho,16005,16,5,88457,64080,Urban
+556,Bear Lake County,Idaho,16007,16,7,6552,67304,Rural
+557,Benewah County,Idaho,16009,16,9,9913,56553,Rural
+558,Bingham County,Idaho,16011,16,11,48993,76842,Urban
+559,Blaine County,Idaho,16013,16,13,24579,84470,Rural
+560,Boise County,Idaho,16015,16,15,8045,77349,Rural
+561,Bonner County,Idaho,16017,16,17,49456,65168,Urban
+562,Bonneville County,Idaho,16019,16,19,127056,76646,Urban
+563,Boundary County,Idaho,16021,16,21,12695,62438,Rural
+564,Butte County,Idaho,16023,16,23,2654,43281,Rural
+565,Camas County,Idaho,16025,16,25,1155,55536,Rural
+566,Canyon County,Idaho,16027,16,27,242405,72355,Urban
+567,Caribou County,Idaho,16029,16,29,7118,66653,Rural
+568,Cassia County,Idaho,16031,16,31,25165,67042,Rural
+569,Clark County,Idaho,16033,16,33,776,52083,Rural
+570,Clearwater County,Idaho,16035,16,35,8921,57961,Rural
+571,Custer County,Idaho,16037,16,37,4411,56957,Rural
+572,Elmore County,Idaho,16039,16,39,29046,58976,Urban
+573,Franklin County,Idaho,16041,16,41,14715,65991,Rural
+574,Fremont County,Idaho,16043,16,43,13701,72767,Rural
+575,Gem County,Idaho,16045,16,45,19854,66245,Rural
+576,Gooding County,Idaho,16047,16,47,15740,62395,Rural
+577,Idaho County,Idaho,16049,16,49,17120,60975,Rural
+578,Jefferson County,Idaho,16051,16,51,32234,82952,Urban
+579,Jerome County,Idaho,16053,16,53,24788,69338,Rural
+580,Kootenai County,Idaho,16055,16,55,177736,77034,Urban
+581,Latah County,Idaho,16057,16,57,40315,65179,Urban
+582,Lemhi County,Idaho,16059,16,59,8166,52057,Rural
+583,Lewis County,Idaho,16061,16,61,3649,49643,Rural
+584,Lincoln County,Idaho,16063,16,63,5276,66038,Rural
+585,Madison County,Idaho,16065,16,65,53578,58259,Urban
+586,Minidoka County,Idaho,16067,16,67,21922,70060,Rural
+587,Nez Perce County,Idaho,16069,16,69,42477,71466,Urban
+588,Oneida County,Idaho,16071,16,71,4681,72563,Rural
+589,Owyhee County,Idaho,16073,16,73,12284,59773,Rural
+590,Payette County,Idaho,16075,16,75,26190,65723,Urban
+591,Power County,Idaho,16077,16,77,8018,59760,Rural
+592,Shoshone County,Idaho,16079,16,79,13580,49975,Rural
+593,Teton County,Idaho,16081,16,81,12101,90740,Rural
+594,Twin Falls County,Idaho,16083,16,83,92121,65338,Urban
+595,Valley County,Idaho,16085,16,85,12136,76125,Rural
+596,Washington County,Idaho,16087,16,87,10866,53608,Rural
+597,Adams County,Illinois,17001,17,1,65166,64962,Urban
+598,Alexander County,Illinois,17003,17,3,5042,43523,Rural
+599,Bond County,Illinois,17005,17,5,16627,61603,Rural
+600,Boone County,Illinois,17007,17,7,53316,81638,Urban
+601,Brown County,Illinois,17009,17,9,6320,72288,Rural
+602,Bureau County,Illinois,17011,17,11,33027,65894,Urban
+603,Calhoun County,Illinois,17013,17,13,4406,92095,Rural
+604,Carroll County,Illinois,17015,17,15,15621,60871,Rural
+605,Cass County,Illinois,17017,17,17,12826,64907,Rural
+606,Champaign County,Illinois,17019,17,19,206098,63091,Urban
+607,Christian County,Illinois,17021,17,21,33684,59253,Urban
+608,Clark County,Illinois,17023,17,23,15328,70625,Rural
+609,Clay County,Illinois,17025,17,25,13173,57266,Rural
+610,Clinton County,Illinois,17027,17,27,36899,82314,Urban
+611,Coles County,Illinois,17029,17,29,46689,56040,Urban
+612,Cook County,Illinois,17031,17,31,5185812,81797,Urban
+613,Crawford County,Illinois,17033,17,33,18588,67614,Rural
+614,Cumberland County,Illinois,17035,17,35,10378,69826,Rural
+615,DeKalb County,Illinois,17037,17,37,100512,69022,Urban
+616,De Witt County,Illinois,17039,17,39,15461,64802,Rural
+617,Douglas County,Illinois,17041,17,41,19686,74186,Rural
+618,DuPage County,Illinois,17043,17,43,927263,110502,Urban
+619,Edgar County,Illinois,17045,17,45,16637,56909,Rural
+620,Edwards County,Illinois,17047,17,47,6118,59386,Rural
+621,Effingham County,Illinois,17049,17,49,34505,75380,Urban
+622,Fayette County,Illinois,17051,17,51,21380,57113,Rural
+623,Ford County,Illinois,17053,17,53,13396,60782,Rural
+624,Franklin County,Illinois,17055,17,55,37541,53471,Urban
+625,Fulton County,Illinois,17057,17,57,33259,58617,Urban
+626,Gallatin County,Illinois,17059,17,59,4857,54626,Rural
+627,Greene County,Illinois,17061,17,61,11837,60976,Rural
+628,Grundy County,Illinois,17063,17,63,52920,93060,Urban
+629,Hamilton County,Illinois,17065,17,65,7972,61520,Rural
+630,Hancock County,Illinois,17067,17,67,17434,65044,Rural
+631,Hardin County,Illinois,17069,17,69,3623,57155,Rural
+632,Henderson County,Illinois,17071,17,71,6284,65651,Rural
+633,Henry County,Illinois,17073,17,73,48948,69912,Urban
+634,Iroquois County,Illinois,17075,17,75,26746,62439,Urban
+635,Jackson County,Illinois,17077,17,77,52706,45572,Urban
+636,Jasper County,Illinois,17079,17,79,9233,71094,Rural
+637,Jefferson County,Illinois,17081,17,81,36808,61102,Urban
+638,Jersey County,Illinois,17083,17,83,21336,79104,Rural
+639,Jo Daviess County,Illinois,17085,17,85,21918,74954,Rural
+640,Johnson County,Illinois,17087,17,87,13350,65203,Rural
+641,Kane County,Illinois,17089,17,89,516097,100678,Urban
+642,Kankakee County,Illinois,17091,17,91,106833,68325,Urban
+643,Kendall County,Illinois,17093,17,93,135053,110474,Urban
+644,Knox County,Illinois,17095,17,95,49294,53291,Urban
+645,Lake County,Illinois,17097,17,97,711885,108917,Urban
+646,LaSalle County,Illinois,17099,17,99,109049,72281,Urban
+647,Lawrence County,Illinois,17101,17,101,15137,53438,Rural
+648,Lee County,Illinois,17103,17,103,34058,68459,Urban
+649,Livingston County,Illinois,17105,17,105,35659,70796,Urban
+650,Logan County,Illinois,17107,17,107,27870,64188,Urban
+651,McDonough County,Illinois,17109,17,109,27102,50434,Urban
+652,McHenry County,Illinois,17111,17,111,311366,102836,Urban
+653,McLean County,Illinois,17113,17,113,170882,78329,Urban
+654,Macon County,Illinois,17115,17,115,102591,62449,Urban
+655,Macoupin County,Illinois,17117,17,117,44566,68518,Urban
+656,Madison County,Illinois,17119,17,119,264631,74800,Urban
+657,Marion County,Illinois,17121,17,121,37294,60839,Urban
+658,Marshall County,Illinois,17123,17,123,11715,69818,Rural
+659,Mason County,Illinois,17125,17,125,12878,62127,Rural
+660,Massac County,Illinois,17127,17,127,13958,62584,Rural
+661,Menard County,Illinois,17129,17,129,12169,81334,Rural
+662,Mercer County,Illinois,17131,17,131,15619,71710,Rural
+663,Monroe County,Illinois,17133,17,133,34969,101635,Urban
+664,Montgomery County,Illinois,17135,17,135,28078,61863,Urban
+665,Morgan County,Illinois,17137,17,137,32621,65175,Urban
+666,Moultrie County,Illinois,17139,17,139,14469,71676,Rural
+667,Ogle County,Illinois,17141,17,141,51536,79244,Urban
+668,Peoria County,Illinois,17143,17,143,179831,64938,Urban
+669,Perry County,Illinois,17145,17,145,20810,59286,Rural
+670,Piatt County,Illinois,17147,17,147,16702,87516,Rural
+671,Pike County,Illinois,17149,17,149,14625,58029,Rural
+672,Pope County,Illinois,17151,17,151,3757,62500,Rural
+673,Pulaski County,Illinois,17153,17,153,5074,43227,Rural
+674,Putnam County,Illinois,17155,17,155,5600,77526,Rural
+675,Randolph County,Illinois,17157,17,157,30142,68870,Urban
+676,Richland County,Illinois,17159,17,159,15675,60404,Rural
+677,Rock Island County,Illinois,17161,17,161,142995,66768,Urban
+678,St. Clair County,Illinois,17163,17,163,254777,70178,Urban
+679,Saline County,Illinois,17165,17,165,23387,54945,Rural
+680,Sangamon County,Illinois,17167,17,167,195217,74114,Urban
+681,Schuyler County,Illinois,17169,17,169,6826,66059,Rural
+682,Scott County,Illinois,17171,17,171,4847,73013,Rural
+683,Shelby County,Illinois,17173,17,173,20867,68457,Rural
+684,Stark County,Illinois,17175,17,175,5324,62284,Rural
+685,Stephenson County,Illinois,17177,17,177,44042,61943,Urban
+686,Tazewell County,Illinois,17179,17,179,130555,76704,Urban
+687,Union County,Illinois,17181,17,181,16972,56420,Rural
+688,Vermilion County,Illinois,17183,17,183,73179,54537,Urban
+689,Wabash County,Illinois,17185,17,185,11199,53650,Rural
+690,Warren County,Illinois,17187,17,187,16576,64650,Rural
+691,Washington County,Illinois,17189,17,189,13682,75652,Rural
+692,Wayne County,Illinois,17191,17,191,15994,53107,Rural
+693,White County,Illinois,17193,17,193,13708,53097,Rural
+694,Whiteside County,Illinois,17195,17,195,55192,64536,Urban
+695,Will County,Illinois,17197,17,197,698450,107799,Urban
+696,Williamson County,Illinois,17199,17,199,66902,65521,Urban
+697,Winnebago County,Illinois,17201,17,201,283289,64363,Urban
+698,Woodford County,Illinois,17203,17,203,38348,85629,Urban
+699,Adams County,Indiana,18001,18,1,35995,63128,Urban
+700,Allen County,Indiana,18003,18,3,388791,68839,Urban
+701,Bartholomew County,Indiana,18005,18,5,82881,80365,Urban
+702,Benton County,Indiana,18007,18,7,8708,61811,Rural
+703,Blackford County,Indiana,18009,18,9,12007,47560,Rural
+704,Boone County,Indiana,18011,18,11,72827,104865,Urban
+705,Brown County,Indiana,18013,18,13,15543,72644,Rural
+706,Carroll County,Indiana,18015,18,15,20443,64003,Rural
+707,Cass County,Indiana,18017,18,17,37703,56525,Urban
+708,Clark County,Indiana,18019,18,19,122800,72298,Urban
+709,Clay County,Indiana,18021,18,21,26431,67676,Urban
+710,Clinton County,Indiana,18023,18,23,32967,63690,Urban
+711,Crawford County,Indiana,18025,18,25,10494,48993,Rural
+712,Daviess County,Indiana,18027,18,27,33442,68561,Urban
+713,Dearborn County,Indiana,18029,18,29,50828,82693,Urban
+714,Decatur County,Indiana,18031,18,31,26411,74228,Urban
+715,DeKalb County,Indiana,18033,18,33,43584,70080,Urban
+716,Delaware County,Indiana,18035,18,35,112109,56932,Urban
+717,Dubois County,Indiana,18037,18,37,43563,71918,Urban
+718,Elkhart County,Indiana,18039,18,39,206868,65617,Urban
+719,Fayette County,Indiana,18041,18,41,23390,56659,Rural
+720,Floyd County,Indiana,18043,18,43,80512,78179,Urban
+721,Fountain County,Indiana,18045,18,45,16546,62526,Rural
+722,Franklin County,Indiana,18047,18,47,22929,79702,Rural
+723,Fulton County,Indiana,18049,18,49,20411,62878,Rural
+724,Gibson County,Indiana,18051,18,51,32986,67763,Urban
+725,Grant County,Indiana,18053,18,53,66377,54007,Urban
+726,Greene County,Indiana,18055,18,55,30954,59753,Urban
+727,Hamilton County,Indiana,18057,18,57,357176,117957,Urban
+728,Hancock County,Indiana,18059,18,59,82013,91326,Urban
+729,Harrison County,Indiana,18061,18,61,39785,72468,Urban
+730,Hendricks County,Indiana,18063,18,63,179379,99988,Urban
+731,Henry County,Indiana,18065,18,65,48896,60144,Urban
+732,Howard County,Indiana,18067,18,67,83610,62496,Urban
+733,Huntington County,Indiana,18069,18,69,36757,62734,Urban
+734,Jackson County,Indiana,18071,18,71,46319,70208,Urban
+735,Jasper County,Indiana,18073,18,73,33198,79634,Urban
+736,Jay County,Indiana,18075,18,75,20281,54114,Rural
+737,Jefferson County,Indiana,18077,18,77,33074,59987,Urban
+738,Jennings County,Indiana,18079,18,79,27584,68476,Urban
+739,Johnson County,Indiana,18081,18,81,163983,87227,Urban
+740,Knox County,Indiana,18083,18,83,36108,58863,Urban
+741,Kosciusko County,Indiana,18085,18,85,80357,73922,Urban
+742,LaGrange County,Indiana,18087,18,87,40596,83741,Urban
+743,Lake County,Indiana,18089,18,89,498990,68985,Urban
+744,LaPorte County,Indiana,18091,18,91,112141,70452,Urban
+745,Lawrence County,Indiana,18093,18,93,45077,65551,Urban
+746,Madison County,Indiana,18095,18,95,130949,62632,Urban
+747,Marion County,Indiana,18097,18,97,971822,63450,Urban
+748,Marshall County,Indiana,18099,18,99,46225,68041,Urban
+749,Martin County,Indiana,18101,18,101,9854,65345,Rural
+750,Miami County,Indiana,18103,18,103,35772,61130,Urban
+751,Monroe County,Indiana,18105,18,105,139822,63372,Urban
+752,Montgomery County,Indiana,18107,18,107,38155,66571,Urban
+753,Morgan County,Indiana,18109,18,109,72202,79088,Urban
+754,Newton County,Indiana,18111,18,111,13859,68596,Rural
+755,Noble County,Indiana,18113,18,113,47417,70908,Urban
+756,Ohio County,Indiana,18115,18,115,5993,67942,Rural
+757,Orange County,Indiana,18117,18,117,19746,64758,Rural
+758,Owen County,Indiana,18119,18,119,21434,59586,Rural
+759,Parke County,Indiana,18121,18,121,16346,66776,Rural
+760,Perry County,Indiana,18123,18,123,19218,61099,Rural
+761,Pike County,Indiana,18125,18,125,12187,66250,Rural
+762,Porter County,Indiana,18127,18,127,174150,85828,Urban
+763,Posey County,Indiana,18129,18,129,25163,79124,Rural
+764,Pulaski County,Indiana,18131,18,131,12441,59956,Rural
+765,Putnam County,Indiana,18133,18,133,37091,76182,Urban
+766,Randolph County,Indiana,18135,18,135,24425,61121,Rural
+767,Ripley County,Indiana,18137,18,137,29039,71084,Urban
+768,Rush County,Indiana,18139,18,139,16734,64393,Rural
+769,St. Joseph County,Indiana,18141,18,141,272574,64885,Urban
+770,Scott County,Indiana,18143,18,143,24468,54583,Rural
+771,Shelby County,Indiana,18145,18,145,45104,71301,Urban
+772,Spencer County,Indiana,18147,18,147,19871,70890,Rural
+773,Starke County,Indiana,18149,18,149,23300,62933,Rural
+774,Steuben County,Indiana,18151,18,151,34648,71483,Urban
+775,Sullivan County,Indiana,18153,18,153,20766,54985,Rural
+776,Switzerland County,Indiana,18155,18,155,9914,65148,Rural
+777,Tippecanoe County,Indiana,18157,18,157,187399,58622,Urban
+778,Tipton County,Indiana,18159,18,159,15329,78309,Rural
+779,Union County,Indiana,18161,18,161,7028,79500,Rural
+780,Vanderburgh County,Indiana,18163,18,163,179908,60938,Urban
+781,Vermillion County,Indiana,18165,18,165,15452,59363,Rural
+782,Vigo County,Indiana,18167,18,167,106201,52525,Urban
+783,Wabash County,Indiana,18169,18,169,30901,68414,Urban
+784,Warren County,Indiana,18171,18,171,8469,74635,Rural
+785,Warrick County,Indiana,18173,18,173,64650,95027,Urban
+786,Washington County,Indiana,18175,18,175,28167,61358,Urban
+787,Wayne County,Indiana,18177,18,177,66377,56652,Urban
+788,Wells County,Indiana,18179,18,179,28261,69741,Urban
+789,White County,Indiana,18181,18,181,24709,66143,Rural
+790,Whitley County,Indiana,18183,18,183,34388,75790,Urban
+791,Adair County,Iowa,19001,19,1,7471,66176,Rural
+792,Adams County,Iowa,19003,19,3,3641,68828,Rural
+793,Allamakee County,Iowa,19005,19,5,14038,66000,Rural
+794,Appanoose County,Iowa,19007,19,7,12242,51146,Rural
+795,Audubon County,Iowa,19009,19,9,5622,54152,Rural
+796,Benton County,Iowa,19011,19,11,25698,84742,Rural
+797,Black Hawk County,Iowa,19013,19,13,130693,64581,Urban
+798,Boone County,Iowa,19015,19,15,26669,79741,Urban
+799,Bremer County,Iowa,19017,19,17,25118,83343,Rural
+800,Buchanan County,Iowa,19019,19,19,20645,78430,Rural
+801,Buena Vista County,Iowa,19021,19,21,20684,66564,Rural
+802,Butler County,Iowa,19023,19,23,14301,69651,Rural
+803,Calhoun County,Iowa,19025,19,25,9858,66875,Rural
+804,Carroll County,Iowa,19027,19,27,20677,68528,Rural
+805,Cass County,Iowa,19029,19,29,13115,61657,Rural
+806,Cedar County,Iowa,19031,19,31,18427,79080,Rural
+807,Cerro Gordo County,Iowa,19033,19,33,42785,65537,Urban
+808,Cherokee County,Iowa,19035,19,35,11587,64478,Rural
+809,Chickasaw County,Iowa,19037,19,37,11868,73421,Rural
+810,Clarke County,Iowa,19039,19,39,9690,66821,Rural
+811,Clay County,Iowa,19041,19,41,16446,64082,Rural
+812,Clayton County,Iowa,19043,19,43,17069,62326,Rural
+813,Clinton County,Iowa,19045,19,45,46383,65177,Urban
+814,Crawford County,Iowa,19047,19,47,16289,65039,Rural
+815,Dallas County,Iowa,19049,19,49,104136,102349,Urban
+816,Davis County,Iowa,19051,19,51,9127,79505,Rural
+817,Decatur County,Iowa,19053,19,53,7669,57146,Rural
+818,Delaware County,Iowa,19055,19,55,17549,76205,Rural
+819,Des Moines County,Iowa,19057,19,57,38597,60662,Urban
+820,Dickinson County,Iowa,19059,19,59,17844,74570,Rural
+821,Dubuque County,Iowa,19061,19,61,98948,75919,Urban
+822,Emmet County,Iowa,19063,19,63,9316,65181,Rural
+823,Fayette County,Iowa,19065,19,65,19393,58764,Rural
+824,Floyd County,Iowa,19067,19,67,15502,64500,Rural
+825,Franklin County,Iowa,19069,19,69,9977,63648,Rural
+826,Fremont County,Iowa,19071,19,71,6570,73750,Rural
+827,Greene County,Iowa,19073,19,73,8722,59159,Rural
+828,Grundy County,Iowa,19075,19,75,12352,83617,Rural
+829,Guthrie County,Iowa,19077,19,77,10646,79981,Rural
+830,Hamilton County,Iowa,19079,19,79,14893,71750,Rural
+831,Hancock County,Iowa,19081,19,81,10718,70212,Rural
+832,Hardin County,Iowa,19083,19,83,16729,64906,Rural
+833,Harrison County,Iowa,19085,19,85,14645,77027,Rural
+834,Henry County,Iowa,19087,19,87,20228,64604,Rural
+835,Howard County,Iowa,19089,19,89,9459,67336,Rural
+836,Humboldt County,Iowa,19091,19,91,9573,66994,Rural
+837,Ida County,Iowa,19093,19,93,6944,62841,Rural
+838,Iowa County,Iowa,19095,19,95,16547,72185,Rural
+839,Jackson County,Iowa,19097,19,97,19429,71605,Rural
+840,Jasper County,Iowa,19099,19,99,37864,70128,Urban
+841,Jefferson County,Iowa,19101,19,101,15676,56824,Rural
+842,Johnson County,Iowa,19103,19,103,154881,74721,Urban
+843,Jones County,Iowa,19105,19,105,20799,73071,Rural
+844,Keokuk County,Iowa,19107,19,107,9964,60856,Rural
+845,Kossuth County,Iowa,19109,19,109,14610,65656,Rural
+846,Lee County,Iowa,19111,19,111,33175,59803,Urban
+847,Linn County,Iowa,19113,19,113,229463,76421,Urban
+848,Louisa County,Iowa,19115,19,115,10710,80223,Rural
+849,Lucas County,Iowa,19117,19,117,8685,67921,Rural
+850,Lyon County,Iowa,19119,19,119,12087,72881,Rural
+851,Madison County,Iowa,19121,19,121,16760,89542,Rural
+852,Mahaska County,Iowa,19123,19,123,22045,69019,Rural
+853,Marion County,Iowa,19125,19,125,33551,78059,Urban
+854,Marshall County,Iowa,19127,19,127,39971,72785,Urban
+855,Mills County,Iowa,19129,19,129,14563,87810,Rural
+856,Mitchell County,Iowa,19131,19,131,10548,68704,Rural
+857,Monona County,Iowa,19133,19,133,8619,62944,Rural
+858,Monroe County,Iowa,19135,19,135,7546,72518,Rural
+859,Montgomery County,Iowa,19137,19,137,10254,63190,Rural
+860,Muscatine County,Iowa,19139,19,139,42735,69512,Urban
+861,O'Brien County,Iowa,19141,19,141,14103,68216,Rural
+862,Osceola County,Iowa,19143,19,143,6114,69138,Rural
+863,Page County,Iowa,19145,19,145,15168,57752,Rural
+864,Palo Alto County,Iowa,19147,19,147,8902,68963,Rural
+865,Plymouth County,Iowa,19149,19,149,25699,81600,Rural
+866,Pocahontas County,Iowa,19151,19,151,7040,63423,Rural
+867,Polk County,Iowa,19153,19,153,497441,81621,Urban
+868,Pottawattamie County,Iowa,19155,19,155,93407,71446,Urban
+869,Poweshiek County,Iowa,19157,19,157,18582,64837,Rural
+870,Ringgold County,Iowa,19159,19,159,4664,69821,Rural
+871,Sac County,Iowa,19161,19,161,9759,70991,Rural
+872,Scott County,Iowa,19163,19,163,174302,76363,Urban
+873,Shelby County,Iowa,19165,19,165,11757,67690,Rural
+874,Sioux County,Iowa,19167,19,167,35984,84736,Urban
+875,Story County,Iowa,19169,19,169,98592,69006,Urban
+876,Tama County,Iowa,19171,19,171,16982,67955,Rural
+877,Taylor County,Iowa,19173,19,173,5901,67279,Rural
+878,Union County,Iowa,19175,19,175,12038,56813,Rural
+879,Van Buren County,Iowa,19177,19,177,7236,60183,Rural
+880,Wapello County,Iowa,19179,19,179,35265,60034,Urban
+881,Warren County,Iowa,19181,19,181,53484,92990,Urban
+882,Washington County,Iowa,19183,19,183,22539,71339,Rural
+883,Wayne County,Iowa,19185,19,185,6518,59118,Rural
+884,Webster County,Iowa,19187,19,187,36848,68054,Urban
+885,Winnebago County,Iowa,19189,19,189,10648,63719,Rural
+886,Winneshiek County,Iowa,19191,19,191,19972,75652,Rural
+887,Woodbury County,Iowa,19193,19,193,105760,70147,Urban
+888,Worth County,Iowa,19195,19,195,7380,76875,Rural
+889,Wright County,Iowa,19197,19,197,12817,64033,Rural
+890,Allen County,Kansas,20001,20,1,12491,57618,Rural
+891,Anderson County,Kansas,20003,20,3,7819,64925,Rural
+892,Atchison County,Kansas,20005,20,5,16211,62164,Rural
+893,Barber County,Kansas,20007,20,7,4153,57615,Rural
+894,Barton County,Kansas,20009,20,9,25275,56733,Rural
+895,Bourbon County,Kansas,20011,20,11,14384,67555,Rural
+896,Brown County,Kansas,20013,20,13,9415,58886,Rural
+897,Butler County,Kansas,20015,20,15,67916,80375,Urban
+898,Chase County,Kansas,20017,20,17,2579,54518,Rural
+899,Chautauqua County,Kansas,20019,20,19,3370,54592,Rural
+900,Cherokee County,Kansas,20021,20,21,19236,58274,Rural
+901,Cheyenne County,Kansas,20023,20,23,2628,55765,Rural
+902,Clark County,Kansas,20025,20,25,1987,65515,Rural
+903,Clay County,Kansas,20027,20,27,8071,63136,Rural
+904,Cloud County,Kansas,20029,20,29,8973,57333,Rural
+905,Coffey County,Kansas,20031,20,31,8304,67377,Rural
+906,Comanche County,Kansas,20033,20,33,1685,49417,Rural
+907,Cowley County,Kansas,20035,20,35,34487,58263,Urban
+908,Crawford County,Kansas,20037,20,37,38963,50311,Urban
+909,Decatur County,Kansas,20039,20,39,2746,52030,Rural
+910,Dickinson County,Kansas,20041,20,41,18423,67982,Rural
+911,Doniphan County,Kansas,20043,20,43,7492,72833,Rural
+912,Douglas County,Kansas,20045,20,45,119547,68756,Urban
+913,Edwards County,Kansas,20047,20,47,2817,53792,Rural
+914,Elk County,Kansas,20049,20,49,2464,56087,Rural
+915,Ellis County,Kansas,20051,20,51,28870,59889,Urban
+916,Ellsworth County,Kansas,20053,20,53,6366,66792,Rural
+917,Finney County,Kansas,20055,20,55,38001,72437,Urban
+918,Ford County,Kansas,20057,20,57,34133,70495,Urban
+919,Franklin County,Kansas,20059,20,59,25994,72142,Urban
+920,Geary County,Kansas,20061,20,61,35895,57344,Urban
+921,Gove County,Kansas,20063,20,63,2796,63203,Rural
+922,Graham County,Kansas,20065,20,65,2406,52909,Rural
+923,Grant County,Kansas,20067,20,67,7284,72484,Rural
+924,Gray County,Kansas,20069,20,69,5696,77885,Rural
+925,Greeley County,Kansas,20071,20,71,1296,78819,Rural
+926,Greenwood County,Kansas,20073,20,73,5956,58276,Rural
+927,Hamilton County,Kansas,20075,20,75,2485,61929,Rural
+928,Harper County,Kansas,20077,20,77,5446,55417,Rural
+929,Harvey County,Kansas,20079,20,79,33823,73269,Urban
+930,Haskell County,Kansas,20081,20,81,3695,69138,Rural
+931,Hodgeman County,Kansas,20083,20,83,1676,63125,Rural
+932,Jackson County,Kansas,20085,20,85,13277,72703,Rural
+933,Jefferson County,Kansas,20087,20,87,18391,77393,Rural
+934,Jewell County,Kansas,20089,20,89,2909,52344,Rural
+935,Johnson County,Kansas,20091,20,91,614764,107261,Urban
+936,Kearny County,Kansas,20093,20,93,3910,74135,Rural
+937,Kingman County,Kansas,20095,20,95,7284,59819,Rural
+938,Kiowa County,Kansas,20097,20,97,2422,73214,Rural
+939,Labette County,Kansas,20099,20,99,19949,55439,Rural
+940,Lane County,Kansas,20101,20,101,1497,53042,Rural
+941,Leavenworth County,Kansas,20103,20,103,82493,86906,Urban
+942,Lincoln County,Kansas,20105,20,105,2924,53546,Rural
+943,Linn County,Kansas,20107,20,107,9723,59200,Rural
+944,Logan County,Kansas,20109,20,109,2720,71389,Rural
+945,Lyon County,Kansas,20111,20,111,32145,59078,Urban
+946,McPherson County,Kansas,20113,20,113,30130,77701,Urban
+947,Marion County,Kansas,20115,20,115,11795,63438,Rural
+948,Marshall County,Kansas,20117,20,117,10001,70828,Rural
+949,Meade County,Kansas,20119,20,119,3949,74868,Rural
+950,Miami County,Kansas,20121,20,121,34625,88000,Urban
+951,Mitchell County,Kansas,20123,20,123,5767,58233,Rural
+952,Montgomery County,Kansas,20125,20,125,31143,53242,Urban
+953,Morris County,Kansas,20127,20,127,5388,56716,Rural
+954,Morton County,Kansas,20129,20,129,2647,65625,Rural
+955,Nemaha County,Kansas,20131,20,131,10213,77375,Rural
+956,Neosho County,Kansas,20133,20,133,15715,55704,Rural
+957,Ness County,Kansas,20135,20,135,2659,66107,Rural
+958,Norton County,Kansas,20137,20,137,5392,50305,Rural
+959,Osage County,Kansas,20139,20,139,15780,70216,Rural
+960,Osborne County,Kansas,20141,20,141,3473,59408,Rural
+961,Ottawa County,Kansas,20143,20,143,5782,76755,Rural
+962,Pawnee County,Kansas,20145,20,145,6220,63625,Rural
+963,Phillips County,Kansas,20147,20,147,4874,61235,Rural
+964,Pottawatomie County,Kansas,20149,20,149,25808,87694,Rural
+965,Pratt County,Kansas,20151,20,151,9120,64348,Rural
+966,Rawlins County,Kansas,20153,20,153,2533,65000,Rural
+967,Reno County,Kansas,20155,20,155,61693,60498,Urban
+968,Republic County,Kansas,20157,20,157,4662,53611,Rural
+969,Rice County,Kansas,20159,20,159,9389,63947,Rural
+970,Riley County,Kansas,20161,20,161,71710,59560,Urban
+971,Rooks County,Kansas,20163,20,163,4869,61596,Rural
+972,Rush County,Kansas,20165,20,165,2957,60288,Rural
+973,Russell County,Kansas,20167,20,167,6717,53902,Rural
+974,Saline County,Kansas,20169,20,169,53801,63316,Urban
+975,Scott County,Kansas,20171,20,171,5071,67788,Rural
+976,Sedgwick County,Kansas,20173,20,173,524810,67675,Urban
+977,Seward County,Kansas,20175,20,175,21640,62269,Rural
+978,Shawnee County,Kansas,20177,20,177,178315,66043,Urban
+979,Sheridan County,Kansas,20179,20,179,2442,70000,Rural
+980,Sherman County,Kansas,20181,20,181,5919,64444,Rural
+981,Smith County,Kansas,20183,20,183,3579,57024,Rural
+982,Stafford County,Kansas,20185,20,185,4004,63786,Rural
+983,Stanton County,Kansas,20187,20,187,2018,70361,Rural
+984,Stevens County,Kansas,20189,20,189,5212,61909,Rural
+985,Sumner County,Kansas,20191,20,191,22386,60348,Rural
+986,Thomas County,Kansas,20193,20,193,7913,73575,Rural
+987,Trego County,Kansas,20195,20,195,2778,73375,Rural
+988,Wabaunsee County,Kansas,20197,20,197,6961,70536,Rural
+989,Wallace County,Kansas,20199,20,199,1459,60263,Rural
+990,Washington County,Kansas,20201,20,201,5519,62452,Rural
+991,Wichita County,Kansas,20203,20,203,2115,71282,Rural
+992,Wilson County,Kansas,20205,20,205,8559,57056,Rural
+993,Woodson County,Kansas,20207,20,207,3118,48152,Rural
+994,Wyandotte County,Kansas,20209,20,209,167277,60582,Urban
+995,Adair County,Kentucky,21001,21,1,19016,50316,Rural
+996,Allen County,Kentucky,21003,21,3,21029,59029,Rural
+997,Anderson County,Kentucky,21005,21,5,24098,71747,Rural
+998,Ballard County,Kentucky,21007,21,7,7678,64740,Rural
+999,Barren County,Kentucky,21009,21,9,44670,49171,Urban
+1000,Bath County,Kentucky,21011,21,11,12812,54128,Rural
+1001,Bell County,Kentucky,21013,21,13,23878,32403,Rural
+1002,Boone County,Kentucky,21015,21,15,137676,94752,Urban
+1003,Bourbon County,Kentucky,21017,21,17,20174,56322,Rural
+1004,Boyd County,Kentucky,21019,21,19,48043,60659,Urban
+1005,Boyle County,Kentucky,21021,21,21,30708,61635,Urban
+1006,Bracken County,Kentucky,21023,21,23,8427,59521,Rural
+1007,Breathitt County,Kentucky,21025,21,25,13438,41101,Rural
+1008,Breckinridge County,Kentucky,21027,21,27,20722,53673,Rural
+1009,Bullitt County,Kentucky,21029,21,29,83209,77640,Urban
+1010,Butler County,Kentucky,21031,21,31,12373,52003,Rural
+1011,Caldwell County,Kentucky,21033,21,33,12631,57618,Rural
+1012,Calloway County,Kentucky,21035,21,35,37882,51854,Urban
+1013,Campbell County,Kentucky,21037,21,37,93193,77271,Urban
+1014,Carlisle County,Kentucky,21039,21,39,4763,62019,Rural
+1015,Carroll County,Kentucky,21041,21,41,10878,57753,Rural
+1016,Carter County,Kentucky,21043,21,43,26515,50389,Urban
+1017,Casey County,Kentucky,21045,21,45,15951,41689,Rural
+1018,Christian County,Kentucky,21047,21,47,72599,54190,Urban
+1019,Clark County,Kentucky,21049,21,49,37004,67824,Urban
+1020,Clay County,Kentucky,21051,21,51,20105,39607,Rural
+1021,Clinton County,Kentucky,21053,21,53,9240,42168,Rural
+1022,Crittenden County,Kentucky,21055,21,55,8972,47003,Rural
+1023,Cumberland County,Kentucky,21057,21,57,5948,39662,Rural
+1024,Daviess County,Kentucky,21059,21,59,103195,65323,Urban
+1025,Edmonson County,Kentucky,21061,21,61,12243,54512,Rural
+1026,Elliott County,Kentucky,21063,21,63,7336,40074,Rural
+1027,Estill County,Kentucky,21065,21,65,14079,43905,Rural
+1028,Fayette County,Kentucky,21067,21,67,321122,67631,Urban
+1029,Fleming County,Kentucky,21069,21,69,15221,49663,Rural
+1030,Floyd County,Kentucky,21071,21,71,35342,41582,Urban
+1031,Franklin County,Kentucky,21073,21,73,51563,66470,Urban
+1032,Fulton County,Kentucky,21075,21,75,6440,36834,Rural
+1033,Gallatin County,Kentucky,21077,21,77,8749,62247,Rural
+1034,Garrard County,Kentucky,21079,21,79,17346,62572,Rural
+1035,Grant County,Kentucky,21081,21,81,25238,67940,Rural
+1036,Graves County,Kentucky,21083,21,83,36612,50576,Urban
+1037,Grayson County,Kentucky,21085,21,85,26586,49893,Urban
+1038,Green County,Kentucky,21087,21,87,11278,41087,Rural
+1039,Greenup County,Kentucky,21089,21,89,35639,59613,Urban
+1040,Hancock County,Kentucky,21091,21,91,9032,66836,Rural
+1041,Hardin County,Kentucky,21093,21,93,111452,67608,Urban
+1042,Harlan County,Kentucky,21095,21,95,26185,37198,Urban
+1043,Harrison County,Kentucky,21097,21,97,18971,63205,Rural
+1044,Hart County,Kentucky,21099,21,99,19470,49653,Rural
+1045,Henderson County,Kentucky,21101,21,101,44493,58239,Urban
+1046,Henry County,Kentucky,21103,21,103,15774,60736,Rural
+1047,Hickman County,Kentucky,21105,21,105,4470,63750,Rural
+1048,Hopkins County,Kentucky,21107,21,107,45143,57610,Urban
+1049,Jackson County,Kentucky,21109,21,109,13003,41410,Rural
+1050,Jefferson County,Kentucky,21111,21,111,777392,67849,Urban
+1051,Jessamine County,Kentucky,21113,21,113,53792,74886,Urban
+1052,Johnson County,Kentucky,21115,21,115,22464,43014,Rural
+1053,Kenton County,Kentucky,21117,21,117,169817,79421,Urban
+1054,Knott County,Kentucky,21119,21,119,14046,37736,Rural
+1055,Knox County,Kentucky,21121,21,121,30034,33153,Urban
+1056,Larue County,Kentucky,21123,21,123,15028,67770,Rural
+1057,Laurel County,Kentucky,21125,21,125,62731,56999,Urban
+1058,Lawrence County,Kentucky,21127,21,127,16171,45584,Rural
+1059,Lee County,Kentucky,21129,21,129,7375,34182,Rural
+1060,Leslie County,Kentucky,21131,21,131,10261,40176,Rural
+1061,Letcher County,Kentucky,21133,21,133,21146,40501,Rural
+1062,Lewis County,Kentucky,21135,21,135,13028,41632,Rural
+1063,Lincoln County,Kentucky,21137,21,137,24415,50862,Rural
+1064,Livingston County,Kentucky,21139,21,139,8941,59713,Rural
+1065,Logan County,Kentucky,21141,21,141,27731,61535,Urban
+1066,Lyon County,Kentucky,21143,21,143,8831,64464,Rural
+1067,McCracken County,Kentucky,21145,21,145,67584,62385,Urban
+1068,McCreary County,Kentucky,21147,21,147,16905,37355,Rural
+1069,McLean County,Kentucky,21149,21,149,9127,70549,Rural
+1070,Madison County,Kentucky,21151,21,151,94064,62407,Urban
+1071,Magoffin County,Kentucky,21153,21,153,11495,33632,Rural
+1072,Marion County,Kentucky,21155,21,155,19680,55404,Rural
+1073,Marshall County,Kentucky,21157,21,157,31728,63611,Urban
+1074,Martin County,Kentucky,21159,21,159,11181,46185,Rural
+1075,Mason County,Kentucky,21161,21,161,16995,51473,Rural
+1076,Meade County,Kentucky,21163,21,163,30032,70163,Urban
+1077,Menifee County,Kentucky,21165,21,165,6203,44672,Rural
+1078,Mercer County,Kentucky,21167,21,167,22824,63115,Rural
+1079,Metcalfe County,Kentucky,21169,21,169,10372,48572,Rural
+1080,Monroe County,Kentucky,21171,21,171,11318,49430,Rural
+1081,Montgomery County,Kentucky,21173,21,173,28271,57468,Urban
+1082,Morgan County,Kentucky,21175,21,175,13938,47493,Rural
+1083,Muhlenberg County,Kentucky,21177,21,177,30712,52672,Urban
+1084,Nelson County,Kentucky,21179,21,179,47102,67888,Urban
+1085,Nicholas County,Kentucky,21181,21,181,7655,53616,Rural
+1086,Ohio County,Kentucky,21183,21,183,23704,54369,Rural
+1087,Oldham County,Kentucky,21185,21,185,68600,121491,Urban
+1088,Owen County,Kentucky,21187,21,187,11270,59706,Rural
+1089,Owsley County,Kentucky,21189,21,189,4021,31064,Rural
+1090,Pendleton County,Kentucky,21191,21,191,14683,66601,Rural
+1091,Perry County,Kentucky,21193,21,193,27847,45261,Urban
+1092,Pike County,Kentucky,21195,21,195,57466,42179,Urban
+1093,Powell County,Kentucky,21197,21,197,13057,39811,Rural
+1094,Pulaski County,Kentucky,21199,21,199,65503,50943,Urban
+1095,Robertson County,Kentucky,21201,21,201,2239,52337,Rural
+1096,Rockcastle County,Kentucky,21203,21,203,16144,48367,Rural
+1097,Rowan County,Kentucky,21205,21,205,24525,53657,Rural
+1098,Russell County,Kentucky,21207,21,207,18117,50520,Rural
+1099,Scott County,Kentucky,21209,21,209,58269,83660,Urban
+1100,Shelby County,Kentucky,21211,21,211,48599,82671,Urban
+1101,Simpson County,Kentucky,21213,21,213,19786,57392,Rural
+1102,Spencer County,Kentucky,21215,21,215,19875,98333,Rural
+1103,Taylor County,Kentucky,21217,21,217,26205,61871,Urban
+1104,Todd County,Kentucky,21219,21,219,12330,57759,Rural
+1105,Trigg County,Kentucky,21221,21,221,14211,54630,Rural
+1106,Trimble County,Kentucky,21223,21,223,8531,67813,Rural
+1107,Union County,Kentucky,21225,21,225,13379,60989,Rural
+1108,Warren County,Kentucky,21227,21,227,137549,64801,Urban
+1109,Washington County,Kentucky,21229,21,229,12091,59762,Rural
+1110,Wayne County,Kentucky,21231,21,231,19592,41933,Rural
+1111,Webster County,Kentucky,21233,21,233,12873,58786,Rural
+1112,Whitley County,Kentucky,21235,21,235,36755,41719,Urban
+1113,Wolfe County,Kentucky,21237,21,237,6484,29052,Rural
+1114,Woodford County,Kentucky,21239,21,239,27017,80006,Urban
+1115,Acadia Parish,Louisiana,22001,22,1,57218,45266,Urban
+1116,Allen Parish,Louisiana,22003,22,3,22552,51138,Rural
+1117,Ascension Parish,Louisiana,22005,22,5,128593,92266,Urban
+1118,Assumption Parish,Louisiana,22007,22,7,20720,52546,Rural
+1119,Avoyelles Parish,Louisiana,22009,22,9,39176,39439,Urban
+1120,Beauregard Parish,Louisiana,22011,22,11,36646,64995,Urban
+1121,Bienville Parish,Louisiana,22013,22,13,12769,34992,Rural
+1122,Bossier Parish,Louisiana,22015,22,15,129134,66336,Urban
+1123,Caddo Parish,Louisiana,22017,22,17,232973,50067,Urban
+1124,Calcasieu Parish,Louisiana,22019,22,19,208668,67849,Urban
+1125,Caldwell Parish,Louisiana,22021,22,21,9563,44957,Rural
+1126,Cameron Parish,Louisiana,22023,22,23,5222,72500,Rural
+1127,Catahoula Parish,Louisiana,22025,22,25,8738,47753,Rural
+1128,Claiborne Parish,Louisiana,22027,22,27,14019,31784,Rural
+1129,Concordia Parish,Louisiana,22029,22,29,18325,37349,Rural
+1130,De Soto Parish,Louisiana,22031,22,31,26897,46077,Urban
+1131,East Baton Rouge Parish,Louisiana,22033,22,33,452821,63075,Urban
+1132,East Carroll Parish,Louisiana,22035,22,35,7195,28321,Rural
+1133,East Feliciana Parish,Louisiana,22037,22,37,19378,72899,Rural
+1134,Evangeline Parish,Louisiana,22039,22,39,32162,42273,Urban
+1135,Franklin Parish,Louisiana,22041,22,41,19590,44103,Rural
+1136,Grant Parish,Louisiana,22043,22,43,22123,61112,Rural
+1137,Iberia Parish,Louisiana,22045,22,45,69194,57811,Urban
+1138,Iberville Parish,Louisiana,22047,22,47,29950,57459,Urban
+1139,Jackson Parish,Louisiana,22049,22,49,14939,43345,Rural
+1140,Jefferson Parish,Louisiana,22051,22,51,432484,65246,Urban
+1141,Jefferson Davis Parish,Louisiana,22053,22,53,32083,56500,Urban
+1142,Lafayette Parish,Louisiana,22055,22,55,245075,67660,Urban
+1143,Lafourche Parish,Louisiana,22057,22,57,96670,63439,Urban
+1144,LaSalle Parish,Louisiana,22059,22,59,14804,67077,Rural
+1145,Lincoln Parish,Louisiana,22061,22,61,48160,38035,Urban
+1146,Livingston Parish,Louisiana,22063,22,63,145583,78617,Urban
+1147,Madison Parish,Louisiana,22065,22,65,9757,37267,Rural
+1148,Morehouse Parish,Louisiana,22067,22,67,24967,36981,Rural
+1149,Natchitoches Parish,Louisiana,22069,22,69,37047,46798,Urban
+1150,Orleans Parish,Louisiana,22071,22,71,376035,55339,Urban
+1151,Ouachita Parish,Louisiana,22073,22,73,158916,51241,Urban
+1152,Plaquemines Parish,Louisiana,22075,22,75,23070,82874,Rural
+1153,Pointe Coupee Parish,Louisiana,22077,22,77,20438,59351,Rural
+1154,Rapides Parish,Louisiana,22079,22,79,128470,55946,Urban
+1155,Red River Parish,Louisiana,22081,22,81,7529,44539,Rural
+1156,Richland Parish,Louisiana,22083,22,83,19908,52960,Rural
+1157,Sabine Parish,Louisiana,22085,22,85,22085,52047,Rural
+1158,St. Bernard Parish,Louisiana,22087,22,87,44172,57638,Urban
+1159,St. Charles Parish,Louisiana,22089,22,89,51863,82172,Urban
+1160,St. Helena Parish,Louisiana,22091,22,91,10849,50193,Rural
+1161,St. James Parish,Louisiana,22093,22,93,19797,64536,Rural
+1162,St. John the Baptist Parish,Louisiana,22095,22,95,41342,67418,Urban
+1163,St. Landry Parish,Louisiana,22097,22,97,82128,45637,Urban
+1164,St. Martin Parish,Louisiana,22099,22,99,51559,53394,Urban
+1165,St. Mary Parish,Louisiana,22101,22,101,48455,51768,Urban
+1166,St. Tammany Parish,Louisiana,22103,22,103,269331,79277,Urban
+1167,Tangipahoa Parish,Louisiana,22105,22,105,135218,57256,Urban
+1168,Tensas Parish,Louisiana,22107,22,107,3992,36074,Rural
+1169,Terrebonne Parish,Louisiana,22109,22,109,107362,64819,Urban
+1170,Union Parish,Louisiana,22111,22,111,20914,45743,Rural
+1171,Vermilion Parish,Louisiana,22113,22,113,57031,57537,Urban
+1172,Vernon Parish,Louisiana,22115,22,115,47764,58281,Urban
+1173,Washington Parish,Louisiana,22117,22,117,45238,42776,Urban
+1174,Webster Parish,Louisiana,22119,22,119,36189,37396,Urban
+1175,West Baton Rouge Parish,Louisiana,22121,22,121,27666,87320,Urban
+1176,West Carroll Parish,Louisiana,22123,22,123,9622,48514,Rural
+1177,West Feliciana Parish,Louisiana,22125,22,125,15381,74277,Rural
+1178,Winn Parish,Louisiana,22127,22,127,13506,46368,Rural
+1179,Androscoggin County,Maine,23001,23,1,112323,67298,Urban
+1180,Aroostook County,Maine,23003,23,3,67227,54254,Urban
+1181,Cumberland County,Maine,23005,23,5,305940,92983,Urban
+1182,Franklin County,Maine,23007,23,7,30145,58522,Urban
+1183,Hancock County,Maine,23009,23,9,56084,69630,Urban
+1184,Kennebec County,Maine,23011,23,11,125614,65062,Urban
+1185,Knox County,Maine,23013,23,13,40860,71903,Urban
+1186,Lincoln County,Maine,23015,23,15,35840,72026,Urban
+1187,Oxford County,Maine,23017,23,17,58728,57933,Urban
+1188,Penobscot County,Maine,23019,23,19,153571,63248,Urban
+1189,Piscataquis County,Maine,23021,23,21,17125,55234,Rural
+1190,Sagadahoc County,Maine,23023,23,23,37093,82080,Urban
+1191,Somerset County,Maine,23025,23,25,50852,56199,Urban
+1192,Waldo County,Maine,23027,23,27,40006,68441,Urban
+1193,Washington County,Maine,23029,23,29,31261,52237,Urban
+1194,York County,Maine,23031,23,31,214731,82904,Urban
+1195,Allegany County,Maryland,24001,24,1,67762,57393,Urban
+1196,Anne Arundel County,Maryland,24003,24,3,590936,120324,Urban
+1197,Baltimore County,Maryland,24005,24,5,849586,90904,Urban
+1198,Calvert County,Maryland,24009,24,9,93791,132059,Urban
+1199,Caroline County,Maryland,24011,24,11,33406,66368,Urban
+1200,Carroll County,Maryland,24013,24,13,174318,115876,Urban
+1201,Cecil County,Maryland,24015,24,15,104366,91146,Urban
+1202,Charles County,Maryland,24017,24,17,168710,120592,Urban
+1203,Dorchester County,Maryland,24019,24,19,32612,60495,Urban
+1204,Frederick County,Maryland,24021,24,21,280341,120458,Urban
+1205,Garrett County,Maryland,24023,24,23,28713,69031,Urban
+1206,Harford County,Maryland,24025,24,25,262509,111317,Urban
+1207,Howard County,Maryland,24027,24,27,333916,146982,Urban
+1208,Kent County,Maryland,24029,24,29,19265,74402,Rural
+1209,Montgomery County,Maryland,24031,24,31,1057586,128733,Urban
+1210,Prince George's County,Maryland,24033,24,33,955584,100708,Urban
+1211,Queen Anne's County,Maryland,24035,24,35,50951,113347,Urban
+1212,St. Mary's County,Maryland,24037,24,37,114372,114580,Urban
+1213,Somerset County,Maryland,24039,24,39,24685,52462,Rural
+1214,Talbot County,Maryland,24041,24,41,37707,84378,Urban
+1215,Washington County,Maryland,24043,24,43,155033,74157,Urban
+1216,Wicomico County,Maryland,24045,24,45,104117,72861,Urban
+1217,Worcester County,Maryland,24047,24,47,53279,81455,Urban
+1218,Baltimore city,Maryland,24510,24,510,577193,59623,Urban
+1219,Barnstable County,Massachusetts,25001,25,1,230073,94452,Urban
+1220,Berkshire County,Massachusetts,25003,25,3,128047,72565,Urban
+1221,Bristol County,Massachusetts,25005,25,5,578436,84198,Urban
+1222,Dukes County,Massachusetts,25007,25,7,20751,102348,Rural
+1223,Essex County,Massachusetts,25009,25,9,807258,99431,Urban
+1224,Franklin County,Massachusetts,25011,25,11,70922,72584,Urban
+1225,Hampden County,Massachusetts,25013,25,13,462853,70535,Urban
+1226,Hampshire County,Massachusetts,25015,25,15,156595,86391,Urban
+1227,Middlesex County,Massachusetts,25017,25,17,1622896,126779,Urban
+1228,Nantucket County,Massachusetts,25019,25,19,14299,119750,Rural
+1229,Norfolk County,Massachusetts,25021,25,21,724540,126497,Urban
+1230,Plymouth County,Massachusetts,25023,25,23,531889,109698,Urban
+1231,Suffolk County,Massachusetts,25025,25,25,782172,92859,Urban
+1232,Worcester County,Massachusetts,25027,25,27,861664,93561,Urban
+1233,Alcona County,Michigan,26001,26,1,10310,53568,Rural
+1234,Alger County,Michigan,26003,26,3,8813,59406,Rural
+1235,Allegan County,Michigan,26005,26,5,120913,80255,Urban
+1236,Alpena County,Michigan,26007,26,7,28908,51909,Urban
+1237,Antrim County,Michigan,26009,26,9,23876,71421,Rural
+1238,Arenac County,Michigan,26011,26,11,15054,56989,Rural
+1239,Baraga County,Michigan,26013,26,13,8249,55117,Rural
+1240,Barry County,Michigan,26015,26,15,62982,77873,Urban
+1241,Bay County,Michigan,26017,26,17,103235,60523,Urban
+1242,Benzie County,Michigan,26019,26,19,18177,72603,Rural
+1243,Berrien County,Michigan,26021,26,21,153411,63152,Urban
+1244,Branch County,Michigan,26023,26,23,44914,61958,Urban
+1245,Calhoun County,Michigan,26025,26,25,133846,60385,Urban
+1246,Cass County,Michigan,26027,26,27,51606,68011,Urban
+1247,Charlevoix County,Michigan,26029,26,29,26143,76495,Urban
+1248,Cheboygan County,Michigan,26031,26,31,25778,61619,Rural
+1249,Chippewa County,Michigan,26033,26,33,36448,60631,Urban
+1250,Clare County,Michigan,26035,26,35,31109,49805,Urban
+1251,Clinton County,Michigan,26037,26,37,79419,85928,Urban
+1252,Crawford County,Michigan,26039,26,39,13271,58614,Rural
+1253,Delta County,Michigan,26041,26,41,36829,54829,Urban
+1254,Dickinson County,Michigan,26043,26,43,25940,61882,Rural
+1255,Eaton County,Michigan,26045,26,45,109000,78025,Urban
+1256,Emmet County,Michigan,26047,26,47,34159,73724,Urban
+1257,Genesee County,Michigan,26049,26,49,404087,60673,Urban
+1258,Gladwin County,Michigan,26051,26,51,25543,55576,Rural
+1259,Gogebic County,Michigan,26053,26,53,14348,49672,Rural
+1260,Grand Traverse County,Michigan,26055,26,55,95757,79486,Urban
+1261,Gratiot County,Michigan,26057,26,57,41478,61128,Urban
+1262,Hillsdale County,Michigan,26059,26,59,45658,60869,Urban
+1263,Houghton County,Michigan,26061,26,61,37428,56573,Urban
+1264,Huron County,Michigan,26063,26,63,31258,56963,Urban
+1265,Ingham County,Michigan,26065,26,65,282015,64354,Urban
+1266,Ionia County,Michigan,26067,26,67,66706,73436,Urban
+1267,Iosco County,Michigan,26069,26,69,25333,47777,Rural
+1268,Iron County,Michigan,26071,26,71,11650,53614,Rural
+1269,Isabella County,Michigan,26073,26,73,64475,53759,Urban
+1270,Jackson County,Michigan,26075,26,75,160187,65004,Urban
+1271,Kalamazoo County,Michigan,26077,26,77,261437,70525,Urban
+1272,Kalkaska County,Michigan,26079,26,79,18116,60365,Rural
+1273,Kent County,Michigan,26081,26,81,658844,80390,Urban
+1274,Keweenaw County,Michigan,26083,26,83,2106,53893,Rural
+1275,Lake County,Michigan,26085,26,85,12393,49680,Rural
+1276,Lapeer County,Michigan,26087,26,87,88703,76228,Urban
+1277,Leelanau County,Michigan,26089,26,89,22607,91943,Rural
+1278,Lenawee County,Michigan,26091,26,91,98823,67013,Urban
+1279,Livingston County,Michigan,26093,26,93,195143,101315,Urban
+1280,Luce County,Michigan,26095,26,95,6325,54338,Rural
+1281,Mackinac County,Michigan,26097,26,97,10865,58598,Rural
+1282,Macomb County,Michigan,26099,26,99,877624,76399,Urban
+1283,Manistee County,Michigan,26101,26,101,25247,60879,Rural
+1284,Marquette County,Michigan,26103,26,103,66430,64675,Urban
+1285,Mason County,Michigan,26105,26,105,29177,62296,Urban
+1286,Mecosta County,Michigan,26107,26,107,40321,57774,Urban
+1287,Menominee County,Michigan,26109,26,109,23295,55688,Rural
+1288,Midland County,Michigan,26111,26,111,83641,77538,Urban
+1289,Missaukee County,Michigan,26113,26,113,15156,61868,Rural
+1290,Monroe County,Michigan,26115,26,115,155001,75272,Urban
+1291,Montcalm County,Michigan,26117,26,117,67174,64892,Urban
+1292,Montmorency County,Michigan,26119,26,119,9372,47803,Rural
+1293,Muskegon County,Michigan,26121,26,121,175378,63495,Urban
+1294,Newaygo County,Michigan,26123,26,123,50414,61931,Urban
+1295,Oakland County,Michigan,26125,26,125,1272294,95296,Urban
+1296,Oceana County,Michigan,26127,26,127,26788,63624,Urban
+1297,Ogemaw County,Michigan,26129,26,129,20853,51983,Rural
+1298,Ontonagon County,Michigan,26131,26,131,5870,51844,Rural
+1299,Osceola County,Michigan,26133,26,133,23122,57050,Rural
+1300,Oscoda County,Michigan,26135,26,135,8338,50581,Rural
+1301,Otsego County,Michigan,26137,26,137,25352,67285,Rural
+1302,Ottawa County,Michigan,26139,26,139,298614,87144,Urban
+1303,Presque Isle County,Michigan,26141,26,141,13142,56713,Rural
+1304,Roscommon County,Michigan,26143,26,143,23639,54106,Rural
+1305,Saginaw County,Michigan,26145,26,145,189210,58347,Urban
+1306,St. Clair County,Michigan,26147,26,147,160089,69349,Urban
+1307,St. Joseph County,Michigan,26149,26,149,60870,64707,Urban
+1308,Sanilac County,Michigan,26151,26,151,40574,59074,Urban
+1309,Schoolcraft County,Michigan,26153,26,153,8093,57708,Rural
+1310,Shiawassee County,Michigan,26155,26,155,68061,64464,Urban
+1311,Tuscola County,Michigan,26157,26,157,53071,62847,Urban
+1312,Van Buren County,Michigan,26159,26,159,75681,66902,Urban
+1313,Washtenaw County,Michigan,26161,26,161,368394,87156,Urban
+1314,Wayne County,Michigan,26163,26,163,1773767,59521,Urban
+1315,Wexford County,Michigan,26165,26,165,33868,63123,Urban
+1316,Aitkin County,Minnesota,27001,27,1,15930,59498,Rural
+1317,Anoka County,Minnesota,27003,27,3,367095,98764,Urban
+1318,Becker County,Minnesota,27005,27,5,35260,71117,Urban
+1319,Beltrami County,Minnesota,27007,27,7,46421,67257,Urban
+1320,Benton County,Minnesota,27009,27,9,41458,71480,Urban
+1321,Big Stone County,Minnesota,27011,27,11,5152,65475,Rural
+1322,Blue Earth County,Minnesota,27013,27,13,69386,72623,Urban
+1323,Brown County,Minnesota,27015,27,15,25826,68690,Rural
+1324,Carlton County,Minnesota,27017,27,17,36457,80042,Urban
+1325,Carver County,Minnesota,27019,27,19,108622,123144,Urban
+1326,Cass County,Minnesota,27021,27,21,30688,64937,Urban
+1327,Chippewa County,Minnesota,27023,27,23,12388,69192,Rural
+1328,Chisago County,Minnesota,27025,27,25,57434,98260,Urban
+1329,Clay County,Minnesota,27027,27,27,65628,77664,Urban
+1330,Clearwater County,Minnesota,27029,27,29,8579,64934,Rural
+1331,Cook County,Minnesota,27031,27,31,5633,71643,Rural
+1332,Cottonwood County,Minnesota,27033,27,33,11458,68239,Rural
+1333,Crow Wing County,Minnesota,27035,27,35,67113,71343,Urban
+1334,Dakota County,Minnesota,27037,27,37,442204,105212,Urban
+1335,Dodge County,Minnesota,27039,27,39,20962,92943,Rural
+1336,Douglas County,Minnesota,27041,27,41,39354,77264,Urban
+1337,Faribault County,Minnesota,27043,27,43,13909,64391,Rural
+1338,Fillmore County,Minnesota,27045,27,45,21346,75225,Rural
+1339,Freeborn County,Minnesota,27047,27,47,30752,69012,Urban
+1340,Goodhue County,Minnesota,27049,27,49,47844,82749,Urban
+1341,Grant County,Minnesota,27051,27,51,6108,72957,Rural
+1342,Hennepin County,Minnesota,27053,27,53,1268903,96339,Urban
+1343,Houston County,Minnesota,27055,27,55,18768,77087,Rural
+1344,Hubbard County,Minnesota,27057,27,57,21700,70622,Rural
+1345,Isanti County,Minnesota,27059,27,59,41934,86573,Urban
+1346,Itasca County,Minnesota,27061,27,61,45141,66380,Urban
+1347,Jackson County,Minnesota,27063,27,63,9964,69955,Rural
+1348,Kanabec County,Minnesota,27065,27,65,16261,71915,Rural
+1349,Kandiyohi County,Minnesota,27067,27,67,43757,75097,Urban
+1350,Kittson County,Minnesota,27069,27,69,4163,69615,Rural
+1351,Koochiching County,Minnesota,27071,27,71,11950,69115,Rural
+1352,Lac qui Parle County,Minnesota,27073,27,73,6694,71639,Rural
+1353,Lake County,Minnesota,27075,27,75,10911,75621,Rural
+1354,Lake of the Woods County,Minnesota,27077,27,77,3800,70091,Rural
+1355,Le Sueur County,Minnesota,27079,27,79,28936,90218,Urban
+1356,Lincoln County,Minnesota,27081,27,81,5594,67715,Rural
+1357,Lyon County,Minnesota,27083,27,83,25498,72761,Rural
+1358,McLeod County,Minnesota,27085,27,85,36771,78468,Urban
+1359,Mahnomen County,Minnesota,27087,27,87,5371,53925,Rural
+1360,Marshall County,Minnesota,27089,27,89,8961,71701,Rural
+1361,Martin County,Minnesota,27091,27,91,19864,62969,Rural
+1362,Meeker County,Minnesota,27093,27,93,23422,75037,Rural
+1363,Mille Lacs County,Minnesota,27095,27,95,26912,71455,Urban
+1364,Morrison County,Minnesota,27097,27,97,34131,68640,Urban
+1365,Mower County,Minnesota,27099,27,99,40069,71495,Urban
+1366,Murray County,Minnesota,27101,27,101,8119,74475,Rural
+1367,Nicollet County,Minnesota,27103,27,103,34350,80362,Urban
+1368,Nobles County,Minnesota,27105,27,105,22067,65509,Rural
+1369,Norman County,Minnesota,27107,27,107,6411,69833,Rural
+1370,Olmsted County,Minnesota,27109,27,109,163425,93494,Urban
+1371,Otter Tail County,Minnesota,27111,27,111,60281,70912,Urban
+1372,Pennington County,Minnesota,27113,27,113,13877,72561,Rural
+1373,Pine County,Minnesota,27115,27,115,29411,69666,Urban
+1374,Pipestone County,Minnesota,27117,27,117,9352,66073,Rural
+1375,Polk County,Minnesota,27119,27,119,30905,69136,Urban
+1376,Pope County,Minnesota,27121,27,121,11363,72205,Rural
+1377,Ramsey County,Minnesota,27123,27,123,544438,81004,Urban
+1378,Red Lake County,Minnesota,27125,27,125,3922,77500,Rural
+1379,Redwood County,Minnesota,27127,27,127,15383,67024,Rural
+1380,Renville County,Minnesota,27129,27,129,14587,69086,Rural
+1381,Rice County,Minnesota,27131,27,131,67389,82792,Urban
+1382,Rock County,Minnesota,27133,27,133,9628,70698,Rural
+1383,Roseau County,Minnesota,27135,27,135,15301,73611,Rural
+1384,St. Louis County,Minnesota,27137,27,137,200056,69455,Urban
+1385,Scott County,Minnesota,27139,27,139,152957,120247,Urban
+1386,Sherburne County,Minnesota,27141,27,141,99178,102965,Urban
+1387,Sibley County,Minnesota,27143,27,143,14933,76082,Rural
+1388,Stearns County,Minnesota,27145,27,145,159358,76447,Urban
+1389,Steele County,Minnesota,27147,27,147,37413,83448,Urban
+1390,Stevens County,Minnesota,27149,27,149,9686,71060,Rural
+1391,Swift County,Minnesota,27151,27,151,9787,62601,Rural
+1392,Todd County,Minnesota,27153,27,153,25402,63039,Rural
+1393,Traverse County,Minnesota,27155,27,155,3279,65931,Rural
+1394,Wabasha County,Minnesota,27157,27,157,21519,80133,Rural
+1395,Wadena County,Minnesota,27159,27,159,14135,56882,Rural
+1396,Waseca County,Minnesota,27161,27,161,18958,75052,Rural
+1397,Washington County,Minnesota,27163,27,163,272298,114457,Urban
+1398,Watonwan County,Minnesota,27165,27,165,11169,70593,Rural
+1399,Wilkin County,Minnesota,27167,27,167,6413,69635,Rural
+1400,Winona County,Minnesota,27169,27,169,49705,70198,Urban
+1401,Wright County,Minnesota,27171,27,171,145270,106666,Urban
+1402,Yellow Medicine County,Minnesota,27173,27,173,9509,71573,Rural
+1403,Adams County,Mississippi,28001,28,1,29098,40250,Urban
+1404,Alcorn County,Mississippi,28003,28,3,34500,49404,Urban
+1405,Amite County,Mississippi,28005,28,5,12611,35385,Rural
+1406,Attala County,Mississippi,28007,28,7,17685,48098,Rural
+1407,Benton County,Mississippi,28009,28,9,7592,42139,Rural
+1408,Bolivar County,Mississippi,28011,28,11,30163,37315,Urban
+1409,Calhoun County,Mississippi,28013,28,13,13029,43942,Rural
+1410,Carroll County,Mississippi,28015,28,15,9828,55275,Rural
+1411,Chickasaw County,Mississippi,28017,28,17,16994,43041,Rural
+1412,Choctaw County,Mississippi,28019,28,19,8172,48321,Rural
+1413,Claiborne County,Mississippi,28021,28,21,8908,34371,Rural
+1414,Clarke County,Mississippi,28023,28,23,15424,46054,Rural
+1415,Clay County,Mississippi,28025,28,25,18462,39904,Rural
+1416,Coahoma County,Mississippi,28027,28,27,20808,36259,Rural
+1417,Copiah County,Mississippi,28029,28,29,27994,47994,Urban
+1418,Covington County,Mississippi,28031,28,31,18226,47001,Rural
+1419,DeSoto County,Mississippi,28033,28,33,188598,82980,Urban
+1420,Forrest County,Mississippi,28035,28,35,78027,52821,Urban
+1421,Franklin County,Mississippi,28037,28,37,7655,45618,Rural
+1422,George County,Mississippi,28039,28,39,24870,54822,Rural
+1423,Greene County,Mississippi,28041,28,41,13595,55838,Rural
+1424,Grenada County,Mississippi,28043,28,43,21342,47998,Rural
+1425,Hancock County,Mississippi,28045,28,45,46057,67728,Urban
+1426,Harrison County,Mississippi,28047,28,47,209443,57233,Urban
+1427,Hinds County,Mississippi,28049,28,49,222494,49966,Urban
+1428,Holmes County,Mississippi,28051,28,51,16491,29434,Rural
+1429,Humphreys County,Mississippi,28053,28,53,7570,32976,Rural
+1430,Issaquena County,Mississippi,28055,28,55,1095,29271,Rural
+1431,Itawamba County,Mississippi,28057,28,57,23942,59508,Rural
+1432,Jackson County,Mississippi,28059,28,59,144437,64756,Urban
+1433,Jasper County,Mississippi,28061,28,61,16211,47157,Rural
+1434,Jefferson County,Mississippi,28063,28,63,7127,36207,Rural
+1435,Jefferson Davis County,Mississippi,28065,28,65,11183,37183,Rural
+1436,Jones County,Mississippi,28067,28,67,66839,51143,Urban
+1437,Kemper County,Mississippi,28069,28,69,8855,43595,Rural
+1438,Lafayette County,Mississippi,28071,28,71,56920,64334,Urban
+1439,Lamar County,Mississippi,28073,28,73,65081,69106,Urban
+1440,Lauderdale County,Mississippi,28075,28,75,71984,50033,Urban
+1441,Lawrence County,Mississippi,28077,28,77,11883,43368,Rural
+1442,Leake County,Mississippi,28079,28,79,21288,48418,Rural
+1443,Lee County,Mississippi,28081,28,81,83138,67144,Urban
+1444,Leflore County,Mississippi,28083,28,83,27432,33188,Urban
+1445,Lincoln County,Mississippi,28085,28,85,34830,48316,Urban
+1446,Lowndes County,Mississippi,28087,28,87,58187,54460,Urban
+1447,Madison County,Mississippi,28089,28,89,110303,78794,Urban
+1448,Marion County,Mississippi,28091,28,91,24303,42320,Rural
+1449,Marshall County,Mississippi,28093,28,93,33899,51875,Urban
+1450,Monroe County,Mississippi,28095,28,95,33928,51231,Urban
+1451,Montgomery County,Mississippi,28097,28,97,9708,45057,Rural
+1452,Neshoba County,Mississippi,28099,28,99,28927,53087,Urban
+1453,Newton County,Mississippi,28101,28,101,21151,50426,Rural
+1454,Noxubee County,Mississippi,28103,28,103,10136,38814,Rural
+1455,Oktibbeha County,Mississippi,28105,28,105,51473,43482,Urban
+1456,Panola County,Mississippi,28107,28,107,32965,43990,Urban
+1457,Pearl River County,Mississippi,28109,28,109,56781,56535,Urban
+1458,Perry County,Mississippi,28111,28,111,11459,50435,Rural
+1459,Pike County,Mississippi,28113,28,113,39930,41578,Urban
+1460,Pontotoc County,Mississippi,28115,28,115,31312,52741,Urban
+1461,Prentiss County,Mississippi,28117,28,117,24999,51466,Rural
+1462,Quitman County,Mississippi,28119,28,119,5908,32131,Rural
+1463,Rankin County,Mississippi,28121,28,121,158218,77454,Urban
+1464,Scott County,Mississippi,28123,28,123,27754,48492,Urban
+1465,Sharkey County,Mississippi,28125,28,125,3848,35741,Rural
+1466,Simpson County,Mississippi,28127,28,127,25817,54111,Rural
+1467,Smith County,Mississippi,28129,28,129,14193,51396,Rural
+1468,Stone County,Mississippi,28131,28,131,18515,59307,Rural
+1469,Sunflower County,Mississippi,28133,28,133,25328,40265,Rural
+1470,Tallahatchie County,Mississippi,28135,28,135,12363,37383,Rural
+1471,Tate County,Mississippi,28137,28,137,28135,63995,Urban
+1472,Tippah County,Mississippi,28139,28,139,21621,51141,Rural
+1473,Tishomingo County,Mississippi,28141,28,141,18738,46257,Rural
+1474,Tunica County,Mississippi,28143,28,143,9586,38402,Rural
+1475,Union County,Mississippi,28145,28,145,28009,56807,Urban
+1476,Walthall County,Mississippi,28147,28,147,13864,45444,Rural
+1477,Warren County,Mississippi,28149,28,149,43623,56648,Urban
+1478,Washington County,Mississippi,28151,28,151,43674,40117,Urban
+1479,Wayne County,Mississippi,28153,28,153,19699,36791,Rural
+1480,Webster County,Mississippi,28155,28,155,9942,59964,Rural
+1481,Wilkinson County,Mississippi,28157,28,157,8376,35930,Rural
+1482,Winston County,Mississippi,28159,28,159,17609,49071,Rural
+1483,Yalobusha County,Mississippi,28161,28,161,12439,49171,Rural
+1484,Yazoo County,Mississippi,28163,28,163,26837,40974,Urban
+1485,Adair County,Missouri,29001,29,1,25224,56583,Rural
+1486,Andrew County,Missouri,29003,29,3,18086,74007,Rural
+1487,Atchison County,Missouri,29005,29,5,5216,59260,Rural
+1488,Audrain County,Missouri,29007,29,7,24688,56232,Rural
+1489,Barry County,Missouri,29009,29,9,34831,56611,Urban
+1490,Barton County,Missouri,29011,29,11,11685,49503,Rural
+1491,Bates County,Missouri,29013,29,13,16121,57914,Rural
+1492,Benton County,Missouri,29015,29,15,19887,52200,Rural
+1493,Bollinger County,Missouri,29017,29,17,10591,57286,Rural
+1494,Boone County,Missouri,29019,29,19,185874,69913,Urban
+1495,Buchanan County,Missouri,29021,29,21,83855,59423,Urban
+1496,Butler County,Missouri,29023,29,23,42166,49213,Urban
+1497,Caldwell County,Missouri,29025,29,25,8890,62520,Rural
+1498,Callaway County,Missouri,29027,29,27,44541,72645,Urban
+1499,Camden County,Missouri,29029,29,29,43416,62927,Urban
+1500,Cape Girardeau County,Missouri,29031,29,31,82180,68912,Urban
+1501,Carroll County,Missouri,29033,29,33,8459,61712,Rural
+1502,Carter County,Missouri,29035,29,35,5269,45083,Rural
+1503,Cass County,Missouri,29037,29,37,109393,87413,Urban
+1504,Cedar County,Missouri,29039,29,39,14440,45577,Rural
+1505,Chariton County,Missouri,29041,29,41,7406,63307,Rural
+1506,Christian County,Missouri,29043,29,43,91229,81245,Urban
+1507,Clark County,Missouri,29045,29,45,6680,51458,Rural
+1508,Clay County,Missouri,29047,29,47,255566,86150,Urban
+1509,Clinton County,Missouri,29049,29,49,21259,70625,Rural
+1510,Cole County,Missouri,29051,29,51,76924,73273,Urban
+1511,Cooper County,Missouri,29053,29,53,16835,67548,Rural
+1512,Crawford County,Missouri,29055,29,55,22890,56345,Rural
+1513,Dade County,Missouri,29057,29,57,7627,49899,Rural
+1514,Dallas County,Missouri,29059,29,59,17344,53177,Rural
+1515,Daviess County,Missouri,29061,29,61,8449,60665,Rural
+1516,DeKalb County,Missouri,29063,29,63,11176,69093,Rural
+1517,Dent County,Missouri,29065,29,65,14506,54306,Rural
+1518,Douglas County,Missouri,29067,29,67,11850,49828,Rural
+1519,Dunklin County,Missouri,29069,29,69,27795,47368,Urban
+1520,Franklin County,Missouri,29071,29,71,105316,71973,Urban
+1521,Gasconade County,Missouri,29073,29,73,14774,65096,Rural
+1522,Gentry County,Missouri,29075,29,75,6224,57458,Rural
+1523,Greene County,Missouri,29077,29,77,301121,57488,Urban
+1524,Grundy County,Missouri,29079,29,79,9822,53839,Rural
+1525,Harrison County,Missouri,29081,29,81,8198,53364,Rural
+1526,Henry County,Missouri,29083,29,83,22194,56621,Rural
+1527,Hickory County,Missouri,29085,29,85,8501,35084,Rural
+1528,Holt County,Missouri,29087,29,87,4254,58516,Rural
+1529,Howard County,Missouri,29089,29,89,10141,62628,Rural
+1530,Howell County,Missouri,29091,29,91,40168,49814,Urban
+1531,Iron County,Missouri,29093,29,93,9482,51161,Rural
+1532,Jackson County,Missouri,29095,29,95,717021,67178,Urban
+1533,Jasper County,Missouri,29097,29,97,123532,57525,Urban
+1534,Jefferson County,Missouri,29099,29,99,228227,80522,Urban
+1535,Johnson County,Missouri,29101,29,101,54331,67123,Urban
+1536,Knox County,Missouri,29103,29,103,3760,53333,Rural
+1537,Laclede County,Missouri,29105,29,105,36245,50825,Urban
+1538,Lafayette County,Missouri,29107,29,107,32974,79091,Urban
+1539,Lawrence County,Missouri,29109,29,109,38392,55849,Urban
+1540,Lewis County,Missouri,29111,29,111,9945,52340,Rural
+1541,Lincoln County,Missouri,29113,29,113,61636,85276,Urban
+1542,Linn County,Missouri,29115,29,115,11850,61975,Rural
+1543,Livingston County,Missouri,29117,29,117,14330,60148,Rural
+1544,McDonald County,Missouri,29119,29,119,23492,48145,Rural
+1545,Macon County,Missouri,29121,29,121,15163,58318,Rural
+1546,Madison County,Missouri,29123,29,123,12665,58435,Rural
+1547,Maries County,Missouri,29125,29,125,8435,61359,Rural
+1548,Marion County,Missouri,29127,29,127,28493,63908,Urban
+1549,Mercer County,Missouri,29129,29,129,3501,60357,Rural
+1550,Miller County,Missouri,29131,29,131,25081,55172,Rural
+1551,Mississippi County,Missouri,29133,29,133,12079,46258,Rural
+1552,Moniteau County,Missouri,29135,29,135,15303,65161,Rural
+1553,Monroe County,Missouri,29137,29,137,8672,48299,Rural
+1554,Montgomery County,Missouri,29139,29,139,11422,61042,Rural
+1555,Morgan County,Missouri,29141,29,141,21430,49663,Rural
+1556,New Madrid County,Missouri,29143,29,143,16041,49237,Rural
+1557,Newton County,Missouri,29145,29,145,59490,64583,Urban
+1558,Nodaway County,Missouri,29147,29,147,20959,55970,Rural
+1559,Oregon County,Missouri,29149,29,149,8704,44259,Rural
+1560,Osage County,Missouri,29151,29,151,13379,75355,Rural
+1561,Ozark County,Missouri,29153,29,153,8773,42329,Rural
+1562,Pemiscot County,Missouri,29155,29,155,15232,40748,Rural
+1563,Perry County,Missouri,29157,29,157,18947,63356,Rural
+1564,Pettis County,Missouri,29159,29,159,43205,60232,Urban
+1565,Phelps County,Missouri,29161,29,161,44948,55427,Urban
+1566,Pike County,Missouri,29163,29,163,17623,57572,Rural
+1567,Platte County,Missouri,29165,29,165,108751,95748,Urban
+1568,Polk County,Missouri,29167,29,167,32109,56686,Urban
+1569,Pulaski County,Missouri,29169,29,169,53850,66435,Urban
+1570,Putnam County,Missouri,29171,29,171,4675,56875,Rural
+1571,Ralls County,Missouri,29173,29,173,10394,62054,Rural
+1572,Randolph County,Missouri,29175,29,175,24524,55310,Rural
+1573,Ray County,Missouri,29177,29,177,23149,72152,Rural
+1574,Reynolds County,Missouri,29179,29,179,6058,44357,Rural
+1575,Ripley County,Missouri,29181,29,181,10755,43898,Rural
+1576,St. Charles County,Missouri,29183,29,183,409830,102912,Urban
+1577,St. Clair County,Missouri,29185,29,185,9451,46731,Rural
+1578,Ste. Genevieve County,Missouri,29186,29,186,18551,61310,Rural
+1579,St. Francois County,Missouri,29187,29,187,66864,54813,Urban
+1580,St. Louis County,Missouri,29189,29,189,996618,81340,Urban
+1581,Saline County,Missouri,29195,29,195,23177,56566,Rural
+1582,Schuyler County,Missouri,29197,29,197,4044,56023,Rural
+1583,Scotland County,Missouri,29199,29,199,4698,67568,Rural
+1584,Scott County,Missouri,29201,29,201,37967,58847,Urban
+1585,Shannon County,Missouri,29203,29,203,7137,59000,Rural
+1586,Shelby County,Missouri,29205,29,205,6011,52127,Rural
+1587,Stoddard County,Missouri,29207,29,207,28547,54067,Urban
+1588,Stone County,Missouri,29209,29,209,31697,61323,Urban
+1589,Sullivan County,Missouri,29211,29,211,5903,55500,Rural
+1590,Taney County,Missouri,29213,29,213,56382,58258,Urban
+1591,Texas County,Missouri,29215,29,215,24956,48055,Rural
+1592,Vernon County,Missouri,29217,29,217,19713,54519,Rural
+1593,Warren County,Missouri,29219,29,219,36467,77989,Urban
+1594,Washington County,Missouri,29221,29,221,23483,51886,Rural
+1595,Wayne County,Missouri,29223,29,223,10942,43393,Rural
+1596,Webster County,Missouri,29225,29,225,39868,69731,Urban
+1597,Worth County,Missouri,29227,29,227,1956,46167,Rural
+1598,Wright County,Missouri,29229,29,229,18722,47304,Rural
+1599,St. Louis city,Missouri,29510,29,510,293109,55279,Urban
+1600,Beaverhead County,Montana,30001,30,1,9590,58072,Rural
+1601,Big Horn County,Montana,30003,30,3,12963,56680,Rural
+1602,Blaine County,Montana,30005,30,5,6997,65050,Rural
+1603,Broadwater County,Montana,30007,30,7,7310,63636,Rural
+1604,Carbon County,Montana,30009,30,9,10877,71017,Rural
+1605,Carter County,Montana,30011,30,11,1361,52171,Rural
+1606,Cascade County,Montana,30013,30,13,84601,66203,Urban
+1607,Chouteau County,Montana,30015,30,15,5888,56927,Rural
+1608,Custer County,Montana,30017,30,17,11938,63585,Rural
+1609,Daniels County,Montana,30019,30,19,1524,58000,Rural
+1610,Dawson County,Montana,30021,30,21,8874,70953,Rural
+1611,Deer Lodge County,Montana,30023,30,23,9512,49533,Rural
+1612,Fallon County,Montana,30025,30,25,2817,72284,Rural
+1613,Fergus County,Montana,30027,30,27,11581,59731,Rural
+1614,Flathead County,Montana,30029,30,29,108445,71327,Urban
+1615,Gallatin County,Montana,30031,30,31,122194,87454,Urban
+1616,Garfield County,Montana,30033,30,33,938,61750,Rural
+1617,Glacier County,Montana,30035,30,35,13713,45129,Rural
+1618,Golden Valley County,Montana,30037,30,37,840,57353,Rural
+1619,Granite County,Montana,30039,30,39,3419,54646,Rural
+1620,Hill County,Montana,30041,30,41,16260,55313,Rural
+1621,Jefferson County,Montana,30043,30,43,12501,76576,Rural
+1622,Judith Basin County,Montana,30045,30,45,2053,55417,Rural
+1623,Lake County,Montana,30047,30,47,32073,61965,Urban
+1624,Lewis and Clark County,Montana,30049,30,49,72580,74543,Urban
+1625,Liberty County,Montana,30051,30,51,1968,53264,Rural
+1626,Lincoln County,Montana,30053,30,53,20656,47018,Rural
+1627,McCone County,Montana,30055,30,55,1818,71842,Rural
+1628,Madison County,Montana,30057,30,57,8975,67420,Rural
+1629,Meagher County,Montana,30059,30,59,1979,56215,Rural
+1630,Mineral County,Montana,30061,30,61,4796,61117,Rural
+1631,Missoula County,Montana,30063,30,63,119639,71246,Urban
+1632,Musselshell County,Montana,30065,30,65,5068,59010,Rural
+1633,Park County,Montana,30067,30,67,17484,66607,Rural
+1634,Petroleum County,Montana,30069,30,69,401,59318,Rural
+1635,Phillips County,Montana,30071,30,71,4224,58156,Rural
+1636,Pondera County,Montana,30073,30,73,6012,53500,Rural
+1637,Powder River County,Montana,30075,30,75,1762,68009,Rural
+1638,Powell County,Montana,30077,30,77,7029,63432,Rural
+1639,Prairie County,Montana,30079,30,79,1251,45192,Rural
+1640,Ravalli County,Montana,30081,30,81,45807,71323,Urban
+1641,Richland County,Montana,30083,30,83,11329,69578,Rural
+1642,Roosevelt County,Montana,30085,30,85,10665,53125,Rural
+1643,Rosebud County,Montana,30087,30,87,8236,56430,Rural
+1644,Sanders County,Montana,30089,30,89,12936,54035,Rural
+1645,Sheridan County,Montana,30091,30,91,3677,63654,Rural
+1646,Silver Bow County,Montana,30093,30,93,35589,57504,Urban
+1647,Stillwater County,Montana,30095,30,95,9052,81503,Rural
+1648,Sweet Grass County,Montana,30097,30,97,3713,69426,Rural
+1649,Teton County,Montana,30099,30,99,6291,67766,Rural
+1650,Toole County,Montana,30101,30,101,5028,53693,Rural
+1651,Treasure County,Montana,30103,30,103,761,73036,Rural
+1652,Valley County,Montana,30105,30,105,7540,64515,Rural
+1653,Wheatland County,Montana,30107,30,107,2049,47054,Rural
+1654,Wibaux County,Montana,30109,30,109,1148,64792,Rural
+1655,Yellowstone County,Montana,30111,30,111,167340,74400,Urban
+1656,Adams County,Nebraska,31001,31,1,31034,65680,Urban
+1657,Antelope County,Nebraska,31003,31,3,6302,63750,Rural
+1658,Arthur County,Nebraska,31005,31,5,540,67500,Rural
+1659,Banner County,Nebraska,31007,31,7,657,71250,Rural
+1660,Blaine County,Nebraska,31009,31,9,385,61250,Rural
+1661,Boone County,Nebraska,31011,31,11,5366,71367,Rural
+1662,Box Butte County,Nebraska,31013,31,13,10754,68778,Rural
+1663,Boyd County,Nebraska,31015,31,15,1704,58984,Rural
+1664,Brown County,Nebraska,31017,31,17,2739,51538,Rural
+1665,Buffalo County,Nebraska,31019,31,19,50323,74570,Urban
+1666,Burt County,Nebraska,31021,31,21,6730,57303,Rural
+1667,Butler County,Nebraska,31023,31,23,8413,82603,Rural
+1668,Cass County,Nebraska,31025,31,25,26963,88255,Urban
+1669,Cedar County,Nebraska,31027,31,27,8344,73977,Rural
+1670,Chase County,Nebraska,31029,31,29,3639,62782,Rural
+1671,Cherry County,Nebraska,31031,31,31,5468,63750,Rural
+1672,Cheyenne County,Nebraska,31033,31,33,9478,57594,Rural
+1673,Clay County,Nebraska,31035,31,35,6084,75938,Rural
+1674,Colfax County,Nebraska,31037,31,37,10541,79720,Rural
+1675,Cuming County,Nebraska,31039,31,39,8976,70708,Rural
+1676,Custer County,Nebraska,31041,31,41,10544,66310,Rural
+1677,Dakota County,Nebraska,31043,31,43,21331,71655,Rural
+1678,Dawes County,Nebraska,31045,31,45,8212,54381,Rural
+1679,Dawson County,Nebraska,31047,31,47,24020,65383,Rural
+1680,Deuel County,Nebraska,31049,31,49,1865,61438,Rural
+1681,Dixon County,Nebraska,31051,31,51,5561,69156,Rural
+1682,Dodge County,Nebraska,31053,31,53,37146,71294,Urban
+1683,Douglas County,Nebraska,31055,31,55,585461,79081,Urban
+1684,Dundy County,Nebraska,31057,31,57,1811,56563,Rural
+1685,Fillmore County,Nebraska,31059,31,59,5551,76354,Rural
+1686,Franklin County,Nebraska,31061,31,61,2868,57692,Rural
+1687,Frontier County,Nebraska,31063,31,63,2562,68207,Rural
+1688,Furnas County,Nebraska,31065,31,65,4605,60625,Rural
+1689,Gage County,Nebraska,31067,31,67,21646,64426,Rural
+1690,Garden County,Nebraska,31069,31,69,1620,44777,Rural
+1691,Garfield County,Nebraska,31071,31,71,1797,68611,Rural
+1692,Gosper County,Nebraska,31073,31,73,1929,79145,Rural
+1693,Grant County,Nebraska,31075,31,75,695,69063,Rural
+1694,Greeley County,Nebraska,31077,31,77,2211,58894,Rural
+1695,Hall County,Nebraska,31079,31,79,62431,67549,Urban
+1696,Hamilton County,Nebraska,31081,31,81,9438,79884,Rural
+1697,Harlan County,Nebraska,31083,31,83,3006,70536,Rural
+1698,Hayes County,Nebraska,31085,31,85,854,60313,Rural
+1699,Hitchcock County,Nebraska,31087,31,87,2601,52016,Rural
+1700,Holt County,Nebraska,31089,31,89,10093,67225,Rural
+1701,Hooker County,Nebraska,31091,31,91,613,45854,Rural
+1702,Howard County,Nebraska,31093,31,93,6492,74508,Rural
+1703,Jefferson County,Nebraska,31095,31,95,7155,60568,Rural
+1704,Johnson County,Nebraska,31097,31,97,5263,59457,Rural
+1705,Kearney County,Nebraska,31099,31,99,6697,79167,Rural
+1706,Keith County,Nebraska,31101,31,101,8239,58132,Rural
+1707,Keya Paha County,Nebraska,31103,31,103,939,60313,Rural
+1708,Kimball County,Nebraska,31105,31,105,3348,59438,Rural
+1709,Knox County,Nebraska,31107,31,107,8362,64821,Rural
+1710,Lancaster County,Nebraska,31109,31,109,323673,72625,Urban
+1711,Lincoln County,Nebraska,31111,31,111,34122,64342,Urban
+1712,Logan County,Nebraska,31113,31,113,812,71650,Rural
+1713,Loup County,Nebraska,31115,31,115,564,60156,Rural
+1714,McPherson County,Nebraska,31117,31,117,463,61316,Rural
+1715,Madison County,Nebraska,31119,31,119,35535,64637,Urban
+1716,Merrick County,Nebraska,31121,31,121,7696,62849,Rural
+1717,Morrill County,Nebraska,31123,31,123,4544,59773,Rural
+1718,Nance County,Nebraska,31125,31,125,3342,65438,Rural
+1719,Nemaha County,Nebraska,31127,31,127,7035,60132,Rural
+1720,Nuckolls County,Nebraska,31129,31,129,4089,70201,Rural
+1721,Otoe County,Nebraska,31131,31,131,16075,81430,Rural
+1722,Pawnee County,Nebraska,31133,31,133,2539,54926,Rural
+1723,Perkins County,Nebraska,31135,31,135,2835,67500,Rural
+1724,Phelps County,Nebraska,31137,31,137,8983,65988,Rural
+1725,Pierce County,Nebraska,31139,31,139,7312,75938,Rural
+1726,Platte County,Nebraska,31141,31,141,34358,72335,Urban
+1727,Polk County,Nebraska,31143,31,143,5209,71771,Rural
+1728,Red Willow County,Nebraska,31145,31,145,10611,60000,Rural
+1729,Richardson County,Nebraska,31147,31,147,7797,55578,Rural
+1730,Rock County,Nebraska,31149,31,149,1335,57500,Rural
+1731,Saline County,Nebraska,31151,31,151,14642,77027,Rural
+1732,Sarpy County,Nebraska,31153,31,153,194051,101402,Urban
+1733,Saunders County,Nebraska,31155,31,155,22761,89395,Rural
+1734,Scotts Bluff County,Nebraska,31157,31,157,35937,60960,Urban
+1735,Seward County,Nebraska,31159,31,159,17636,81122,Rural
+1736,Sheridan County,Nebraska,31161,31,161,5058,56900,Rural
+1737,Sherman County,Nebraska,31163,31,163,2974,61935,Rural
+1738,Sioux County,Nebraska,31165,31,165,1197,54076,Rural
+1739,Stanton County,Nebraska,31167,31,167,5835,78275,Rural
+1740,Thayer County,Nebraska,31169,31,169,4938,63095,Rural
+1741,Thomas County,Nebraska,31171,31,171,626,72708,Rural
+1742,Thurston County,Nebraska,31173,31,173,6666,64838,Rural
+1743,Valley County,Nebraska,31175,31,175,4094,58902,Rural
+1744,Washington County,Nebraska,31177,31,177,20989,90188,Rural
+1745,Wayne County,Nebraska,31179,31,179,9786,67687,Rural
+1746,Webster County,Nebraska,31181,31,181,3385,65197,Rural
+1747,Wheeler County,Nebraska,31183,31,183,785,55893,Rural
+1748,York County,Nebraska,31185,31,185,14231,74058,Rural
+1749,Churchill County,Nevada,32001,32,1,25614,73268,Rural
+1750,Clark County,Nevada,32003,32,3,2293764,73845,Urban
+1751,Douglas County,Nevada,32005,32,5,49624,88018,Urban
+1752,Elko County,Nevada,32007,32,7,53852,83427,Urban
+1753,Esmeralda County,Nevada,32009,32,9,962,65047,Rural
+1754,Eureka County,Nevada,32011,32,11,1660,73095,Rural
+1755,Humboldt County,Nevada,32013,32,13,17299,79946,Rural
+1756,Lander County,Nevada,32015,32,15,5745,84474,Rural
+1757,Lincoln County,Nevada,32017,32,17,4452,69496,Rural
+1758,Lyon County,Nevada,32019,32,19,60630,73460,Urban
+1759,Mineral County,Nevada,32021,32,21,4557,50584,Rural
+1760,Nye County,Nevada,32023,32,23,53207,55975,Urban
+1761,Pershing County,Nevada,32027,32,27,6505,72007,Rural
+1762,Storey County,Nevada,32029,32,29,4139,96000,Rural
+1763,Washoe County,Nevada,32031,32,31,491770,85600,Urban
+1764,White Pine County,Nevada,32033,32,33,8856,72294,Rural
+1765,Carson City,Nevada,32510,32,510,58364,71809,Urban
+1766,Belknap County,New Hampshire,33001,33,1,64300,87983,Urban
+1767,Carroll County,New Hampshire,33003,33,3,51259,82961,Urban
+1768,Cheshire County,New Hampshire,33005,33,5,76945,81001,Urban
+1769,Coos County,New Hampshire,33007,33,7,31386,58439,Urban
+1770,Grafton County,New Hampshire,33009,33,9,91759,84021,Urban
+1771,Hillsborough County,New Hampshire,33011,33,11,424732,100436,Urban
+1772,Merrimack County,New Hampshire,33013,33,13,155018,93944,Urban
+1773,Rockingham County,New Hampshire,33015,33,15,317163,113927,Urban
+1774,Strafford County,New Hampshire,33017,33,17,131743,86564,Urban
+1775,Sullivan County,New Hampshire,33019,33,19,43529,75929,Urban
+1776,Atlantic County,New Jersey,34001,34,1,274704,76819,Urban
+1777,Bergen County,New Jersey,34003,34,3,954717,123715,Urban
+1778,Burlington County,New Jersey,34005,34,5,464226,105271,Urban
+1779,Camden County,New Jersey,34007,34,7,524042,86384,Urban
+1780,Cape May County,New Jersey,34009,34,9,95236,88046,Urban
+1781,Cumberland County,New Jersey,34011,34,11,152915,64499,Urban
+1782,Essex County,New Jersey,34013,34,13,854130,76712,Urban
+1783,Gloucester County,New Jersey,34015,34,15,304504,102807,Urban
+1784,Hudson County,New Jersey,34017,34,17,710478,90032,Urban
+1785,Hunterdon County,New Jersey,34019,34,19,129448,139453,Urban
+1786,Mercer County,New Jersey,34021,34,21,383286,96333,Urban
+1787,Middlesex County,New Jersey,34023,34,23,861535,109028,Urban
+1788,Monmouth County,New Jersey,34025,34,25,643615,122727,Urban
+1789,Morris County,New Jersey,34027,34,27,510375,134929,Urban
+1790,Ocean County,New Jersey,34029,34,29,646434,86411,Urban
+1791,Passaic County,New Jersey,34031,34,31,518289,87137,Urban
+1792,Salem County,New Jersey,34033,34,33,64973,78412,Urban
+1793,Somerset County,New Jersey,34035,34,35,346203,135960,Urban
+1794,Sussex County,New Jersey,34037,34,37,145117,114316,Urban
+1795,Union County,New Jersey,34039,34,39,572549,100117,Urban
+1796,Warren County,New Jersey,34041,34,41,110238,99596,Urban
+1797,Bernalillo County,New Mexico,35001,35,1,674357,66514,Urban
+1798,Catron County,New Mexico,35003,35,3,3685,46439,Rural
+1799,Chaves County,New Mexico,35005,35,5,64446,52029,Urban
+1800,Cibola County,New Mexico,35006,35,6,27059,51765,Urban
+1801,Colfax County,New Mexico,35007,35,7,12336,52690,Rural
+1802,Curry County,New Mexico,35009,35,9,47932,56259,Urban
+1803,De Baca County,New Mexico,35011,35,11,1580,40804,Rural
+1804,Doña Ana County,New Mexico,35013,35,13,221665,55663,Urban
+1805,Eddy County,New Mexico,35015,35,15,61114,79605,Urban
+1806,Grant County,New Mexico,35017,35,17,27856,45921,Urban
+1807,Guadalupe County,New Mexico,35019,35,19,4379,40149,Rural
+1808,Harding County,New Mexico,35021,35,21,748,41250,Rural
+1809,Hidalgo County,New Mexico,35023,35,23,4097,49076,Rural
+1810,Lea County,New Mexico,35025,35,25,73154,68750,Urban
+1811,Lincoln County,New Mexico,35027,35,27,20227,51643,Rural
+1812,Los Alamos County,New Mexico,35028,35,28,19374,143188,Rural
+1813,Luna County,New Mexico,35029,35,29,25420,37917,Rural
+1814,McKinley County,New Mexico,35031,35,31,71172,44496,Urban
+1815,Mora County,New Mexico,35033,35,33,4176,50178,Rural
+1816,Otero County,New Mexico,35035,35,35,68235,52717,Urban
+1817,Quay County,New Mexico,35037,35,37,8616,43698,Rural
+1818,Rio Arriba County,New Mexico,35039,35,39,40165,53901,Urban
+1819,Roosevelt County,New Mexico,35041,35,41,19002,52445,Rural
+1820,Sandoval County,New Mexico,35043,35,43,151538,84053,Urban
+1821,San Juan County,New Mexico,35045,35,45,121178,53020,Urban
+1822,San Miguel County,New Mexico,35047,35,47,27036,47400,Urban
+1823,Santa Fe County,New Mexico,35049,35,49,155175,74689,Urban
+1824,Sierra County,New Mexico,35051,35,51,11511,37840,Rural
+1825,Socorro County,New Mexico,35053,35,53,16308,47556,Rural
+1826,Taos County,New Mexico,35055,35,55,34516,58908,Urban
+1827,Torrance County,New Mexico,35057,35,57,15290,46250,Rural
+1828,Union County,New Mexico,35059,35,59,4039,45319,Rural
+1829,Valencia County,New Mexico,35061,35,61,77382,58333,Urban
+1830,Albany County,New York,36001,36,1,315374,83149,Urban
+1831,Allegany County,New York,36003,36,3,47027,61233,Urban
+1832,Bronx County,New York,36005,36,5,1419250,49036,Urban
+1833,Broome County,New York,36007,36,7,197738,61059,Urban
+1834,Cattaraugus County,New York,36009,36,9,76479,58248,Urban
+1835,Cayuga County,New York,36011,36,11,75464,66583,Urban
+1836,Chautauqua County,New York,36013,36,13,126329,56507,Urban
+1837,Chemung County,New York,36015,36,15,82805,63469,Urban
+1838,Chenango County,New York,36017,36,17,46685,62093,Urban
+1839,Clinton County,New York,36019,36,19,78961,69208,Urban
+1840,Columbia County,New York,36021,36,21,61245,83619,Urban
+1841,Cortland County,New York,36023,36,23,46401,67527,Urban
+1842,Delaware County,New York,36025,36,25,44551,60226,Urban
+1843,Dutchess County,New York,36027,36,27,297144,97273,Urban
+1844,Erie County,New York,36029,36,29,950044,71175,Urban
+1845,Essex County,New York,36031,36,31,37077,70215,Urban
+1846,Franklin County,New York,36033,36,33,47066,63747,Urban
+1847,Fulton County,New York,36035,36,35,52787,62615,Urban
+1848,Genesee County,New York,36037,36,37,57943,72055,Urban
+1849,Greene County,New York,36039,36,39,47554,74011,Urban
+1850,Hamilton County,New York,36041,36,41,5102,68950,Rural
+1851,Herkimer County,New York,36043,36,43,59932,68858,Urban
+1852,Jefferson County,New York,36045,36,45,116130,64978,Urban
+1853,Kings County,New York,36047,36,47,2646306,78548,Urban
+1854,Lewis County,New York,36049,36,49,26618,68329,Urban
+1855,Livingston County,New York,36051,36,51,61588,72464,Urban
+1856,Madison County,New York,36053,36,53,67572,73141,Urban
+1857,Monroe County,New York,36055,36,55,754068,74409,Urban
+1858,Montgomery County,New York,36057,36,57,49461,62923,Urban
+1859,Nassau County,New York,36059,36,59,1388138,143408,Urban
+1860,New York County,New York,36061,36,61,1627788,104553,Urban
+1861,Niagara County,New York,36063,36,63,211341,67809,Urban
+1862,Oneida County,New York,36065,36,65,229645,68819,Urban
+1863,Onondaga County,New York,36067,36,67,471611,74740,Urban
+1864,Ontario County,New York,36069,36,69,112405,79814,Urban
+1865,Orange County,New York,36071,36,71,403840,96497,Urban
+1866,Orleans County,New York,36073,36,73,39686,63838,Urban
+1867,Oswego County,New York,36075,36,75,117945,68461,Urban
+1868,Otsego County,New York,36077,36,77,59738,67086,Urban
+1869,Putnam County,New York,36079,36,79,97988,127405,Urban
+1870,Queens County,New York,36081,36,81,2330124,84961,Urban
+1871,Rensselaer County,New York,36083,36,83,160341,86663,Urban
+1872,Richmond County,New York,36085,36,85,492734,98290,Urban
+1873,Rockland County,New York,36087,36,87,338936,110631,Urban
+1874,St. Lawrence County,New York,36089,36,89,107796,61900,Urban
+1875,Saratoga County,New York,36091,36,91,237075,99653,Urban
+1876,Schenectady County,New York,36093,36,93,159603,76989,Urban
+1877,Schoharie County,New York,36095,36,95,29979,71188,Urban
+1878,Schuyler County,New York,36097,36,97,17749,65625,Rural
+1879,Seneca County,New York,36099,36,99,33125,66007,Urban
+1880,Steuben County,New York,36101,36,101,93034,64740,Urban
+1881,Suffolk County,New York,36103,36,103,1525680,128329,Urban
+1882,Sullivan County,New York,36105,36,105,79147,69826,Urban
+1883,Tioga County,New York,36107,36,107,48106,71791,Urban
+1884,Tompkins County,New York,36109,36,109,102879,73012,Urban
+1885,Ulster County,New York,36111,36,111,182109,81804,Urban
+1886,Warren County,New York,36113,36,113,65560,78239,Urban
+1887,Washington County,New York,36115,36,115,60883,72342,Urban
+1888,Wayne County,New York,36117,36,117,91128,73914,Urban
+1889,Westchester County,New York,36119,36,119,996888,118411,Urban
+1890,Wyoming County,New York,36121,36,121,39980,68913,Urban
+1891,Yates County,New York,36123,36,123,24637,67521,Rural
+1892,Alamance County,North Carolina,37001,37,1,174286,64445,Urban
+1893,Alexander County,North Carolina,37003,37,3,36440,65268,Urban
+1894,Alleghany County,North Carolina,37005,37,5,11075,44272,Rural
+1895,Anson County,North Carolina,37007,37,7,21903,44245,Rural
+1896,Ashe County,North Carolina,37009,37,9,26831,50827,Urban
+1897,Avery County,North Carolina,37011,37,11,17643,57657,Rural
+1898,Beaufort County,North Carolina,37013,37,13,44597,57997,Urban
+1899,Bertie County,North Carolina,37015,37,15,17482,45931,Rural
+1900,Bladen County,North Carolina,37017,37,17,29591,44528,Urban
+1901,Brunswick County,North Carolina,37019,37,19,145889,74034,Urban
+1902,Buncombe County,North Carolina,37021,37,21,271790,70578,Urban
+1903,Burke County,North Carolina,37023,37,23,87863,55684,Urban
+1904,Cabarrus County,North Carolina,37025,37,25,231262,86084,Urban
+1905,Caldwell County,North Carolina,37027,37,27,80618,55401,Urban
+1906,Camden County,North Carolina,37029,37,29,10743,87781,Rural
+1907,Carteret County,North Carolina,37031,37,31,68652,70235,Urban
+1908,Caswell County,North Carolina,37033,37,33,22689,59407,Rural
+1909,Catawba County,North Carolina,37035,37,35,162051,64544,Urban
+1910,Chatham County,North Carolina,37037,37,37,78319,88534,Urban
+1911,Cherokee County,North Carolina,37039,37,39,29197,51496,Urban
+1912,Chowan County,North Carolina,37041,37,41,13814,56982,Rural
+1913,Clay County,North Carolina,37043,37,43,11391,53645,Rural
+1914,Cleveland County,North Carolina,37045,37,45,100170,55769,Urban
+1915,Columbus County,North Carolina,37047,37,47,50453,48184,Urban
+1916,Craven County,North Carolina,37049,37,49,101074,64635,Urban
+1917,Cumberland County,North Carolina,37051,37,51,336749,58780,Urban
+1918,Currituck County,North Carolina,37053,37,53,29612,91548,Urban
+1919,Dare County,North Carolina,37055,37,55,37534,81214,Urban
+1920,Davidson County,North Carolina,37057,37,57,171063,62426,Urban
+1921,Davie County,North Carolina,37059,37,59,43526,73234,Urban
+1922,Duplin County,North Carolina,37061,37,61,49053,51880,Urban
+1923,Durham County,North Carolina,37063,37,63,329405,79501,Urban
+1924,Edgecombe County,North Carolina,37065,37,65,48777,48480,Urban
+1925,Forsyth County,North Carolina,37067,37,67,386740,65541,Urban
+1926,Franklin County,North Carolina,37069,37,69,71962,71386,Urban
+1927,Gaston County,North Carolina,37071,37,71,231485,65472,Urban
+1928,Gates County,North Carolina,37073,37,73,10437,61612,Rural
+1929,Graham County,North Carolina,37075,37,75,8041,49038,Rural
+1930,Granville County,North Carolina,37077,37,77,61439,70975,Urban
+1931,Greene County,North Carolina,37079,37,79,20421,50904,Rural
+1932,Guilford County,North Carolina,37081,37,81,542987,66027,Urban
+1933,Halifax County,North Carolina,37083,37,83,48219,45071,Urban
+1934,Harnett County,North Carolina,37085,37,85,136503,69012,Urban
+1935,Haywood County,North Carolina,37087,37,87,62432,61001,Urban
+1936,Henderson County,North Carolina,37089,37,89,117387,67623,Urban
+1937,Hertford County,North Carolina,37091,37,91,20492,47472,Rural
+1938,Hoke County,North Carolina,37093,37,93,53102,60095,Urban
+1939,Hyde County,North Carolina,37095,37,95,4625,47338,Rural
+1940,Iredell County,North Carolina,37097,37,97,191800,78678,Urban
+1941,Jackson County,North Carolina,37099,37,99,43089,53479,Urban
+1942,Johnston County,North Carolina,37101,37,101,226623,79838,Urban
+1943,Jones County,North Carolina,37103,37,103,9245,55659,Rural
+1944,Lee County,North Carolina,37105,37,105,64565,63060,Urban
+1945,Lenoir County,North Carolina,37107,37,107,54917,44795,Urban
+1946,Lincoln County,North Carolina,37109,37,109,90359,78490,Urban
+1947,McDowell County,North Carolina,37111,37,111,44679,55527,Urban
+1948,Macon County,North Carolina,37113,37,113,37533,53298,Urban
+1949,Madison County,North Carolina,37115,37,115,21640,58628,Rural
+1950,Martin County,North Carolina,37117,37,117,21773,46793,Rural
+1951,Mecklenburg County,North Carolina,37119,37,119,1130906,83765,Urban
+1952,Mitchell County,North Carolina,37121,37,121,14973,58089,Rural
+1953,Montgomery County,North Carolina,37123,37,123,25874,55849,Rural
+1954,Moore County,North Carolina,37125,37,125,102840,82837,Urban
+1955,Nash County,North Carolina,37127,37,127,95451,60704,Urban
+1956,New Hanover County,North Carolina,37129,37,129,231214,72892,Urban
+1957,Northampton County,North Carolina,37131,37,131,17212,47935,Rural
+1958,Onslow County,North Carolina,37133,37,133,208537,64568,Urban
+1959,Orange County,North Carolina,37135,37,135,147292,88553,Urban
+1960,Pamlico County,North Carolina,37137,37,137,12315,61624,Rural
+1961,Pasquotank County,North Carolina,37139,37,139,40830,63912,Urban
+1962,Pender County,North Carolina,37141,37,141,63475,76838,Urban
+1963,Perquimans County,North Carolina,37143,37,143,13146,61224,Rural
+1964,Person County,North Carolina,37145,37,145,39275,64927,Urban
+1965,Pitt County,North Carolina,37147,37,147,172279,58851,Urban
+1966,Polk County,North Carolina,37149,37,149,19689,61005,Rural
+1967,Randolph County,North Carolina,37151,37,151,145322,59047,Urban
+1968,Richmond County,North Carolina,37153,37,153,42818,43626,Urban
+1969,Robeson County,North Carolina,37155,37,155,116858,40318,Urban
+1970,Rockingham County,North Carolina,37157,37,157,91585,55796,Urban
+1971,Rowan County,North Carolina,37159,37,159,148487,63196,Urban
+1972,Rutherford County,North Carolina,37161,37,161,64850,49771,Urban
+1973,Sampson County,North Carolina,37163,37,163,59245,53159,Urban
+1974,Scotland County,North Carolina,37165,37,165,34353,43500,Urban
+1975,Stanly County,North Carolina,37167,37,167,63557,61631,Urban
+1976,Stokes County,North Carolina,37169,37,169,44889,60039,Urban
+1977,Surry County,North Carolina,37171,37,171,71407,56095,Urban
+1978,Swain County,North Carolina,37173,37,173,14065,55429,Rural
+1979,Transylvania County,North Carolina,37175,37,175,33243,64523,Urban
+1980,Tyrrell County,North Carolina,37177,37,177,3376,43952,Rural
+1981,Union County,North Carolina,37179,37,179,244975,99243,Urban
+1982,Vance County,North Carolina,37181,37,181,42361,46943,Urban
+1983,Wake County,North Carolina,37183,37,183,1151009,101763,Urban
+1984,Warren County,North Carolina,37185,37,185,18751,45279,Rural
+1985,Washington County,North Carolina,37187,37,187,10905,41750,Rural
+1986,Watauga County,North Carolina,37189,37,189,54607,51367,Urban
+1987,Wayne County,North Carolina,37191,37,191,117606,58082,Urban
+1988,Wilkes County,North Carolina,37193,37,193,65983,50438,Urban
+1989,Wilson County,North Carolina,37195,37,195,78648,51381,Urban
+1990,Yadkin County,North Carolina,37197,37,197,37419,60321,Urban
+1991,Yancey County,North Carolina,37199,37,199,18676,54961,Rural
+1992,Adams County,North Dakota,38001,38,1,2179,55417,Rural
+1993,Barnes County,North Dakota,38003,38,3,10794,70230,Rural
+1994,Benson County,North Dakota,38005,38,5,5861,68049,Rural
+1995,Billings County,North Dakota,38007,38,7,948,81250,Rural
+1996,Bottineau County,North Dakota,38009,38,9,6390,83460,Rural
+1997,Bowman County,North Dakota,38011,38,11,2935,83773,Rural
+1998,Burke County,North Dakota,38013,38,13,2163,96339,Rural
+1999,Burleigh County,North Dakota,38015,38,15,98986,84948,Urban
+2000,Cass County,North Dakota,38017,38,17,189286,75023,Urban
+2001,Cavalier County,North Dakota,38019,38,19,3663,67064,Rural
+2002,Dickey County,North Dakota,38021,38,21,4959,63125,Rural
+2003,Divide County,North Dakota,38023,38,23,2174,89297,Rural
+2004,Dunn County,North Dakota,38025,38,25,4043,94688,Rural
+2005,Eddy County,North Dakota,38027,38,27,2319,55389,Rural
+2006,Emmons County,North Dakota,38029,38,29,3269,67368,Rural
+2007,Foster County,North Dakota,38031,38,31,3372,83412,Rural
+2008,Golden Valley County,North Dakota,38033,38,33,1679,76528,Rural
+2009,Grand Forks County,North Dakota,38035,38,35,72764,68450,Urban
+2010,Grant County,North Dakota,38037,38,37,2276,56750,Rural
+2011,Griggs County,North Dakota,38039,38,39,2340,64737,Rural
+2012,Hettinger County,North Dakota,38041,38,41,2453,70827,Rural
+2013,Kidder County,North Dakota,38043,38,43,2374,61850,Rural
+2014,LaMoure County,North Dakota,38045,38,45,4107,70263,Rural
+2015,Logan County,North Dakota,38047,38,47,1848,61339,Rural
+2016,McHenry County,North Dakota,38049,38,49,5264,80614,Rural
+2017,McIntosh County,North Dakota,38051,38,51,2512,64236,Rural
+2018,McKenzie County,North Dakota,38053,38,53,14280,88289,Rural
+2019,McLean County,North Dakota,38055,38,55,9807,81847,Rural
+2020,Mercer County,North Dakota,38057,38,57,8341,79405,Rural
+2021,Morton County,North Dakota,38059,38,59,33479,79483,Urban
+2022,Mountrail County,North Dakota,38061,38,61,9567,81292,Rural
+2023,Nelson County,North Dakota,38063,38,63,3015,68051,Rural
+2024,Oliver County,North Dakota,38065,38,65,1821,76953,Rural
+2025,Pembina County,North Dakota,38067,38,67,6787,66884,Rural
+2026,Pierce County,North Dakota,38069,38,69,3961,63214,Rural
+2027,Ramsey County,North Dakota,38071,38,71,11563,61319,Rural
+2028,Ransom County,North Dakota,38073,38,73,5662,74521,Rural
+2029,Renville County,North Dakota,38075,38,75,2277,76311,Rural
+2030,Richland County,North Dakota,38077,38,77,16550,72524,Rural
+2031,Rolette County,North Dakota,38079,38,79,12065,57355,Rural
+2032,Sargent County,North Dakota,38081,38,81,3822,77697,Rural
+2033,Sheridan County,North Dakota,38083,38,83,1327,67361,Rural
+2034,Sioux County,North Dakota,38085,38,85,3789,41676,Rural
+2035,Slope County,North Dakota,38087,38,87,795,62500,Rural
+2036,Stark County,North Dakota,38089,38,89,33116,80744,Urban
+2037,Steele County,North Dakota,38091,38,91,1731,80313,Rural
+2038,Stutsman County,North Dakota,38093,38,93,21525,60172,Rural
+2039,Towner County,North Dakota,38095,38,95,2113,63017,Rural
+2040,Traill County,North Dakota,38097,38,97,7980,88289,Rural
+2041,Walsh County,North Dakota,38099,38,99,10488,69976,Rural
+2042,Ward County,North Dakota,38101,38,101,69232,79273,Urban
+2043,Wells County,North Dakota,38103,38,103,3942,61346,Rural
+2044,Williams County,North Dakota,38105,38,105,39368,90224,Urban
+2045,Adams County,Ohio,39001,39,1,27510,49521,Urban
+2046,Allen County,Ohio,39003,39,3,101685,62001,Urban
+2047,Ashland County,Ohio,39005,39,5,52296,64991,Urban
+2048,Ashtabula County,Ohio,39007,39,7,97343,55507,Urban
+2049,Athens County,Ohio,39009,39,9,61573,53837,Urban
+2050,Auglaize County,Ohio,39011,39,11,46209,76454,Urban
+2051,Belmont County,Ohio,39013,39,13,65982,58411,Urban
+2052,Brown County,Ohio,39015,39,15,43710,69990,Urban
+2053,Butler County,Ohio,39017,39,17,389910,81194,Urban
+2054,Carroll County,Ohio,39019,39,19,26731,64675,Urban
+2055,Champaign County,Ohio,39021,39,21,38772,74239,Urban
+2056,Clark County,Ohio,39023,39,23,135445,60846,Urban
+2057,Clermont County,Ohio,39025,39,25,209862,83178,Urban
+2058,Clinton County,Ohio,39027,39,27,42014,68125,Urban
+2059,Columbiana County,Ohio,39029,39,29,101203,58474,Urban
+2060,Coshocton County,Ohio,39031,39,31,36679,54687,Urban
+2061,Crawford County,Ohio,39033,39,33,41767,55477,Urban
+2062,Cuyahoga County,Ohio,39035,39,35,1249418,62823,Urban
+2063,Darke County,Ohio,39037,39,37,51655,64654,Urban
+2064,Defiance County,Ohio,39039,39,39,38258,73615,Urban
+2065,Delaware County,Ohio,39041,39,41,221160,130088,Urban
+2066,Erie County,Ohio,39043,39,43,74938,68431,Urban
+2067,Fairfield County,Ohio,39045,39,45,161289,87069,Urban
+2068,Fayette County,Ohio,39047,39,47,28880,60047,Urban
+2069,Franklin County,Ohio,39049,39,49,1321635,73795,Urban
+2070,Fulton County,Ohio,39051,39,51,42434,72866,Urban
+2071,Gallia County,Ohio,39053,39,53,29162,56455,Urban
+2072,Geauga County,Ohio,39055,39,55,95479,100783,Urban
+2073,Greene County,Ohio,39057,39,57,168531,85218,Urban
+2074,Guernsey County,Ohio,39059,39,59,38283,55756,Urban
+2075,Hamilton County,Ohio,39061,39,61,827878,70816,Urban
+2076,Hancock County,Ohio,39063,39,63,74885,69699,Urban
+2077,Hardin County,Ohio,39065,39,65,30527,58001,Urban
+2078,Harrison County,Ohio,39067,39,67,14408,53851,Rural
+2079,Henry County,Ohio,39069,39,69,27581,79267,Urban
+2080,Highland County,Ohio,39071,39,71,43403,62008,Urban
+2081,Hocking County,Ohio,39073,39,73,27938,61366,Urban
+2082,Holmes County,Ohio,39075,39,75,44312,74774,Urban
+2083,Huron County,Ohio,39077,39,77,58412,65972,Urban
+2084,Jackson County,Ohio,39079,39,79,32588,58409,Urban
+2085,Jefferson County,Ohio,39081,39,81,64855,56983,Urban
+2086,Knox County,Ohio,39083,39,83,62888,73988,Urban
+2087,Lake County,Ohio,39085,39,85,232101,77952,Urban
+2088,Lawrence County,Ohio,39087,39,87,57385,54842,Urban
+2089,Licking County,Ohio,39089,39,89,180311,81033,Urban
+2090,Logan County,Ohio,39091,39,91,46140,69183,Urban
+2091,Lorain County,Ohio,39093,39,93,314588,70693,Urban
+2092,Lucas County,Ohio,39095,39,95,428748,60095,Urban
+2093,Madison County,Ohio,39097,39,97,44126,83229,Urban
+2094,Mahoning County,Ohio,39099,39,99,227063,55576,Urban
+2095,Marion County,Ohio,39101,39,101,65145,57306,Urban
+2096,Medina County,Ohio,39103,39,103,183049,92660,Urban
+2097,Meigs County,Ohio,39105,39,105,22072,46701,Rural
+2098,Mercer County,Ohio,39107,39,107,42438,78036,Urban
+2099,Miami County,Ohio,39109,39,109,109549,74175,Urban
+2100,Monroe County,Ohio,39111,39,111,13308,58962,Rural
+2101,Montgomery County,Ohio,39113,39,113,535528,64403,Urban
+2102,Morgan County,Ohio,39115,39,115,13758,55971,Rural
+2103,Morrow County,Ohio,39117,39,117,35214,71047,Urban
+2104,Muskingum County,Ohio,39119,39,119,86382,59203,Urban
+2105,Noble County,Ohio,39121,39,121,14252,55360,Rural
+2106,Ottawa County,Ohio,39123,39,123,40161,75728,Urban
+2107,Paulding County,Ohio,39125,39,125,18800,68167,Rural
+2108,Perry County,Ohio,39127,39,127,35474,64737,Urban
+2109,Pickaway County,Ohio,39129,39,129,59407,72927,Urban
+2110,Pike County,Ohio,39131,39,131,27080,49552,Urban
+2111,Portage County,Ohio,39133,39,133,161421,72822,Urban
+2112,Preble County,Ohio,39135,39,135,40802,71237,Urban
+2113,Putnam County,Ohio,39137,39,137,34352,82785,Urban
+2114,Richland County,Ohio,39139,39,139,125138,57649,Urban
+2115,Ross County,Ohio,39141,39,141,76748,59819,Urban
+2116,Sandusky County,Ohio,39143,39,143,58770,62500,Urban
+2117,Scioto County,Ohio,39145,39,145,73118,49571,Urban
+2118,Seneca County,Ohio,39147,39,147,54861,65020,Urban
+2119,Shelby County,Ohio,39149,39,149,48007,72822,Urban
+2120,Stark County,Ohio,39151,39,151,373764,65740,Urban
+2121,Summit County,Ohio,39153,39,153,538087,71016,Urban
+2122,Trumbull County,Ohio,39155,39,155,201367,55088,Urban
+2123,Tuscarawas County,Ohio,39157,39,157,92585,64494,Urban
+2124,Union County,Ohio,39159,39,159,65293,109506,Urban
+2125,Van Wert County,Ohio,39161,39,161,28824,65344,Urban
+2126,Vinton County,Ohio,39163,39,163,12686,53813,Rural
+2127,Warren County,Ohio,39165,39,165,246364,107843,Urban
+2128,Washington County,Ohio,39167,39,167,59318,61355,Urban
+2129,Wayne County,Ohio,39169,39,169,116618,71769,Urban
+2130,Williams County,Ohio,39171,39,171,36862,61834,Urban
+2131,Wood County,Ohio,39173,39,173,131795,73124,Urban
+2132,Wyandot County,Ohio,39175,39,175,21699,71878,Rural
+2133,Adair County,Oklahoma,40001,40,1,19595,48028,Rural
+2134,Alfalfa County,Oklahoma,40003,40,3,5685,67870,Rural
+2135,Atoka County,Oklahoma,40005,40,5,14255,52034,Rural
+2136,Beaver County,Oklahoma,40007,40,7,5041,64266,Rural
+2137,Beckham County,Oklahoma,40009,40,9,22202,52323,Rural
+2138,Blaine County,Oklahoma,40011,40,11,8603,59304,Rural
+2139,Bryan County,Oklahoma,40013,40,13,47237,54280,Urban
+2140,Caddo County,Oklahoma,40015,40,15,26626,52817,Urban
+2141,Canadian County,Oklahoma,40017,40,17,162621,85427,Urban
+2142,Carter County,Oklahoma,40019,40,19,48255,58856,Urban
+2143,Cherokee County,Oklahoma,40021,40,21,47621,53668,Urban
+2144,Choctaw County,Oklahoma,40023,40,23,14299,45456,Rural
+2145,Cimarron County,Oklahoma,40025,40,25,2247,57204,Rural
+2146,Cleveland County,Oklahoma,40027,40,27,297545,74446,Urban
+2147,Coal County,Oklahoma,40029,40,29,5275,48162,Rural
+2148,Comanche County,Oklahoma,40031,40,31,121699,59000,Urban
+2149,Cotton County,Oklahoma,40033,40,33,5475,60313,Rural
+2150,Craig County,Oklahoma,40035,40,35,14215,50182,Rural
+2151,Creek County,Oklahoma,40037,40,37,72353,61849,Urban
+2152,Custer County,Oklahoma,40039,40,39,28332,57562,Urban
+2153,Delaware County,Oklahoma,40041,40,41,41017,55114,Urban
+2154,Dewey County,Oklahoma,40043,40,43,4433,60550,Rural
+2155,Ellis County,Oklahoma,40045,40,45,3717,56992,Rural
+2156,Garfield County,Oklahoma,40047,40,47,62322,67302,Urban
+2157,Garvin County,Oklahoma,40049,40,49,25779,57127,Rural
+2158,Grady County,Oklahoma,40051,40,51,55868,75730,Urban
+2159,Grant County,Oklahoma,40053,40,53,4137,61824,Rural
+2160,Greer County,Oklahoma,40055,40,55,5498,60183,Rural
+2161,Harmon County,Oklahoma,40057,40,57,2452,54286,Rural
+2162,Harper County,Oklahoma,40059,40,59,3231,59191,Rural
+2163,Haskell County,Oklahoma,40061,40,61,11667,49930,Rural
+2164,Hughes County,Oklahoma,40063,40,63,13411,47923,Rural
+2165,Jackson County,Oklahoma,40065,40,65,24730,61497,Rural
+2166,Jefferson County,Oklahoma,40067,40,67,5377,48750,Rural
+2167,Johnston County,Oklahoma,40069,40,69,10334,50911,Rural
+2168,Kay County,Oklahoma,40071,40,71,43731,56673,Urban
+2169,Kingfisher County,Oklahoma,40073,40,73,15288,70617,Rural
+2170,Kiowa County,Oklahoma,40075,40,75,8458,42063,Rural
+2171,Latimer County,Oklahoma,40077,40,77,9495,41048,Rural
+2172,Le Flore County,Oklahoma,40079,40,79,48728,50027,Urban
+2173,Lincoln County,Oklahoma,40081,40,81,33917,59425,Urban
+2174,Logan County,Oklahoma,40083,40,83,50905,82735,Urban
+2175,Love County,Oklahoma,40085,40,85,10196,62940,Rural
+2176,McClain County,Oklahoma,40087,40,87,43779,84778,Urban
+2177,McCurtain County,Oklahoma,40089,40,89,30825,50175,Urban
+2178,McIntosh County,Oklahoma,40091,40,91,19237,46203,Rural
+2179,Major County,Oklahoma,40093,40,93,7656,69229,Rural
+2180,Marshall County,Oklahoma,40095,40,95,15628,56495,Rural
+2181,Mayes County,Oklahoma,40097,40,97,39406,57279,Urban
+2182,Murray County,Oklahoma,40099,40,99,13807,61904,Rural
+2183,Muskogee County,Oklahoma,40101,40,101,66471,51999,Urban
+2184,Noble County,Oklahoma,40103,40,103,10909,70071,Rural
+2185,Nowata County,Oklahoma,40105,40,105,9392,52679,Rural
+2186,Okfuskee County,Oklahoma,40107,40,107,11304,45441,Rural
+2187,Oklahoma County,Oklahoma,40109,40,109,800487,65374,Urban
+2188,Okmulgee County,Oklahoma,40111,40,111,36922,53123,Urban
+2189,Osage County,Oklahoma,40113,40,113,45963,60482,Urban
+2190,Ottawa County,Oklahoma,40115,40,115,30360,48656,Urban
+2191,Pawnee County,Oklahoma,40117,40,117,15689,57551,Rural
+2192,Payne County,Oklahoma,40119,40,119,82290,48937,Urban
+2193,Pittsburg County,Oklahoma,40121,40,121,43629,54787,Urban
+2194,Pontotoc County,Oklahoma,40123,40,123,38158,62564,Urban
+2195,Pottawatomie County,Oklahoma,40125,40,125,73011,60828,Urban
+2196,Pushmataha County,Oklahoma,40127,40,127,10787,44634,Rural
+2197,Roger Mills County,Oklahoma,40129,40,129,3378,62721,Rural
+2198,Rogers County,Oklahoma,40131,40,131,97235,77688,Urban
+2199,Seminole County,Oklahoma,40133,40,133,23550,46191,Rural
+2200,Sequoyah County,Oklahoma,40135,40,135,39676,49795,Urban
+2201,Stephens County,Oklahoma,40137,40,137,43314,60236,Urban
+2202,Texas County,Oklahoma,40139,40,139,20880,59275,Rural
+2203,Tillman County,Oklahoma,40141,40,141,6967,47445,Rural
+2204,Tulsa County,Oklahoma,40143,40,143,673708,67317,Urban
+2205,Wagoner County,Oklahoma,40145,40,145,84339,78520,Urban
+2206,Washington County,Oklahoma,40147,40,147,52895,61205,Urban
+2207,Washita County,Oklahoma,40149,40,149,10857,61980,Rural
+2208,Woods County,Oklahoma,40151,40,151,8619,50512,Rural
+2209,Woodward County,Oklahoma,40153,40,153,20260,65060,Rural
+2210,Baker County,Oregon,41001,41,1,16796,57844,Rural
+2211,Benton County,Oregon,41003,41,3,96359,76011,Urban
+2212,Clackamas County,Oregon,41005,41,5,422308,100360,Urban
+2213,Clatsop County,Oregon,41007,41,7,41343,68705,Urban
+2214,Columbia County,Oregon,41009,41,9,53178,86359,Urban
+2215,Coos County,Oregon,41011,41,11,64832,60313,Urban
+2216,Crook County,Oregon,41013,41,13,25651,81675,Rural
+2217,Curry County,Oregon,41015,41,15,23463,64769,Rural
+2218,Deschutes County,Oregon,41017,41,17,203026,87640,Urban
+2219,Douglas County,Oregon,41019,41,19,111807,58983,Urban
+2220,Gilliam County,Oregon,41021,41,21,2002,64219,Rural
+2221,Grant County,Oregon,41023,41,23,7238,59800,Rural
+2222,Harney County,Oregon,41025,41,25,7515,48338,Rural
+2223,Hood River County,Oregon,41027,41,27,23958,82095,Rural
+2224,Jackson County,Oregon,41029,41,29,222563,71443,Urban
+2225,Jefferson County,Oregon,41031,41,31,24973,73051,Rural
+2226,Josephine County,Oregon,41033,41,33,88069,59097,Urban
+2227,Klamath County,Oregon,41035,41,35,69812,59353,Urban
+2228,Lake County,Oregon,41037,41,37,8254,61222,Rural
+2229,Lane County,Oregon,41039,41,39,382628,69311,Urban
+2230,Lincoln County,Oregon,41041,41,41,50632,61314,Urban
+2231,Linn County,Oregon,41043,41,43,129794,73396,Urban
+2232,Malheur County,Oregon,41045,41,45,31701,49902,Urban
+2233,Marion County,Oregon,41047,41,47,346532,74624,Urban
+2234,Morrow County,Oregon,41049,41,49,12249,70217,Rural
+2235,Multnomah County,Oregon,41051,41,51,803863,86247,Urban
+2236,Polk County,Oregon,41053,41,53,88553,81318,Urban
+2237,Sherman County,Oregon,41055,41,55,1908,59500,Rural
+2238,Tillamook County,Oregon,41057,41,57,27471,66551,Urban
+2239,Umatilla County,Oregon,41059,41,59,80087,68958,Urban
+2240,Union County,Oregon,41061,41,61,26192,64212,Urban
+2241,Wallowa County,Oregon,41063,41,63,7532,65559,Rural
+2242,Wasco County,Oregon,41065,41,65,26603,63602,Urban
+2243,Washington County,Oregon,41067,41,67,600266,104434,Urban
+2244,Wheeler County,Oregon,41069,41,69,1434,51250,Rural
+2245,Yamhill County,Oregon,41071,41,71,108122,87084,Urban
+2246,Adams County,Pennsylvania,42001,42,1,105183,81071,Urban
+2247,Allegheny County,Pennsylvania,42003,42,3,1240476,76393,Urban
+2248,Armstrong County,Pennsylvania,42005,42,5,65069,64295,Urban
+2249,Beaver County,Pennsylvania,42007,42,7,166993,70156,Urban
+2250,Bedford County,Pennsylvania,42009,42,9,47503,60302,Urban
+2251,Berks County,Pennsylvania,42011,42,11,429989,77684,Urban
+2252,Blair County,Pennsylvania,42013,42,13,121854,60594,Urban
+2253,Bradford County,Pennsylvania,42015,42,15,59971,62482,Urban
+2254,Bucks County,Pennsylvania,42017,42,17,645993,111951,Urban
+2255,Butler County,Pennsylvania,42019,42,19,195870,86775,Urban
+2256,Cambria County,Pennsylvania,42021,42,21,132355,56292,Urban
+2257,Cameron County,Pennsylvania,42023,42,23,4475,47681,Rural
+2258,Carbon County,Pennsylvania,42025,42,25,65191,67877,Urban
+2259,Centre County,Pennsylvania,42027,42,27,158041,72748,Urban
+2260,Chester County,Pennsylvania,42029,42,29,540896,123041,Urban
+2261,Clarion County,Pennsylvania,42031,42,31,37297,60668,Urban
+2262,Clearfield County,Pennsylvania,42033,42,33,78902,60181,Urban
+2263,Clinton County,Pennsylvania,42035,42,35,37707,58842,Urban
+2264,Columbia County,Pennsylvania,42037,42,37,65055,61992,Urban
+2265,Crawford County,Pennsylvania,42039,42,39,83189,60254,Urban
+2266,Cumberland County,Pennsylvania,42041,42,41,264422,85634,Urban
+2267,Dauphin County,Pennsylvania,42043,42,43,287484,74159,Urban
+2268,Delaware County,Pennsylvania,42045,42,45,576195,88576,Urban
+2269,Elk County,Pennsylvania,42047,42,47,30703,64103,Urban
+2270,Erie County,Pennsylvania,42049,42,49,269544,61476,Urban
+2271,Fayette County,Pennsylvania,42051,42,51,126967,56093,Urban
+2272,Forest County,Pennsylvania,42053,42,53,6785,50061,Rural
+2273,Franklin County,Pennsylvania,42055,42,55,156626,74946,Urban
+2274,Fulton County,Pennsylvania,42057,42,57,14545,64798,Rural
+2275,Greene County,Pennsylvania,42059,42,59,35265,66870,Urban
+2276,Huntingdon County,Pennsylvania,42061,42,61,43844,65429,Urban
+2277,Indiana County,Pennsylvania,42063,42,63,83213,58739,Urban
+2278,Jefferson County,Pennsylvania,42065,42,65,44099,56898,Urban
+2279,Juniata County,Pennsylvania,42067,42,67,23419,63923,Rural
+2280,Lackawanna County,Pennsylvania,42069,42,69,215834,64691,Urban
+2281,Lancaster County,Pennsylvania,42071,42,71,555151,83703,Urban
+2282,Lawrence County,Pennsylvania,42073,42,73,85423,60779,Urban
+2283,Lebanon County,Pennsylvania,42075,42,75,143592,76350,Urban
+2284,Lehigh County,Pennsylvania,42077,42,77,375408,77493,Urban
+2285,Luzerne County,Pennsylvania,42079,42,79,325978,62321,Urban
+2286,Lycoming County,Pennsylvania,42081,42,81,113570,64412,Urban
+2287,McKean County,Pennsylvania,42083,42,83,40149,61705,Urban
+2288,Mercer County,Pennsylvania,42085,42,85,109852,60614,Urban
+2289,Mifflin County,Pennsylvania,42087,42,87,46074,61415,Urban
+2290,Monroe County,Pennsylvania,42089,42,89,167784,82374,Urban
+2291,Montgomery County,Pennsylvania,42091,42,91,861225,111521,Urban
+2292,Montour County,Pennsylvania,42093,42,93,18079,72926,Rural
+2293,Northampton County,Pennsylvania,42095,42,95,315927,86687,Urban
+2294,Northumberland County,Pennsylvania,42097,42,97,90925,57948,Urban
+2295,Perry County,Pennsylvania,42099,42,99,45988,78824,Urban
+2296,Philadelphia County,Pennsylvania,42101,42,101,1582432,60698,Urban
+2297,Pike County,Pennsylvania,42103,42,103,59691,79318,Urban
+2298,Potter County,Pennsylvania,42105,42,105,16276,59840,Rural
+2299,Schuylkill County,Pennsylvania,42107,42,107,143259,66901,Urban
+2300,Snyder County,Pennsylvania,42109,42,109,39711,68435,Urban
+2301,Somerset County,Pennsylvania,42111,42,111,73255,59378,Urban
+2302,Sullivan County,Pennsylvania,42113,42,113,5849,64758,Rural
+2303,Susquehanna County,Pennsylvania,42115,42,115,38349,66930,Urban
+2304,Tioga County,Pennsylvania,42117,42,117,41078,62932,Urban
+2305,Union County,Pennsylvania,42119,42,119,42570,72894,Urban
+2306,Venango County,Pennsylvania,42121,42,121,50096,61626,Urban
+2307,Warren County,Pennsylvania,42123,42,123,38174,59013,Urban
+2308,Washington County,Pennsylvania,42125,42,125,209778,77487,Urban
+2309,Wayne County,Pennsylvania,42127,42,127,51189,62182,Urban
+2310,Westmoreland County,Pennsylvania,42129,42,129,353345,72468,Urban
+2311,Wyoming County,Pennsylvania,42131,42,131,26075,70268,Urban
+2312,York County,Pennsylvania,42133,42,133,459312,82238,Urban
+2313,Bristol County,Rhode Island,44001,44,1,50568,110926,Urban
+2314,Kent County,Rhode Island,44003,44,3,170658,91278,Urban
+2315,Newport County,Rhode Island,44005,44,5,85095,100859,Urban
+2316,Providence County,Rhode Island,44007,44,7,658977,78204,Urban
+2317,Washington County,Rhode Island,44009,44,9,130073,102478,Urban
+2318,Abbeville County,South Carolina,45001,45,1,24352,52112,Rural
+2319,Aiken County,South Carolina,45003,45,3,171949,67940,Urban
+2320,Allendale County,South Carolina,45005,45,5,7738,31603,Rural
+2321,Anderson County,South Carolina,45007,45,7,207218,64683,Urban
+2322,Bamberg County,South Carolina,45009,45,9,13164,43206,Rural
+2323,Barnwell County,South Carolina,45011,45,11,20565,41800,Rural
+2324,Beaufort County,South Carolina,45013,45,13,192123,84819,Urban
+2325,Berkeley County,South Carolina,45015,45,15,238723,82327,Urban
+2326,Calhoun County,South Carolina,45017,45,17,14150,56690,Rural
+2327,Charleston County,South Carolina,45019,45,19,414711,84320,Urban
+2328,Cherokee County,South Carolina,45021,45,21,56299,49047,Urban
+2329,Chester County,South Carolina,45023,45,23,32177,51216,Urban
+2330,Chesterfield County,South Carolina,45025,45,25,43575,47620,Urban
+2331,Clarendon County,South Carolina,45027,45,27,31037,48887,Urban
+2332,Colleton County,South Carolina,45029,45,29,38623,48779,Urban
+2333,Darlington County,South Carolina,45031,45,31,62754,47419,Urban
+2334,Dillon County,South Carolina,45033,45,33,28031,44038,Urban
+2335,Dorchester County,South Carolina,45035,45,35,164322,76896,Urban
+2336,Edgefield County,South Carolina,45037,45,37,26508,67092,Urban
+2337,Fairfield County,South Carolina,45039,45,39,20741,46972,Rural
+2338,Florence County,South Carolina,45041,45,41,136921,56650,Urban
+2339,Georgetown County,South Carolina,45043,45,43,64200,66734,Urban
+2340,Greenville County,South Carolina,45045,45,45,537575,74624,Urban
+2341,Greenwood County,South Carolina,45047,45,47,69329,50635,Urban
+2342,Hampton County,South Carolina,45049,45,49,18555,43059,Rural
+2343,Horry County,South Carolina,45051,45,51,368937,64623,Urban
+2344,Jasper County,South Carolina,45053,45,53,30658,63503,Urban
+2345,Kershaw County,South Carolina,45055,45,55,66924,64343,Urban
+2346,Lancaster County,South Carolina,45057,45,57,100905,74751,Urban
+2347,Laurens County,South Carolina,45059,45,59,67904,55517,Urban
+2348,Lee County,South Carolina,45061,45,61,16330,44145,Rural
+2349,Lexington County,South Carolina,45063,45,63,300370,75014,Urban
+2350,McCormick County,South Carolina,45065,45,65,9701,55344,Rural
+2351,Marion County,South Carolina,45067,45,67,28900,34501,Urban
+2352,Marlboro County,South Carolina,45069,45,69,26285,36293,Urban
+2353,Newberry County,South Carolina,45071,45,71,38121,59670,Urban
+2354,Oconee County,South Carolina,45073,45,73,79566,60193,Urban
+2355,Orangeburg County,South Carolina,45075,45,75,83531,43214,Urban
+2356,Pickens County,South Carolina,45077,45,77,132604,59411,Urban
+2357,Richland County,South Carolina,45079,45,79,418725,61699,Urban
+2358,Saluda County,South Carolina,45081,45,81,18958,52957,Rural
+2359,Spartanburg County,South Carolina,45083,45,83,338096,64195,Urban
+2360,Sumter County,South Carolina,45085,45,85,104853,55990,Urban
+2361,Union County,South Carolina,45087,45,87,26990,41200,Urban
+2362,Williamsburg County,South Carolina,45089,45,89,30517,43471,Urban
+2363,York County,South Carolina,45091,45,91,288559,83060,Urban
+2364,Aurora County,South Dakota,46003,46,3,2573,74130,Rural
+2365,Beadle County,South Dakota,46005,46,5,19279,63082,Rural
+2366,Bennett County,South Dakota,46007,46,7,3354,44569,Rural
+2367,Bon Homme County,South Dakota,46009,46,9,7024,61275,Rural
+2368,Brookings County,South Dakota,46011,46,11,34968,67341,Urban
+2369,Brown County,South Dakota,46013,46,13,38079,70239,Urban
+2370,Brule County,South Dakota,46015,46,15,5261,74043,Rural
+2371,Buffalo County,South Dakota,46017,46,17,1757,47000,Rural
+2372,Butte County,South Dakota,46019,46,19,10538,67692,Rural
+2373,Campbell County,South Dakota,46021,46,21,1481,65000,Rural
+2374,Charles Mix County,South Dakota,46023,46,23,9281,64850,Rural
+2375,Clark County,South Dakota,46025,46,25,3876,62885,Rural
+2376,Clay County,South Dakota,46027,46,27,15133,58794,Rural
+2377,Codington County,South Dakota,46029,46,29,28556,65080,Urban
+2378,Corson County,South Dakota,46031,46,31,3859,43750,Rural
+2379,Custer County,South Dakota,46033,46,33,8686,81958,Rural
+2380,Davison County,South Dakota,46035,46,35,19936,61401,Rural
+2381,Day County,South Dakota,46037,46,37,5460,62270,Rural
+2382,Deuel County,South Dakota,46039,46,39,4318,79556,Rural
+2383,Dewey County,South Dakota,46041,46,41,5230,57928,Rural
+2384,Douglas County,South Dakota,46043,46,43,2823,78125,Rural
+2385,Edmunds County,South Dakota,46045,46,45,4033,77266,Rural
+2386,Fall River County,South Dakota,46047,46,47,7179,61056,Rural
+2387,Faulk County,South Dakota,46049,46,49,2137,58000,Rural
+2388,Grant County,South Dakota,46051,46,51,7544,73818,Rural
+2389,Gregory County,South Dakota,46053,46,53,3993,52432,Rural
+2390,Haakon County,South Dakota,46055,46,55,1708,59231,Rural
+2391,Hamlin County,South Dakota,46057,46,57,6288,83194,Rural
+2392,Hand County,South Dakota,46059,46,59,3045,72054,Rural
+2393,Hanson County,South Dakota,46061,46,61,3473,86375,Rural
+2394,Harding County,South Dakota,46063,46,63,1092,74766,Rural
+2395,Hughes County,South Dakota,46065,46,65,17732,78981,Rural
+2396,Hutchinson County,South Dakota,46067,46,67,7393,74459,Rural
+2397,Hyde County,South Dakota,46069,46,69,1305,74279,Rural
+2398,Jackson County,South Dakota,46071,46,71,2826,26686,Rural
+2399,Jerauld County,South Dakota,46073,46,73,1845,75417,Rural
+2400,Jones County,South Dakota,46075,46,75,1030,64688,Rural
+2401,Kingsbury County,South Dakota,46077,46,77,5210,70221,Rural
+2402,Lake County,South Dakota,46079,46,79,11052,73792,Rural
+2403,Lawrence County,South Dakota,46081,46,81,26574,66766,Urban
+2404,Lincoln County,South Dakota,46083,46,83,68286,96552,Urban
+2405,Lyman County,South Dakota,46085,46,85,3717,61169,Rural
+2406,McCook County,South Dakota,46087,46,87,5732,80847,Rural
+2407,McPherson County,South Dakota,46089,46,89,2278,62024,Rural
+2408,Marshall County,South Dakota,46091,46,91,4355,72500,Rural
+2409,Meade County,South Dakota,46093,46,93,30297,74161,Urban
+2410,Mellette County,South Dakota,46095,46,95,2043,51364,Rural
+2411,Miner County,South Dakota,46097,46,97,2299,72589,Rural
+2412,Minnehaha County,South Dakota,46099,46,99,200689,76074,Urban
+2413,Moody County,South Dakota,46101,46,101,6371,77500,Rural
+2414,Oglala Lakota County,South Dakota,46102,46,102,13587,34769,Rural
+2415,Pennington County,South Dakota,46103,46,103,112081,70768,Urban
+2416,Perkins County,South Dakota,46105,46,105,3058,65455,Rural
+2417,Potter County,South Dakota,46107,46,107,2430,71726,Rural
+2418,Roberts County,South Dakota,46109,46,109,10219,63691,Rural
+2419,Sanborn County,South Dakota,46111,46,111,2370,69870,Rural
+2420,Spink County,South Dakota,46115,46,115,6283,73011,Rural
+2421,Stanley County,South Dakota,46117,46,117,3012,77000,Rural
+2422,Sully County,South Dakota,46119,46,119,1481,70250,Rural
+2423,Todd County,South Dakota,46121,46,121,9293,39148,Rural
+2424,Tripp County,South Dakota,46123,46,123,5607,58854,Rural
+2425,Turner County,South Dakota,46125,46,125,8772,75283,Rural
+2426,Union County,South Dakota,46127,46,127,16916,84137,Rural
+2427,Walworth County,South Dakota,46129,46,129,5298,62722,Rural
+2428,Yankton County,South Dakota,46135,46,135,23379,73855,Rural
+2429,Ziebach County,South Dakota,46137,46,137,2410,47333,Rural
+2430,Anderson County,Tennessee,47001,47,1,78175,63171,Urban
+2431,Bedford County,Tennessee,47003,47,3,51291,62197,Urban
+2432,Benton County,Tennessee,47005,47,5,15948,50435,Rural
+2433,Bledsoe County,Tennessee,47007,47,7,14905,49655,Rural
+2434,Blount County,Tennessee,47009,47,9,137747,74607,Urban
+2435,Bradley County,Tennessee,47011,47,11,109743,63789,Urban
+2436,Campbell County,Tennessee,47013,47,13,39568,50260,Urban
+2437,Cannon County,Tennessee,47015,47,15,14661,58092,Rural
+2438,Carroll County,Tennessee,47017,47,17,28461,50391,Urban
+2439,Carter County,Tennessee,47019,47,19,56462,48435,Urban
+2440,Cheatham County,Tennessee,47021,47,21,41500,82015,Urban
+2441,Chester County,Tennessee,47023,47,23,17452,60543,Rural
+2442,Claiborne County,Tennessee,47025,47,25,32221,46587,Urban
+2443,Clay County,Tennessee,47027,47,27,7621,44712,Rural
+2444,Cocke County,Tennessee,47029,47,29,36503,48416,Urban
+2445,Coffee County,Tennessee,47031,47,31,58940,60656,Urban
+2446,Crockett County,Tennessee,47033,47,33,13937,59049,Rural
+2447,Cumberland County,Tennessee,47035,47,35,62529,58475,Urban
+2448,Davidson County,Tennessee,47037,47,37,709846,75664,Urban
+2449,Decatur County,Tennessee,47039,47,39,11499,46190,Rural
+2450,DeKalb County,Tennessee,47041,47,41,20551,48484,Rural
+2451,Dickson County,Tennessee,47043,47,43,55197,73223,Urban
+2452,Dyer County,Tennessee,47045,47,45,36681,54973,Urban
+2453,Fayette County,Tennessee,47047,47,47,42653,84764,Urban
+2454,Fentress County,Tennessee,47049,47,49,18948,50865,Rural
+2455,Franklin County,Tennessee,47051,47,51,43478,61553,Urban
+2456,Gibson County,Tennessee,47053,47,53,50610,59009,Urban
+2457,Giles County,Tennessee,47055,47,55,30442,61476,Urban
+2458,Grainger County,Tennessee,47057,47,57,23929,51351,Rural
+2459,Greene County,Tennessee,47059,47,59,70919,54071,Urban
+2460,Grundy County,Tennessee,47061,47,61,13665,45573,Rural
+2461,Hamblen County,Tennessee,47063,47,63,64930,52794,Urban
+2462,Hamilton County,Tennessee,47065,47,65,370913,72568,Urban
+2463,Hancock County,Tennessee,47067,47,67,6790,31995,Rural
+2464,Hardeman County,Tennessee,47069,47,69,25477,46173,Rural
+2465,Hardin County,Tennessee,47071,47,71,26939,49149,Urban
+2466,Hawkins County,Tennessee,47073,47,73,57446,55278,Urban
+2467,Haywood County,Tennessee,47075,47,75,17672,43513,Rural
+2468,Henderson County,Tennessee,47077,47,77,27906,53471,Urban
+2469,Henry County,Tennessee,47079,47,79,32345,48540,Urban
+2470,Hickman County,Tennessee,47081,47,81,25229,57223,Rural
+2471,Houston County,Tennessee,47083,47,83,8293,54475,Rural
+2472,Humphreys County,Tennessee,47085,47,85,19074,59333,Rural
+2473,Jackson County,Tennessee,47087,47,87,11882,41475,Rural
+2474,Jefferson County,Tennessee,47089,47,89,55835,63084,Urban
+2475,Johnson County,Tennessee,47091,47,91,18073,52152,Rural
+2476,Knox County,Tennessee,47093,47,93,487401,71662,Urban
+2477,Lake County,Tennessee,47095,47,95,6691,30500,Rural
+2478,Lauderdale County,Tennessee,47097,47,97,24933,49205,Rural
+2479,Lawrence County,Tennessee,47099,47,99,44901,53233,Urban
+2480,Lewis County,Tennessee,47101,47,101,12784,49477,Rural
+2481,Lincoln County,Tennessee,47103,47,103,35617,63115,Urban
+2482,Loudon County,Tennessee,47105,47,105,56996,80296,Urban
+2483,McMinn County,Tennessee,47107,47,107,54135,59674,Urban
+2484,McNairy County,Tennessee,47109,47,109,25933,50714,Rural
+2485,Macon County,Tennessee,47111,47,111,25793,56269,Rural
+2486,Madison County,Tennessee,47113,47,113,98845,58189,Urban
+2487,Marion County,Tennessee,47115,47,115,29010,58103,Urban
+2488,Marshall County,Tennessee,47117,47,117,35276,70829,Urban
+2489,Maury County,Tennessee,47119,47,119,104855,74162,Urban
+2490,Meigs County,Tennessee,47121,47,121,13076,58395,Rural
+2491,Monroe County,Tennessee,47123,47,123,47054,56648,Urban
+2492,Montgomery County,Tennessee,47125,47,125,227957,72365,Urban
+2493,Moore County,Tennessee,47127,47,127,6611,66687,Rural
+2494,Morgan County,Tennessee,47129,47,129,21193,57408,Rural
+2495,Obion County,Tennessee,47131,47,131,30570,53102,Urban
+2496,Overton County,Tennessee,47133,47,133,22807,46159,Rural
+2497,Perry County,Tennessee,47135,47,135,8561,50489,Rural
+2498,Pickett County,Tennessee,47137,47,137,5062,44591,Rural
+2499,Polk County,Tennessee,47139,47,139,17702,60227,Rural
+2500,Putnam County,Tennessee,47141,47,141,81366,56537,Urban
+2501,Rhea County,Tennessee,47143,47,143,33299,58133,Urban
+2502,Roane County,Tennessee,47145,47,145,54403,66218,Urban
+2503,Robertson County,Tennessee,47147,47,147,74291,78439,Urban
+2504,Rutherford County,Tennessee,47149,47,149,351591,82588,Urban
+2505,Scott County,Tennessee,47151,47,151,21969,42679,Rural
+2506,Sequatchie County,Tennessee,47153,47,153,16409,52260,Rural
+2507,Sevier County,Tennessee,47155,47,155,98802,63829,Urban
+2508,Shelby County,Tennessee,47157,47,157,922195,62337,Urban
+2509,Smith County,Tennessee,47159,47,159,20196,62799,Rural
+2510,Stewart County,Tennessee,47161,47,161,13859,62052,Rural
+2511,Sullivan County,Tennessee,47163,47,163,159693,56802,Urban
+2512,Sumner County,Tennessee,47165,47,165,200553,86005,Urban
+2513,Tipton County,Tennessee,47167,47,167,61339,71736,Urban
+2514,Trousdale County,Tennessee,47169,47,169,11805,63190,Rural
+2515,Unicoi County,Tennessee,47171,47,171,17779,50381,Rural
+2516,Union County,Tennessee,47173,47,173,20141,61858,Rural
+2517,Van Buren County,Tennessee,47175,47,175,6293,60281,Rural
+2518,Warren County,Tennessee,47177,47,177,41587,54088,Urban
+2519,Washington County,Tennessee,47179,47,179,134693,61051,Urban
+2520,Wayne County,Tennessee,47181,47,181,16251,52824,Rural
+2521,Weakley County,Tennessee,47183,47,183,32959,49502,Urban
+2522,White County,Tennessee,47185,47,185,27764,52206,Urban
+2523,Williamson County,Tennessee,47187,47,187,254609,131202,Urban
+2524,Wilson County,Tennessee,47189,47,189,153587,94048,Urban
+2525,Anderson County,Texas,48001,48,1,57825,58846,Urban
+2526,Andrews County,Texas,48003,48,3,18518,76902,Rural
+2527,Angelina County,Texas,48005,48,5,86791,58847,Urban
+2528,Aransas County,Texas,48007,48,7,24449,61754,Rural
+2529,Archer County,Texas,48009,48,9,8734,71958,Rural
+2530,Armstrong County,Texas,48011,48,11,1883,68462,Rural
+2531,Atascosa County,Texas,48013,48,13,50058,69413,Urban
+2532,Austin County,Texas,48015,48,15,30712,75994,Urban
+2533,Bailey County,Texas,48017,48,17,7044,70625,Rural
+2534,Bandera County,Texas,48019,48,19,21589,69703,Rural
+2535,Bastrop County,Texas,48021,48,21,102370,82730,Urban
+2536,Baylor County,Texas,48023,48,23,3464,42313,Rural
+2537,Bee County,Texas,48025,48,25,31000,56075,Urban
+2538,Bell County,Texas,48027,48,27,379811,66051,Urban
+2539,Bexar County,Texas,48029,48,29,2037344,70571,Urban
+2540,Blanco County,Texas,48031,48,31,12008,87564,Rural
+2541,Borden County,Texas,48033,48,33,723,64250,Rural
+2542,Bosque County,Texas,48035,48,35,18546,69339,Rural
+2543,Bowie County,Texas,48037,48,37,92321,59295,Urban
+2544,Brazoria County,Texas,48039,48,39,381650,95155,Urban
+2545,Brazos County,Texas,48041,48,41,237980,58388,Urban
+2546,Brewster County,Texas,48043,48,43,9464,52612,Rural
+2547,Briscoe County,Texas,48045,48,45,1223,41188,Rural
+2548,Brooks County,Texas,48047,48,47,6987,31310,Rural
+2549,Brown County,Texas,48049,48,49,38294,55305,Urban
+2550,Burleson County,Texas,48051,48,51,18327,72888,Rural
+2551,Burnet County,Texas,48053,48,53,51064,77158,Urban
+2552,Caldwell County,Texas,48055,48,55,47184,68503,Urban
+2553,Calhoun County,Texas,48057,48,57,19921,71870,Rural
+2554,Callahan County,Texas,48059,48,59,14017,68455,Rural
+2555,Cameron County,Texas,48061,48,61,423192,51334,Urban
+2556,Camp County,Texas,48063,48,63,12652,55061,Rural
+2557,Carson County,Texas,48065,48,65,5802,84583,Rural
+2558,Cass County,Texas,48067,48,67,28582,54328,Urban
+2559,Castro County,Texas,48069,48,69,7328,63485,Rural
+2560,Chambers County,Texas,48071,48,71,49178,108114,Urban
+2561,Cherokee County,Texas,48073,48,73,51143,59830,Urban
+2562,Childress County,Texas,48075,48,75,6772,60333,Rural
+2563,Clay County,Texas,48077,48,77,10402,77355,Rural
+2564,Cochran County,Texas,48079,48,79,2520,42137,Rural
+2565,Coke County,Texas,48081,48,81,3315,46431,Rural
+2566,Coleman County,Texas,48083,48,83,7765,52364,Rural
+2567,Collin County,Texas,48085,48,85,1116601,117588,Urban
+2568,Collingsworth County,Texas,48087,48,87,2733,60165,Rural
+2569,Colorado County,Texas,48089,48,89,20736,68554,Rural
+2570,Comal County,Texas,48091,48,91,174552,99015,Urban
+2571,Comanche County,Texas,48093,48,93,13786,59946,Rural
+2572,Concho County,Texas,48095,48,95,3301,59632,Rural
+2573,Cooke County,Texas,48097,48,97,42473,72472,Urban
+2574,Coryell County,Texas,48099,48,99,83772,68904,Urban
+2575,Cottle County,Texas,48101,48,101,1302,58819,Rural
+2576,Crane County,Texas,48103,48,103,4623,59915,Rural
+2577,Crockett County,Texas,48105,48,105,2881,81739,Rural
+2578,Crosby County,Texas,48107,48,107,5072,52197,Rural
+2579,Culberson County,Texas,48109,48,109,2181,42672,Rural
+2580,Dallam County,Texas,48111,48,111,7180,72332,Rural
+2581,Dallas County,Texas,48113,48,113,2603816,74149,Urban
+2582,Dawson County,Texas,48115,48,115,12311,55789,Rural
+2583,Deaf Smith County,Texas,48117,48,117,18487,54114,Rural
+2584,Delta County,Texas,48119,48,119,5345,62855,Rural
+2585,Denton County,Texas,48121,48,121,945644,108185,Urban
+2586,DeWitt County,Texas,48123,48,123,19853,64014,Rural
+2587,Dickens County,Texas,48125,48,125,1641,50417,Rural
+2588,Dimmit County,Texas,48127,48,127,8507,33409,Rural
+2589,Donley County,Texas,48129,48,129,3276,56648,Rural
+2590,Duval County,Texas,48131,48,131,9824,50081,Rural
+2591,Eastland County,Texas,48133,48,133,17846,51741,Rural
+2592,Ector County,Texas,48135,48,135,163206,71031,Urban
+2593,Edwards County,Texas,48137,48,137,1392,38500,Rural
+2594,Ellis County,Texas,48139,48,139,203927,95898,Urban
+2595,El Paso County,Texas,48141,48,141,866275,58859,Urban
+2596,Erath County,Texas,48143,48,143,43244,65351,Urban
+2597,Falls County,Texas,48145,48,145,17063,55372,Rural
+2598,Fannin County,Texas,48147,48,147,36525,68377,Urban
+2599,Fayette County,Texas,48149,48,149,24783,76541,Rural
+2600,Fisher County,Texas,48151,48,151,3661,64700,Rural
+2601,Floyd County,Texas,48153,48,153,5294,55461,Rural
+2602,Foard County,Texas,48155,48,155,1079,42212,Rural
+2603,Fort Bend County,Texas,48157,48,157,859721,113409,Urban
+2604,Franklin County,Texas,48159,48,159,10522,66800,Rural
+2605,Freestone County,Texas,48161,48,161,19813,58460,Rural
+2606,Frio County,Texas,48163,48,163,18019,60098,Rural
+2607,Gaines County,Texas,48165,48,165,21904,76605,Rural
+2608,Galveston County,Texas,48167,48,167,354721,85348,Urban
+2609,Garza County,Texas,48169,48,169,5435,50545,Rural
+2610,Gillespie County,Texas,48171,48,171,27202,67799,Urban
+2611,Glasscock County,Texas,48173,48,173,1070,106806,Rural
+2612,Goliad County,Texas,48175,48,175,7096,59556,Rural
+2613,Gonzales County,Texas,48177,48,177,19764,59355,Rural
+2614,Gray County,Texas,48179,48,179,21131,56082,Rural
+2615,Grayson County,Texas,48181,48,181,139988,70455,Urban
+2616,Gregg County,Texas,48183,48,183,124860,64809,Urban
+2617,Grimes County,Texas,48185,48,185,30385,67080,Urban
+2618,Guadalupe County,Texas,48187,48,187,178368,93776,Urban
+2619,Hale County,Texas,48189,48,189,32247,52788,Urban
+2620,Hall County,Texas,48191,48,191,2827,46728,Rural
+2621,Hamilton County,Texas,48193,48,193,8320,55339,Rural
+2622,Hansford County,Texas,48195,48,195,5182,68299,Rural
+2623,Hardeman County,Texas,48197,48,197,3529,61179,Rural
+2624,Hardin County,Texas,48199,48,199,57126,72532,Urban
+2625,Harris County,Texas,48201,48,201,4758579,73104,Urban
+2626,Harrison County,Texas,48203,48,203,69584,66040,Urban
+2627,Hartley County,Texas,48205,48,205,5307,82122,Rural
+2628,Haskell County,Texas,48207,48,207,5390,54044,Rural
+2629,Hays County,Texas,48209,48,209,256429,85827,Urban
+2630,Hemphill County,Texas,48211,48,211,3311,72052,Rural
+2631,Henderson County,Texas,48213,48,213,83658,63955,Urban
+2632,Hidalgo County,Texas,48215,48,215,880921,52281,Urban
+2633,Hill County,Texas,48217,48,217,36664,63147,Urban
+2634,Hockley County,Texas,48219,48,219,21455,54810,Rural
+2635,Hood County,Texas,48221,48,221,64198,86802,Urban
+2636,Hopkins County,Texas,48223,48,223,37351,64725,Urban
+2637,Houston County,Texas,48225,48,225,22042,54563,Rural
+2638,Howard County,Texas,48227,48,227,33127,71457,Urban
+2639,Hudspeth County,Texas,48229,48,229,3331,39336,Rural
+2640,Hunt County,Texas,48231,48,231,104917,70112,Urban
+2641,Hutchinson County,Texas,48233,48,233,20413,65470,Rural
+2642,Irion County,Texas,48235,48,235,1432,58125,Rural
+2643,Jack County,Texas,48237,48,237,8623,65693,Rural
+2644,Jackson County,Texas,48239,48,239,15081,61752,Rural
+2645,Jasper County,Texas,48241,48,241,32807,49919,Urban
+2646,Jeff Davis County,Texas,48243,48,243,1740,32625,Rural
+2647,Jefferson County,Texas,48245,48,245,253939,59934,Urban
+2648,Jim Hogg County,Texas,48247,48,247,4797,42230,Rural
+2649,Jim Wells County,Texas,48249,48,249,38863,47492,Urban
+2650,Johnson County,Texas,48251,48,251,188820,81826,Urban
+2651,Jones County,Texas,48253,48,253,19968,63472,Rural
+2652,Karnes County,Texas,48255,48,255,14819,59103,Rural
+2653,Kaufman County,Texas,48257,48,257,160718,88606,Urban
+2654,Kendall County,Texas,48259,48,259,46971,110498,Urban
+2655,Kenedy County,Texas,48261,48,261,52,65047,Rural
+2656,Kent County,Texas,48263,48,263,727,71420,Rural
+2657,Kerr County,Texas,48265,48,265,53166,67927,Urban
+2658,Kimble County,Texas,48267,48,267,4355,65703,Rural
+2659,King County,Texas,48269,48,269,189,70192,Rural
+2660,Kinney County,Texas,48271,48,271,3140,66341,Rural
+2661,Kleberg County,Texas,48273,48,273,30629,57612,Urban
+2662,Knox County,Texas,48275,48,275,3322,56304,Rural
+2663,Lamar County,Texas,48277,48,277,50421,61122,Urban
+2664,Lamb County,Texas,48279,48,279,12919,56997,Rural
+2665,Lampasas County,Texas,48281,48,281,22267,76919,Rural
+2666,La Salle County,Texas,48283,48,283,6946,55469,Rural
+2667,Lavaca County,Texas,48285,48,285,20479,61768,Rural
+2668,Lee County,Texas,48287,48,287,17758,66000,Rural
+2669,Leon County,Texas,48289,48,289,16067,59975,Rural
+2670,Liberty County,Texas,48291,48,291,97993,64773,Urban
+2671,Limestone County,Texas,48293,48,293,22185,58109,Rural
+2672,Lipscomb County,Texas,48295,48,295,2964,71442,Rural
+2673,Live Oak County,Texas,48297,48,297,11444,53869,Rural
+2674,Llano County,Texas,48299,48,299,22011,65636,Rural
+2675,Loving County,Texas,48301,48,301,54,51087,Rural
+2676,Lubbock County,Texas,48303,48,303,314633,63367,Urban
+2677,Lynn County,Texas,48305,48,305,5667,57411,Rural
+2678,McCulloch County,Texas,48307,48,307,7565,51919,Rural
+2679,McLennan County,Texas,48309,48,309,263608,63888,Urban
+2680,McMullen County,Texas,48311,48,311,623,45833,Rural
+2681,Madison County,Texas,48313,48,313,13574,67128,Rural
+2682,Marion County,Texas,48315,48,315,9631,47447,Rural
+2683,Martin County,Texas,48317,48,317,5230,77083,Rural
+2684,Mason County,Texas,48319,48,319,3951,68750,Rural
+2685,Matagorda County,Texas,48321,48,321,36274,55174,Urban
+2686,Maverick County,Texas,48323,48,323,57770,51270,Urban
+2687,Medina County,Texas,48325,48,325,52419,73462,Urban
+2688,Menard County,Texas,48327,48,327,1964,48191,Rural
+2689,Midland County,Texas,48329,48,329,171496,93984,Urban
+2690,Milam County,Texas,48331,48,331,25268,59076,Rural
+2691,Mills County,Texas,48333,48,333,4499,64494,Rural
+2692,Mitchell County,Texas,48335,48,335,8989,56033,Rural
+2693,Montague County,Texas,48337,48,337,20599,62818,Rural
+2694,Montgomery County,Texas,48339,48,339,654722,97266,Urban
+2695,Moore County,Texas,48341,48,341,21234,61325,Rural
+2696,Morris County,Texas,48343,48,343,12014,55082,Rural
+2697,Motley County,Texas,48345,48,345,1267,62857,Rural
+2698,Nacogdoches County,Texas,48347,48,347,64897,51528,Urban
+2699,Navarro County,Texas,48349,48,349,53735,59310,Urban
+2700,Newton County,Texas,48351,48,351,12193,41044,Rural
+2701,Nolan County,Texas,48353,48,353,14565,50160,Rural
+2702,Nueces County,Texas,48355,48,355,352829,66021,Urban
+2703,Ochiltree County,Texas,48357,48,357,9852,64988,Rural
+2704,Oldham County,Texas,48359,48,359,2097,76402,Rural
+2705,Orange County,Texas,48361,48,361,84993,73372,Urban
+2706,Palo Pinto County,Texas,48363,48,363,28920,64972,Urban
+2707,Panola County,Texas,48365,48,365,22624,62593,Rural
+2708,Parker County,Texas,48367,48,367,158079,102099,Urban
+2709,Parmer County,Texas,48369,48,369,9752,68164,Rural
+2710,Pecos County,Texas,48371,48,371,14983,67689,Rural
+2711,Polk County,Texas,48373,48,373,51780,59066,Urban
+2712,Potter County,Texas,48375,48,375,116634,50448,Urban
+2713,Presidio County,Texas,48377,48,377,6043,29014,Rural
+2714,Rains County,Texas,48379,48,379,12505,64874,Rural
+2715,Randall County,Texas,48381,48,381,143791,80905,Urban
+2716,Reagan County,Texas,48383,48,383,3259,70288,Rural
+2717,Real County,Texas,48385,48,385,2821,45417,Rural
+2718,Red River County,Texas,48387,48,387,11621,46912,Rural
+2719,Reeves County,Texas,48389,48,389,13219,56056,Rural
+2720,Refugio County,Texas,48391,48,391,6693,58016,Rural
+2721,Roberts County,Texas,48393,48,393,785,66118,Rural
+2722,Robertson County,Texas,48395,48,395,16973,66250,Rural
+2723,Rockwall County,Texas,48397,48,397,116931,124917,Urban
+2724,Runnels County,Texas,48399,48,399,9880,63490,Rural
+2725,Rusk County,Texas,48401,48,401,52613,67506,Urban
+2726,Sabine County,Texas,48403,48,403,9998,59924,Rural
+2727,San Augustine County,Texas,48405,48,405,7889,46338,Rural
+2728,San Jacinto County,Texas,48407,48,407,27983,59526,Urban
+2729,San Patricio County,Texas,48409,48,409,69519,67512,Urban
+2730,San Saba County,Texas,48411,48,411,5802,54855,Rural
+2731,Schleicher County,Texas,48413,48,413,2426,90141,Rural
+2732,Scurry County,Texas,48415,48,415,16633,62689,Rural
+2733,Shackelford County,Texas,48417,48,417,3169,64659,Rural
+2734,Shelby County,Texas,48419,48,419,24108,50436,Rural
+2735,Sherman County,Texas,48421,48,421,2434,74167,Rural
+2736,Smith County,Texas,48423,48,423,238014,71923,Urban
+2737,Somervell County,Texas,48425,48,425,9510,83382,Rural
+2738,Starr County,Texas,48427,48,427,65809,38182,Urban
+2739,Stephens County,Texas,48429,48,429,9278,54695,Rural
+2740,Sterling County,Texas,48431,48,431,1389,78750,Rural
+2741,Stonewall County,Texas,48433,48,433,1244,61250,Rural
+2742,Sutton County,Texas,48435,48,435,3306,75000,Rural
+2743,Swisher County,Texas,48437,48,437,6981,39031,Rural
+2744,Tarrant County,Texas,48439,48,439,2135743,81905,Urban
+2745,Taylor County,Texas,48441,48,441,144259,66406,Urban
+2746,Terrell County,Texas,48443,48,443,851,46989,Rural
+2747,Terry County,Texas,48445,48,445,11699,45905,Rural
+2748,Throckmorton County,Texas,48447,48,447,1589,58864,Rural
+2749,Titus County,Texas,48449,48,449,31284,59220,Urban
+2750,Tom Green County,Texas,48451,48,451,119398,66254,Urban
+2751,Travis County,Texas,48453,48,453,1307625,97169,Urban
+2752,Trinity County,Texas,48455,48,455,13850,51663,Rural
+2753,Tyler County,Texas,48457,48,457,20084,50647,Rural
+2754,Upshur County,Texas,48459,48,459,41864,62794,Urban
+2755,Upton County,Texas,48461,48,461,3227,52321,Rural
+2756,Uvalde County,Texas,48463,48,463,24810,57849,Rural
+2757,Val Verde County,Texas,48465,48,465,47647,59673,Urban
+2758,Van Zandt County,Texas,48467,48,467,61323,68274,Urban
+2759,Victoria County,Texas,48469,48,469,91281,70101,Urban
+2760,Walker County,Texas,48471,48,471,78292,49862,Urban
+2761,Waller County,Texas,48473,48,473,59455,76135,Urban
+2762,Ward County,Texas,48475,48,475,11255,71719,Rural
+2763,Washington County,Texas,48477,48,477,36156,75085,Urban
+2764,Webb County,Texas,48479,48,479,267731,62506,Urban
+2765,Wharton County,Texas,48481,48,481,41651,66100,Urban
+2766,Wheeler County,Texas,48483,48,483,4902,67964,Rural
+2767,Wichita County,Texas,48485,48,485,129842,62168,Urban
+2768,Wilbarger County,Texas,48487,48,487,12712,51626,Rural
+2769,Willacy County,Texas,48489,48,489,20218,45645,Rural
+2770,Williamson County,Texas,48491,48,491,643889,108309,Urban
+2771,Wilson County,Texas,48493,48,493,51501,92461,Urban
+2772,Winkler County,Texas,48495,48,495,7540,91898,Rural
+2773,Wise County,Texas,48497,48,497,72359,89897,Urban
+2774,Wood County,Texas,48499,48,499,46094,62524,Urban
+2775,Yoakum County,Texas,48501,48,501,7589,82261,Rural
+2776,Young County,Texas,48503,48,503,17963,63723,Rural
+2777,Zapata County,Texas,48505,48,505,13855,36527,Rural
+2778,Zavala County,Texas,48507,48,507,9532,41887,Rural
+2779,Beaver County,Utah,49001,49,1,7172,85603,Rural
+2780,Box Elder County,Utah,49003,49,3,59725,77865,Urban
+2781,Cache County,Utah,49005,49,5,137031,78292,Urban
+2782,Carbon County,Utah,49007,49,7,20446,53673,Rural
+2783,Daggett County,Utah,49009,49,9,747,58750,Rural
+2784,Davis County,Utah,49011,49,11,366742,108058,Urban
+2785,Duchesne County,Utah,49013,49,13,19932,74738,Rural
+2786,Emery County,Utah,49015,49,15,9968,69956,Rural
+2787,Garfield County,Utah,49017,49,17,5170,61688,Rural
+2788,Grand County,Utah,49019,49,19,9697,62521,Rural
+2789,Iron County,Utah,49021,49,21,60201,65527,Urban
+2790,Juab County,Utah,49023,49,23,12273,89803,Rural
+2791,Kane County,Utah,49025,49,25,7996,75000,Rural
+2792,Millard County,Utah,49027,49,27,13179,70877,Rural
+2793,Morgan County,Utah,49029,49,29,12585,126092,Rural
+2794,Piute County,Utah,49031,49,31,1705,44650,Rural
+2795,Rich County,Utah,49033,49,33,2588,76875,Rural
+2796,Salt Lake County,Utah,49035,49,35,1184689,94658,Urban
+2797,San Juan County,Utah,49037,49,37,14466,54890,Rural
+2798,Sanpete County,Utah,49039,49,39,29209,67459,Urban
+2799,Sevier County,Utah,49041,49,41,21854,73765,Rural
+2800,Summit County,Utah,49043,49,43,42709,137058,Urban
+2801,Tooele County,Utah,49045,49,45,76648,101846,Urban
+2802,Uintah County,Utah,49047,49,47,36458,69861,Urban
+2803,Utah County,Utah,49049,49,49,683622,96877,Urban
+2804,Wasatch County,Utah,49051,49,51,35808,115146,Urban
+2805,Washington County,Utah,49053,49,53,189827,76411,Urban
+2806,Wayne County,Utah,49055,49,55,2557,70074,Rural
+2807,Weber County,Utah,49057,49,57,266183,87083,Urban
+2808,Addison County,Vermont,50001,50,1,37497,88478,Urban
+2809,Bennington County,Vermont,50003,50,3,37312,71494,Urban
+2810,Caledonia County,Vermont,50005,50,5,30425,66075,Urban
+2811,Chittenden County,Vermont,50007,50,7,168831,94310,Urban
+2812,Essex County,Vermont,50009,50,9,5972,58985,Rural
+2813,Franklin County,Vermont,50011,50,11,50379,79078,Urban
+2814,Grand Isle County,Vermont,50013,50,13,7393,90625,Rural
+2815,Lamoille County,Vermont,50015,50,15,26036,69897,Urban
+2816,Orange County,Vermont,50017,50,17,29594,77328,Urban
+2817,Orleans County,Vermont,50019,50,19,27492,66426,Urban
+2818,Rutland County,Vermont,50021,50,21,60484,64778,Urban
+2819,Washington County,Vermont,50023,50,23,59958,79853,Urban
+2820,Windham County,Vermont,50025,50,25,45913,68021,Urban
+2821,Windsor County,Vermont,50027,50,27,57968,75247,Urban
+2822,Accomack County,Virginia,51001,51,1,33326,57500,Urban
+2823,Albemarle County,Virginia,51003,51,3,113683,102617,Urban
+2824,Alleghany County,Virginia,51005,51,5,14962,55160,Rural
+2825,Amelia County,Virginia,51007,51,7,13342,66339,Rural
+2826,Amherst County,Virginia,51009,51,9,31385,67298,Urban
+2827,Appomattox County,Virginia,51011,51,11,16424,62337,Rural
+2828,Arlington County,Virginia,51013,51,13,235463,140160,Urban
+2829,Augusta County,Virginia,51015,51,15,77713,79972,Urban
+2830,Bath County,Virginia,51017,51,17,4123,61709,Rural
+2831,Bedford County,Virginia,51019,51,19,80254,77644,Urban
+2832,Bland County,Virginia,51021,51,21,6211,61375,Rural
+2833,Botetourt County,Virginia,51023,51,23,33875,80467,Urban
+2834,Brunswick County,Virginia,51025,51,25,15868,52978,Rural
+2835,Buchanan County,Virginia,51027,51,27,19857,42216,Rural
+2836,Buckingham County,Virginia,51029,51,29,16914,59199,Rural
+2837,Campbell County,Virginia,51031,51,31,55398,62608,Urban
+2838,Caroline County,Virginia,51033,51,33,31541,86267,Urban
+2839,Carroll County,Virginia,51035,51,35,29158,52575,Urban
+2840,Charles City County,Virginia,51036,51,36,6686,70339,Rural
+2841,Charlotte County,Virginia,51037,51,37,11475,48892,Rural
+2842,Chesterfield County,Virginia,51041,51,41,371610,98910,Urban
+2843,Clarke County,Virginia,51043,51,43,15060,114185,Rural
+2844,Craig County,Virginia,51045,51,45,4881,67778,Rural
+2845,Culpeper County,Virginia,51047,51,47,53563,96098,Urban
+2846,Cumberland County,Virginia,51049,51,49,9745,57057,Rural
+2847,Dickenson County,Virginia,51051,51,51,13920,43831,Rural
+2848,Dinwiddie County,Virginia,51053,51,53,28083,83898,Urban
+2849,Essex County,Virginia,51057,51,57,10604,56481,Rural
+2850,Fairfax County,Virginia,51059,51,59,1144474,150113,Urban
+2851,Fauquier County,Virginia,51061,51,61,73935,129495,Urban
+2852,Floyd County,Virginia,51063,51,63,15560,61401,Rural
+2853,Fluvanna County,Virginia,51065,51,65,27764,91959,Urban
+2854,Franklin County,Virginia,51067,51,67,54958,68348,Urban
+2855,Frederick County,Virginia,51069,51,69,93355,95603,Urban
+2856,Giles County,Virginia,51071,51,71,16610,64819,Rural
+2857,Gloucester County,Virginia,51073,51,73,39228,83689,Urban
+2858,Goochland County,Virginia,51075,51,75,25613,118695,Rural
+2859,Grayson County,Virginia,51077,51,77,15323,42864,Rural
+2860,Greene County,Virginia,51079,51,79,20850,85268,Rural
+2861,Greensville County,Virginia,51081,51,81,11304,56759,Rural
+2862,Halifax County,Virginia,51083,51,83,33811,49244,Urban
+2863,Hanover County,Virginia,51085,51,85,111652,109504,Urban
+2864,Henrico County,Virginia,51087,51,87,334434,86397,Urban
+2865,Henry County,Virginia,51089,51,89,50365,48445,Urban
+2866,Highland County,Virginia,51091,51,91,2265,62946,Rural
+2867,Isle of Wight County,Virginia,51093,51,93,39444,96118,Urban
+2868,James City County,Virginia,51095,51,95,80046,107046,Urban
+2869,King and Queen County,Virginia,51097,51,97,6676,72851,Rural
+2870,King George County,Virginia,51099,51,99,27468,110517,Urban
+2871,King William County,Virginia,51101,51,101,18232,85212,Rural
+2872,Lancaster County,Virginia,51103,51,103,10876,67169,Rural
+2873,Lee County,Virginia,51105,51,105,22042,42269,Rural
+2874,Loudoun County,Virginia,51107,51,107,427082,178707,Urban
+2875,Louisa County,Virginia,51109,51,109,39012,80343,Urban
+2876,Lunenburg County,Virginia,51111,51,111,11990,54460,Rural
+2877,Madison County,Virginia,51113,51,113,13931,82972,Rural
+2878,Mathews County,Virginia,51115,51,115,8517,75487,Rural
+2879,Mecklenburg County,Virginia,51117,51,117,30431,51691,Urban
+2880,Middlesex County,Virginia,51119,51,119,10774,74154,Rural
+2881,Montgomery County,Virginia,51121,51,121,99159,70769,Urban
+2882,Nelson County,Virginia,51125,51,125,14777,68525,Rural
+2883,New Kent County,Virginia,51127,51,127,24139,120125,Rural
+2884,Northampton County,Virginia,51131,51,131,12115,55933,Rural
+2885,Northumberland County,Virginia,51133,51,133,12085,69500,Rural
+2886,Nottoway County,Virginia,51135,51,135,15597,62161,Rural
+2887,Orange County,Virginia,51137,51,137,37208,94175,Urban
+2888,Page County,Virginia,51139,51,139,23750,59396,Rural
+2889,Patrick County,Virginia,51141,51,141,17606,50938,Rural
+2890,Pittsylvania County,Virginia,51143,51,143,60148,54115,Urban
+2891,Powhatan County,Virginia,51145,51,145,31074,110667,Urban
+2892,Prince Edward County,Virginia,51147,51,147,21932,55082,Rural
+2893,Prince George County,Virginia,51149,51,149,42873,88225,Urban
+2894,Prince William County,Virginia,51153,51,153,484625,128873,Urban
+2895,Pulaski County,Virginia,51155,51,155,33771,60767,Urban
+2896,Rappahannock County,Virginia,51157,51,157,7409,98125,Rural
+2897,Richmond County,Virginia,51159,51,159,9047,64184,Rural
+2898,Roanoke County,Virginia,51161,51,161,96793,82931,Urban
+2899,Rockbridge County,Virginia,51163,51,163,22578,63975,Rural
+2900,Rockingham County,Virginia,51165,51,165,84739,78468,Urban
+2901,Russell County,Virginia,51167,51,167,25635,49020,Rural
+2902,Scott County,Virginia,51169,51,169,21504,45136,Rural
+2903,Shenandoah County,Virginia,51171,51,171,44630,64437,Urban
+2904,Smyth County,Virginia,51173,51,173,29585,46859,Urban
+2905,Southampton County,Virginia,51175,51,175,17988,68465,Rural
+2906,Spotsylvania County,Virginia,51177,51,177,143876,109576,Urban
+2907,Stafford County,Virginia,51179,51,179,160520,133792,Urban
+2908,Surry County,Virginia,51181,51,181,6552,71458,Rural
+2909,Sussex County,Virginia,51183,51,183,10793,62821,Rural
+2910,Tazewell County,Virginia,51185,51,185,39933,45788,Urban
+2911,Warren County,Virginia,51187,51,187,41104,84331,Urban
+2912,Washington County,Virginia,51191,51,191,53913,62774,Urban
+2913,Westmoreland County,Virginia,51193,51,193,18683,59766,Rural
+2914,Wise County,Virginia,51195,51,195,35727,50740,Urban
+2915,Wythe County,Virginia,51197,51,197,28219,55359,Urban
+2916,York County,Virginia,51199,51,199,70590,108326,Urban
+2917,Alexandria city,Virginia,51510,51,510,156788,113638,Urban
+2918,Bristol city,Virginia,51520,51,520,17024,44706,Rural
+2919,Buena Vista city,Virginia,51530,51,530,6612,54458,Rural
+2920,Charlottesville city,Virginia,51540,51,540,45863,69829,Urban
+2921,Chesapeake city,Virginia,51550,51,550,251153,94189,Urban
+2922,Colonial Heights city,Virginia,51570,51,570,18210,76250,Rural
+2923,Covington city,Virginia,51580,51,580,5671,42724,Rural
+2924,Danville city,Virginia,51590,51,590,42239,42778,Urban
+2925,Emporia city,Virginia,51595,51,595,5633,49375,Rural
+2926,Fairfax city,Virginia,51600,51,600,24478,132774,Rural
+2927,Falls Church city,Virginia,51610,51,610,14593,154734,Rural
+2928,Franklin city,Virginia,51620,51,620,8212,65125,Rural
+2929,Fredericksburg city,Virginia,51630,51,630,28383,85368,Urban
+2930,Galax city,Virginia,51640,51,640,6698,41438,Rural
+2931,Hampton city,Virginia,51650,51,650,137334,67758,Urban
+2932,Harrisonburg city,Virginia,51660,51,660,51492,59752,Urban
+2933,Hopewell city,Virginia,51670,51,670,22944,48681,Rural
+2934,Lexington city,Virginia,51678,51,678,7420,89598,Rural
+2935,Lynchburg city,Virginia,51680,51,680,79255,59808,Urban
+2936,Manassas city,Virginia,51683,51,683,42674,117919,Urban
+2937,Manassas Park city,Virginia,51685,51,685,16923,100668,Rural
+2938,Martinsville city,Virginia,51690,51,690,13584,42434,Rural
+2939,Newport News city,Virginia,51700,51,700,184774,66718,Urban
+2940,Norfolk city,Virginia,51710,51,710,235037,64017,Urban
+2941,Norton city,Virginia,51720,51,720,3620,38497,Rural
+2942,Petersburg city,Virginia,51730,51,730,33365,50741,Urban
+2943,Poquoson city,Virginia,51735,51,735,12556,120919,Rural
+2944,Portsmouth city,Virginia,51740,51,740,97299,58972,Urban
+2945,Radford city,Virginia,51750,51,750,16505,52791,Rural
+2946,Richmond city,Virginia,51760,51,760,227595,62671,Urban
+2947,Roanoke city,Virginia,51770,51,770,98677,52671,Urban
+2948,Salem city,Virginia,51775,51,775,25477,66716,Rural
+2949,Staunton city,Virginia,51790,51,790,25765,62586,Rural
+2950,Suffolk city,Virginia,51800,51,800,96638,90089,Urban
+2951,Virginia Beach city,Virginia,51810,51,810,457066,90685,Urban
+2952,Waynesboro city,Virginia,51820,51,820,22574,56364,Rural
+2953,Williamsburg city,Virginia,51830,51,830,15564,70206,Rural
+2954,Winchester city,Virginia,51840,51,840,27981,64648,Urban
+2955,Adams County,Washington,53001,53,1,20690,65042,Rural
+2956,Asotin County,Washington,53003,53,3,22424,69107,Rural
+2957,Benton County,Washington,53005,53,5,210224,87316,Urban
+2958,Chelan County,Washington,53007,53,7,79518,78306,Urban
+2959,Clallam County,Washington,53009,53,9,77593,67999,Urban
+2960,Clark County,Washington,53011,53,11,510516,94948,Urban
+2961,Columbia County,Washington,53013,53,13,3996,71528,Rural
+2962,Cowlitz County,Washington,53015,53,15,111539,72932,Urban
+2963,Douglas County,Washington,53017,53,17,43733,80374,Urban
+2964,Ferry County,Washington,53019,53,19,7326,54650,Rural
+2965,Franklin County,Washington,53021,53,21,97676,82755,Urban
+2966,Garfield County,Washington,53023,53,23,2326,62411,Rural
+2967,Grant County,Washington,53025,53,25,100428,71115,Urban
+2968,Grays Harbor County,Washington,53027,53,27,76397,63539,Urban
+2969,Island County,Washington,53029,53,29,86747,88358,Urban
+2970,Jefferson County,Washington,53031,53,31,33313,71143,Urban
+2971,King County,Washington,53033,53,33,2262713,122148,Urban
+2972,Kitsap County,Washington,53035,53,35,276581,98546,Urban
+2973,Kittitas County,Washington,53037,53,37,44736,69928,Urban
+2974,Klickitat County,Washington,53039,53,39,23082,70400,Rural
+2975,Lewis County,Washington,53041,53,41,83925,69690,Urban
+2976,Lincoln County,Washington,53043,53,43,11271,71227,Rural
+2977,Mason County,Washington,53045,53,45,66968,78359,Urban
+2978,Okanogan County,Washington,53047,53,47,42811,60293,Urban
+2979,Pacific County,Washington,53049,53,49,23750,62350,Rural
+2980,Pend Oreille County,Washington,53051,53,51,13811,63750,Rural
+2981,Pierce County,Washington,53053,53,53,924106,96632,Urban
+2982,San Juan County,Washington,53055,53,55,18266,83682,Rural
+2983,Skagit County,Washington,53057,53,57,130407,85474,Urban
+2984,Skamania County,Washington,53059,53,59,12276,90085,Rural
+2985,Snohomish County,Washington,53061,53,61,834648,107982,Urban
+2986,Spokane County,Washington,53063,53,63,544323,73513,Urban
+2987,Stevens County,Washington,53065,53,65,47470,67405,Urban
+2988,Thurston County,Washington,53067,53,67,296640,93985,Urban
+2989,Wahkiakum County,Washington,53069,53,69,4573,57091,Rural
+2990,Walla Walla County,Washington,53071,53,71,62102,72212,Urban
+2991,Whatcom County,Washington,53073,53,73,228432,80989,Urban
+2992,Whitman County,Washington,53075,53,75,47042,52893,Urban
+2993,Yakima County,Washington,53077,53,77,256605,68015,Urban
+2994,Barbour County,West Virginia,54001,54,1,15454,48347,Rural
+2995,Berkeley County,West Virginia,54003,54,3,126165,77329,Urban
+2996,Boone County,West Virginia,54005,54,5,21312,56152,Rural
+2997,Braxton County,West Virginia,54007,54,7,12345,44449,Rural
+2998,Brooke County,West Virginia,54009,54,9,22053,52116,Rural
+2999,Cabell County,West Virginia,54011,54,11,93300,52828,Urban
+3000,Calhoun County,West Virginia,54013,54,13,6158,41421,Rural
+3001,Clay County,West Virginia,54015,54,15,7946,42790,Rural
+3002,Doddridge County,West Virginia,54017,54,17,7767,61164,Rural
+3003,Fayette County,West Virginia,54019,54,19,39987,52672,Urban
+3004,Gilmer County,West Virginia,54021,54,21,7376,50991,Rural
+3005,Grant County,West Virginia,54023,54,23,10972,61530,Rural
+3006,Greenbrier County,West Virginia,54025,54,25,32688,48662,Urban
+3007,Hampshire County,West Virginia,54027,54,27,23340,60299,Rural
+3008,Hancock County,West Virginia,54029,54,29,28658,61017,Urban
+3009,Hardy County,West Virginia,54031,54,31,14236,49302,Rural
+3010,Harrison County,West Virginia,54033,54,33,65407,58326,Urban
+3011,Jackson County,West Virginia,54035,54,35,27753,55671,Urban
+3012,Jefferson County,West Virginia,54037,54,37,58546,95523,Urban
+3013,Kanawha County,West Virginia,54039,54,39,178198,58887,Urban
+3014,Lewis County,West Virginia,54041,54,41,16808,52279,Rural
+3015,Lincoln County,West Virginia,54043,54,43,20170,48593,Rural
+3016,Logan County,West Virginia,54045,54,45,31826,47237,Urban
+3017,McDowell County,West Virginia,54047,54,47,18413,29980,Rural
+3018,Marion County,West Virginia,54049,54,49,56042,67537,Urban
+3019,Marshall County,West Virginia,54051,54,51,30129,60329,Urban
+3020,Mason County,West Virginia,54053,54,53,25214,53454,Rural
+3021,Mercer County,West Virginia,54055,54,55,59062,47799,Urban
+3022,Mineral County,West Virginia,54057,54,57,26922,68049,Urban
+3023,Mingo County,West Virginia,54059,54,59,22979,39527,Rural
+3024,Monongalia County,West Virginia,54061,54,61,106520,62704,Urban
+3025,Monroe County,West Virginia,54063,54,63,12401,54508,Rural
+3026,Morgan County,West Virginia,54065,54,65,17327,63805,Rural
+3027,Nicholas County,West Virginia,54067,54,67,24446,49280,Rural
+3028,Ohio County,West Virginia,54069,54,69,41904,57867,Urban
+3029,Pendleton County,West Virginia,54071,54,71,6111,61738,Rural
+3030,Pleasants County,West Virginia,54073,54,73,7572,61038,Rural
+3031,Pocahontas County,West Virginia,54075,54,75,7855,41200,Rural
+3032,Preston County,West Virginia,54077,54,77,34204,61373,Urban
+3033,Putnam County,West Virginia,54079,54,79,57250,77871,Urban
+3034,Raleigh County,West Virginia,54081,54,81,73666,52055,Urban
+3035,Randolph County,West Virginia,54083,54,83,27782,55057,Urban
+3036,Ritchie County,West Virginia,54085,54,85,8372,50256,Rural
+3037,Roane County,West Virginia,54087,54,87,13921,45194,Rural
+3038,Summers County,West Virginia,54089,54,89,11833,42544,Rural
+3039,Taylor County,West Virginia,54091,54,91,16543,56807,Rural
+3040,Tucker County,West Virginia,54093,54,93,6698,53475,Rural
+3041,Tyler County,West Virginia,54095,54,95,8181,58293,Rural
+3042,Upshur County,West Virginia,54097,54,97,23758,51859,Rural
+3043,Wayne County,West Virginia,54099,54,99,38498,55539,Urban
+3044,Webster County,West Virginia,54101,54,101,8253,42061,Rural
+3045,Wetzel County,West Virginia,54103,54,103,14233,53341,Rural
+3046,Wirt County,West Virginia,54105,54,105,5131,54688,Rural
+3047,Wood County,West Virginia,54107,54,107,83829,56193,Urban
+3048,Wyoming County,West Virginia,54109,54,109,20948,48038,Rural
+3049,Adams County,Wisconsin,55001,55,1,20928,59153,Rural
+3050,Ashland County,Wisconsin,55003,55,3,16050,57645,Rural
+3051,Barron County,Wisconsin,55005,55,5,46741,64619,Urban
+3052,Bayfield County,Wisconsin,55007,55,7,16410,69609,Rural
+3053,Brown County,Wisconsin,55009,55,9,269425,77490,Urban
+3054,Buffalo County,Wisconsin,55011,55,11,13341,68722,Rural
+3055,Burnett County,Wisconsin,55013,55,13,16741,61664,Rural
+3056,Calumet County,Wisconsin,55015,55,15,52626,87700,Urban
+3057,Chippewa County,Wisconsin,55017,55,17,66558,74009,Urban
+3058,Clark County,Wisconsin,55019,55,19,34736,66250,Urban
+3059,Columbia County,Wisconsin,55021,55,21,58322,82792,Urban
+3060,Crawford County,Wisconsin,55023,55,23,16064,63496,Rural
+3061,Dane County,Wisconsin,55025,55,25,564777,88108,Urban
+3062,Dodge County,Wisconsin,55027,55,27,88818,73992,Urban
+3063,Door County,Wisconsin,55029,55,29,30279,71785,Urban
+3064,Douglas County,Wisconsin,55031,55,31,44197,72579,Urban
+3065,Dunn County,Wisconsin,55033,55,33,45349,71785,Urban
+3066,Eau Claire County,Wisconsin,55035,55,35,106328,71834,Urban
+3067,Florence County,Wisconsin,55037,55,37,4617,62786,Rural
+3068,Fond du Lac County,Wisconsin,55039,55,39,104053,73154,Urban
+3069,Forest County,Wisconsin,55041,55,41,9261,59727,Rural
+3070,Grant County,Wisconsin,55043,55,43,51678,64349,Urban
+3071,Green County,Wisconsin,55045,55,45,37036,80248,Urban
+3072,Green Lake County,Wisconsin,55047,55,47,19165,66917,Rural
+3073,Iowa County,Wisconsin,55049,55,49,23832,83372,Rural
+3074,Iron County,Wisconsin,55051,55,51,6164,59058,Rural
+3075,Jackson County,Wisconsin,55053,55,53,20971,65508,Rural
+3076,Jefferson County,Wisconsin,55055,55,55,85867,80604,Urban
+3077,Juneau County,Wisconsin,55057,55,57,26695,65150,Urban
+3078,Kenosha County,Wisconsin,55059,55,59,168413,79412,Urban
+3079,Kewaunee County,Wisconsin,55061,55,61,20621,80085,Rural
+3080,La Crosse County,Wisconsin,55063,55,63,120262,70704,Urban
+3081,Lafayette County,Wisconsin,55065,55,65,16788,72091,Rural
+3082,Langlade County,Wisconsin,55067,55,67,19473,57258,Rural
+3083,Lincoln County,Wisconsin,55069,55,69,28403,67726,Urban
+3084,Manitowoc County,Wisconsin,55071,55,71,81314,68611,Urban
+3085,Marathon County,Wisconsin,55073,55,73,138067,76185,Urban
+3086,Marinette County,Wisconsin,55075,55,75,41907,63401,Urban
+3087,Marquette County,Wisconsin,55077,55,77,15706,63471,Rural
+3088,Menominee County,Wisconsin,55078,55,78,4256,59528,Rural
+3089,Milwaukee County,Wisconsin,55079,55,79,927656,62118,Urban
+3090,Monroe County,Wisconsin,55081,55,81,46169,68213,Urban
+3091,Oconto County,Wisconsin,55083,55,83,39329,75886,Urban
+3092,Oneida County,Wisconsin,55085,55,85,38007,69621,Urban
+3093,Outagamie County,Wisconsin,55087,55,87,191537,82857,Urban
+3094,Ozaukee County,Wisconsin,55089,55,89,92345,96734,Urban
+3095,Pepin County,Wisconsin,55091,55,91,7372,74536,Rural
+3096,Pierce County,Wisconsin,55093,55,93,42351,88802,Urban
+3097,Polk County,Wisconsin,55095,55,95,45327,76208,Urban
+3098,Portage County,Wisconsin,55097,55,97,70375,73284,Urban
+3099,Price County,Wisconsin,55099,55,99,14077,58720,Rural
+3100,Racine County,Wisconsin,55101,55,101,196888,75331,Urban
+3101,Richland County,Wisconsin,55103,55,103,17229,62649,Rural
+3102,Rock County,Wisconsin,55105,55,105,163944,74390,Urban
+3103,Rusk County,Wisconsin,55107,55,107,14146,58322,Rural
+3104,St. Croix County,Wisconsin,55109,55,109,94819,102482,Urban
+3105,Sauk County,Wisconsin,55111,55,111,65759,77648,Urban
+3106,Sawyer County,Wisconsin,55113,55,113,18243,59055,Rural
+3107,Shawano County,Wisconsin,55115,55,115,40927,67032,Urban
+3108,Sheboygan County,Wisconsin,55117,55,117,117783,71898,Urban
+3109,Taylor County,Wisconsin,55119,55,119,19972,63142,Rural
+3110,Trempealeau County,Wisconsin,55121,55,121,30786,71295,Urban
+3111,Vernon County,Wisconsin,55123,55,123,30915,69556,Urban
+3112,Vilas County,Wisconsin,55125,55,125,23410,67132,Rural
+3113,Walworth County,Wisconsin,55127,55,127,105447,77359,Urban
+3114,Washburn County,Wisconsin,55129,55,129,16749,61270,Rural
+3115,Washington County,Wisconsin,55131,55,131,137320,95851,Urban
+3116,Waukesha County,Wisconsin,55133,55,133,409040,104100,Urban
+3117,Waupaca County,Wisconsin,55135,55,135,51714,71189,Urban
+3118,Waushara County,Wisconsin,55137,55,137,24752,64968,Rural
+3119,Winnebago County,Wisconsin,55139,55,139,171357,72873,Urban
+3120,Wood County,Wisconsin,55141,55,141,74039,66417,Urban
+3121,Albany County,Wyoming,56001,56,1,37713,59881,Urban
+3122,Big Horn County,Wyoming,56003,56,3,11737,60547,Rural
+3123,Campbell County,Wyoming,56005,56,5,47018,95253,Urban
+3124,Carbon County,Wyoming,56007,56,7,14549,66721,Rural
+3125,Converse County,Wyoming,56009,56,9,13759,79164,Rural
+3126,Crook County,Wyoming,56011,56,11,7339,71209,Rural
+3127,Fremont County,Wyoming,56013,56,13,39472,64646,Urban
+3128,Goshen County,Wyoming,56015,56,15,12587,64882,Rural
+3129,Hot Springs County,Wyoming,56017,56,17,4618,64375,Rural
+3130,Johnson County,Wyoming,56019,56,19,8602,63905,Rural
+3131,Laramie County,Wyoming,56021,56,21,100661,77884,Urban
+3132,Lincoln County,Wyoming,56023,56,23,20158,86092,Rural
+3133,Natrona County,Wyoming,56025,56,25,79735,71247,Urban
+3134,Niobrara County,Wyoming,56027,56,27,2415,48987,Rural
+3135,Park County,Wyoming,56029,56,29,30109,70533,Urban
+3136,Platte County,Wyoming,56031,56,31,8606,66299,Rural
+3137,Sheridan County,Wyoming,56033,56,33,31585,70855,Urban
+3138,Sublette County,Wyoming,56035,56,35,8806,82791,Rural
+3139,Sweetwater County,Wyoming,56037,56,37,41786,76464,Urban
+3140,Teton County,Wyoming,56039,56,39,23358,112681,Rural
+3141,Uinta County,Wyoming,56041,56,41,20605,82672,Rural
+3142,Washakie County,Wyoming,56043,56,43,7708,62648,Rural
+3143,Weston County,Wyoming,56045,56,45,6835,87545,Rural
