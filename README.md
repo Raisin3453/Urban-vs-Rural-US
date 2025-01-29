@@ -25,4 +25,4 @@ The Python libraries used in this project were:
 
 # Final presentation
 
-[Tableau](https://public.tableau.com/views/TableaudashboardRuralvsUrban/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+YOu can find the visual exploration of the results at [Tableau](https://public.tableau.com/views/TableaudashboardRuralvsUrban/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Note that it only includes the most important parts of the analysis and not all the paths that were explored during it.
